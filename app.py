@@ -681,5 +681,5 @@ with tab_about:
     - `OpenWeatherMap API` — live weather data
     - `geopy` + `Folium` — geocoding and interactive maps
     - `pandas` — data handling
-
+""")
 
