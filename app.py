@@ -36,7 +36,7 @@ st.markdown("""
 
 html, body, [class*="css"] {
     font-family: 'Inter', sans-serif;
-    font-size: 16px;
+    font-size: 14px;
 }
 h1, h2, h3 {
     font-family: 'Space Grotesk', sans-serif;
@@ -86,13 +86,6 @@ section[data-testid="stSidebar"] {
     border-right: 1px solid rgba(255,255,255,0.08);
     backdrop-filter: blur(12px);
 }
-section[data-testid="stSidebar"] * {
-    font-size: 1.02rem !important;
-}
-section[data-testid="stSidebar"] label {
-    font-size: 1.05rem !important;
-    font-weight: 600;
-}
 
 h1, h2, h3, h4, p, label, span, div {
     color: #f5f5fa;
@@ -120,26 +113,26 @@ h1, h2, h3, h4, p, label, span, div {
     filter: blur(20px);
 }
 .hero-title {
-    font-size: 3rem;
+    font-size: 2.3rem;
     font-weight: 700;
-    margin: 10px 0 0 0;
+    margin: 8px 0 0 0;
     background: linear-gradient(90deg, #A78BFA, #60A5FA, #34D399, #A78BFA);
     background-size: 300% auto;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: inline-block;
     animation: shine 6s linear infinite;
-    filter: drop-shadow(0 0 20px rgba(167,139,250,0.4));
+    filter: drop-shadow(0 0 14px rgba(167,139,250,0.35));
 }
 @keyframes shine {
     to { background-position: 300% center; }
 }
 .hero-sub {
-    font-size: 1.05rem;
+    font-size: 0.95rem;
     opacity: 0.85;
     font-weight: 400;
-    max-width: 640px;
-    margin-top: 10px;
+    max-width: 600px;
+    margin-top: 8px;
     line-height: 1.5;
 }
 .pill {
@@ -147,14 +140,14 @@ h1, h2, h3, h4, p, label, span, div {
     background: rgba(167,139,250,0.18);
     border: 1px solid rgba(167,139,250,0.6);
     color: #D8B4FE;
-    padding: 5px 16px;
+    padding: 4px 12px;
     border-radius: 999px;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     font-weight: 700;
-    margin-right: 10px;
-    margin-bottom: 12px;
+    margin-right: 8px;
+    margin-bottom: 10px;
     letter-spacing: 0.3px;
-    box-shadow: 0 0 12px rgba(167,139,250,0.2);
+    box-shadow: 0 0 10px rgba(167,139,250,0.2);
 }
 
 /* Metric cards */
@@ -175,15 +168,15 @@ h1, h2, h3, h4, p, label, span, div {
 }
 .metric-card h2 {
     margin: 0;
-    font-size: 2.2rem;
+    font-size: 1.6rem;
     font-weight: 700;
 }
 .metric-card p {
-    margin: 8px 0 0 0;
+    margin: 6px 0 0 0;
     opacity: 0.7;
-    font-size: 0.85rem;
+    font-size: 0.7rem;
     text-transform: uppercase;
-    letter-spacing: 1.2px;
+    letter-spacing: 1px;
     font-weight: 700;
 }
 
@@ -191,19 +184,19 @@ h1, h2, h3, h4, p, label, span, div {
 .mood-hero {
     background: linear-gradient(135deg, rgba(167,139,250,0.3), rgba(96,165,250,0.2));
     border: 2px solid rgba(167,139,250,0.55);
-    border-radius: 24px;
-    padding: 30px;
+    border-radius: 22px;
+    padding: 22px;
     text-align: center;
     animation: fadeInUp 0.6s ease, pulseGlow 3s ease-in-out infinite;
 }
 .mood-hero h2 {
-    font-size: 2.2rem;
-    margin: 6px 0;
+    font-size: 1.7rem;
+    margin: 4px 0;
     letter-spacing: 1px;
-    filter: drop-shadow(0 0 14px rgba(167,139,250,0.5));
+    filter: drop-shadow(0 0 10px rgba(167,139,250,0.45));
 }
 .mood-hero p {
-    font-size: 0.95rem;
+    font-size: 0.8rem;
     opacity: 0.85;
 }
 @keyframes pulseGlow {
@@ -217,21 +210,21 @@ h1, h2, h3, h4, p, label, span, div {
 
 .section-label {
     display: inline-block;
-    font-size: 0.85rem;
-    letter-spacing: 1.4px;
+    font-size: 0.72rem;
+    letter-spacing: 1.2px;
     text-transform: uppercase;
     opacity: 0.7;
     font-weight: 700;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     color: #D8B4FE;
 }
 
 .search-bar {
     background: rgba(255,255,255,0.06);
     border: 1px solid rgba(167,139,250,0.35);
-    border-radius: 22px;
-    padding: 22px 26px;
-    margin-bottom: 26px;
+    border-radius: 20px;
+    padding: 18px 22px;
+    margin-bottom: 22px;
     backdrop-filter: blur(14px);
 }
 
@@ -239,37 +232,33 @@ h1, h2, h3, h4, p, label, span, div {
     background: rgba(255,255,255,0.04);
     border: 1px dashed rgba(255,255,255,0.2);
     border-radius: 12px;
-    padding: 12px 16px;
-    font-size: 0.9rem;
+    padding: 10px 14px;
+    font-size: 0.8rem;
     opacity: 0.85;
 }
 
 /* Responsive tweaks */
 @media (max-width: 768px) {
-    .hero-title { font-size: 2.1rem; }
-    .hero-banner { padding: 24px 20px; }
-    .metric-card h2 { font-size: 1.7rem; }
+    .hero-title { font-size: 1.7rem; }
+    .hero-banner { padding: 20px 18px; }
+    .metric-card h2 { font-size: 1.3rem; }
 }
 
 /* Tabs */
 button[data-baseweb="tab"] {
     font-family: 'Space Grotesk', sans-serif;
-    font-size: 1rem;
+    font-size: 0.85rem;
     font-weight: 600;
 }
 
 /* Data analysis text */
 [data-testid="stMarkdownContainer"] p, [data-testid="stMarkdownContainer"] li {
-    font-size: 0.98rem;
-    line-height: 1.6;
+    font-size: 0.85rem;
+    line-height: 1.55;
 }
 
-/* Inputs */
-.stTextInput input, .stRadio label {
-    font-size: 0.95rem !important;
-}
+/* Buttons — style only, no forced font-size so it matches normal Streamlit text */
 .stButton button, .stFormSubmitButton button {
-    font-size: 0.98rem !important;
     font-weight: 700;
     border-radius: 14px !important;
     background: linear-gradient(90deg, #8B5CF6, #3B82F6) !important;
@@ -284,6 +273,7 @@ button[data-baseweb="tab"] {
 </style>
 """, unsafe_allow_html=True)
 
+
 # ==============================
 # LOAD MODEL + DATA
 # ==============================
@@ -294,9 +284,11 @@ def load_model_artifacts():
     le_mood = pickle.load(open("mood_encoder.pkl", "rb"))
     return model, le_weather, le_mood
 
+
 @st.cache_data
 def load_dataset():
     return pd.read_csv("final_mood_weather_data.csv")
+
 
 model, le_weather, le_mood = load_model_artifacts()
 df = load_dataset()
@@ -361,6 +353,7 @@ st.sidebar.info(
 
 if not API_KEY:
     st.sidebar.error("No API key found. Add OPENWEATHER_API_KEY to your .env file.")
+
 
 # ==============================
 # HELPER: fetch + predict, with real error surfacing
@@ -468,6 +461,7 @@ def plotly_layout(fig, height=340):
     )
     return fig
 
+
 # ==============================
 # TABS
 # ==============================
@@ -496,7 +490,8 @@ with tab_dashboard:
             col_left, col_right = st.columns([1.1, 1])
 
             with col_left:
-                st.markdown(f'<div class="section-label">Weather in {result["city"].title()}</div>', unsafe_allow_html=True)
+                st.markdown(f'<div class="section-label">Weather in {result["city"].title()}</div>',
+                            unsafe_allow_html=True)
 
                 if result not in st.session_state.history:
                     st.session_state.history.append(result)
@@ -505,13 +500,17 @@ with tab_dashboard:
 
                 m1, m2, m3 = st.columns(3)
                 with m1:
-                    st.markdown(f'<div class="metric-card"><h2>{disp_temp}{unit_label}</h2><p>Temperature</p></div>', unsafe_allow_html=True)
+                    st.markdown(f'<div class="metric-card"><h2>{disp_temp}{unit_label}</h2><p>Temperature</p></div>',
+                                unsafe_allow_html=True)
                 with m2:
-                    st.markdown(f'<div class="metric-card"><h2>{result["humidity"]}%</h2><p>Humidity</p></div>', unsafe_allow_html=True)
+                    st.markdown(f'<div class="metric-card"><h2>{result["humidity"]}%</h2><p>Humidity</p></div>',
+                                unsafe_allow_html=True)
                 with m3:
-                    st.markdown(f'<div class="metric-card"><h2>{result["weather"]}</h2><p>Condition</p></div>', unsafe_allow_html=True)
+                    st.markdown(f'<div class="metric-card"><h2>{result["weather"]}</h2><p>Condition</p></div>',
+                                unsafe_allow_html=True)
 
-                conf_line = f"<p>Predicted mood category — {result['confidence']}% confidence</p>" if result.get("confidence") else "<p>Predicted mood category</p>"
+                conf_line = f"<p>Predicted mood category — {result['confidence']}% confidence</p>" if result.get(
+                    "confidence") else "<p>Predicted mood category</p>"
                 st.markdown(f"""
                 <div class="mood-hero">
                     <h2>{result['mood'].upper()}</h2>
@@ -519,7 +518,8 @@ with tab_dashboard:
                 </div>
                 """, unsafe_allow_html=True)
 
-                st.caption("Prediction is the classifier's most-likely category based on temperature, humidity, and weather condition — treat it as a trend signal, not a precise reading.")
+                st.caption(
+                    "Prediction is the classifier's most-likely category based on temperature, humidity, and weather condition — treat it as a trend signal, not a precise reading.")
 
             with col_right:
                 st.markdown('<div class="section-label">Location</div>', unsafe_allow_html=True)
@@ -529,7 +529,8 @@ with tab_dashboard:
                     lat, lon = coords
                     fmap = folium.Map(location=[lat, lon], zoom_start=10, tiles="CartoDB dark_matter")
                     folium.Marker([lat, lon], popup=result["city"], tooltip=result["mood"]).add_to(fmap)
-                    folium.Circle(radius=3000, location=[lat, lon], color="#A78BFA", fill=True, fill_opacity=0.15).add_to(fmap)
+                    folium.Circle(radius=3000, location=[lat, lon], color="#A78BFA", fill=True,
+                                  fill_opacity=0.15).add_to(fmap)
                     st_folium(fmap, width=None, height=380, use_container_width=True)
                 else:
                     st.warning("Couldn't resolve map coordinates for this city.")
@@ -540,12 +541,12 @@ with tab_dashboard:
             forecast_df = get_forecast_trend_cached(city)
             if forecast_df is not None:
                 fig_trend = px.line(forecast_df, x="date", y="temp", markers=True,
-                                     hover_data=["mood", "humidity"],
-                                     color_discrete_sequence=["#A78BFA"])
+                                    hover_data=["mood", "humidity"],
+                                    color_discrete_sequence=["#A78BFA"])
                 fig_trend.update_traces(line_width=3, marker_size=10)
                 for _, row in forecast_df.iterrows():
                     fig_trend.add_annotation(x=row["date"], y=row["temp"], text=row["mood"],
-                                              showarrow=False, yshift=18, font=dict(size=11, color="#C4B5FD"))
+                                             showarrow=False, yshift=18, font=dict(size=11, color="#C4B5FD"))
                 st.plotly_chart(plotly_layout(fig_trend, 300), use_container_width=True)
             else:
                 st.caption("Forecast trend unavailable for this city right now.")
@@ -553,7 +554,8 @@ with tab_dashboard:
             # Comparison
             if compare_city:
                 st.markdown("---")
-                st.markdown(f'<div class="section-label">Comparing with {compare_city.title()}</div>', unsafe_allow_html=True)
+                st.markdown(f'<div class="section-label">Comparing with {compare_city.title()}</div>',
+                            unsafe_allow_html=True)
 
                 with st.spinner(f"Fetching live weather for {compare_city}..."):
                     result2, error2 = get_weather_and_mood(compare_city)
@@ -590,9 +592,11 @@ with tab_analysis:
     with d1:
         st.markdown(f'<div class="metric-card"><h2>{len(df)}</h2><p>Total Records</p></div>', unsafe_allow_html=True)
     with d2:
-        st.markdown(f'<div class="metric-card"><h2>{df["temp"].mean():.1f}°C</h2><p>Avg Temperature</p></div>', unsafe_allow_html=True)
+        st.markdown(f'<div class="metric-card"><h2>{df["temp"].mean():.1f}°C</h2><p>Avg Temperature</p></div>',
+                    unsafe_allow_html=True)
     with d3:
-        st.markdown(f'<div class="metric-card"><h2>{df["humidity"].mean():.1f}%</h2><p>Avg Humidity</p></div>', unsafe_allow_html=True)
+        st.markdown(f'<div class="metric-card"><h2>{df["humidity"].mean():.1f}%</h2><p>Avg Humidity</p></div>',
+                    unsafe_allow_html=True)
     with d4:
         n_moods = df["mood"].nunique() if "mood" in df.columns else "—"
         st.markdown(f'<div class="metric-card"><h2>{n_moods}</h2><p>Mood Categories</p></div>', unsafe_allow_html=True)
@@ -612,14 +616,14 @@ with tab_analysis:
             mood_counts = df["mood"].value_counts().reset_index()
             mood_counts.columns = ["mood", "count"]
             fig_donut = px.pie(mood_counts, names="mood", values="count", hole=0.55,
-                                color_discrete_sequence=px.colors.sequential.Purples_r)
+                               color_discrete_sequence=px.colors.sequential.Purples_r)
             st.plotly_chart(plotly_layout(fig_donut, 320), use_container_width=True)
 
     st.markdown('<div class="section-label">Temperature vs Humidity</div>', unsafe_allow_html=True)
     color_col = "mood" if "mood" in df.columns else None
     fig_scatter = px.scatter(df, x="temp", y="humidity", color=color_col,
-                              color_discrete_sequence=px.colors.qualitative.Bold,
-                              opacity=0.75)
+                             color_discrete_sequence=px.colors.qualitative.Bold,
+                             opacity=0.75)
     st.plotly_chart(plotly_layout(fig_scatter, 380), use_container_width=True)
 
     st.markdown('<div class="section-label">Key Observations</div>', unsafe_allow_html=True)
@@ -678,4 +682,4 @@ with tab_about:
     - `geopy` + `Folium` — geocoding and interactive maps
     - `pandas` — data handling
 
-""")
+
