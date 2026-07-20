@@ -12,7 +12,6 @@ from streamlit_folium import st_folium
 # ==============================
 # CONFIG
 # ==============================
-# ==============================
 load_dotenv()
 API_KEY = os.getenv("OPENWEATHER_API_KEY")
 if not API_KEY:
@@ -37,7 +36,7 @@ st.markdown("""
 
 html, body, [class*="css"] {
     font-family: 'Inter', sans-serif;
-    font-size: 19px;
+    font-size: 16px;
 }
 h1, h2, h3 {
     font-family: 'Space Grotesk', sans-serif;
@@ -121,41 +120,41 @@ h1, h2, h3, h4, p, label, span, div {
     filter: blur(20px);
 }
 .hero-title {
-    font-size: 4.4rem;
+    font-size: 3rem;
     font-weight: 700;
-    margin: 14px 0 0 0;
+    margin: 10px 0 0 0;
     background: linear-gradient(90deg, #A78BFA, #60A5FA, #34D399, #A78BFA);
     background-size: 300% auto;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: inline-block;
     animation: shine 6s linear infinite;
-    filter: drop-shadow(0 0 30px rgba(167,139,250,0.5));
+    filter: drop-shadow(0 0 20px rgba(167,139,250,0.4));
 }
 @keyframes shine {
     to { background-position: 300% center; }
 }
 .hero-sub {
-    font-size: 1.4rem;
-    opacity: 0.9;
+    font-size: 1.05rem;
+    opacity: 0.85;
     font-weight: 400;
-    max-width: 720px;
-    margin-top: 14px;
-    line-height: 1.55;
+    max-width: 640px;
+    margin-top: 10px;
+    line-height: 1.5;
 }
 .pill {
     display: inline-block;
     background: rgba(167,139,250,0.18);
     border: 1px solid rgba(167,139,250,0.6);
     color: #D8B4FE;
-    padding: 7px 20px;
+    padding: 5px 16px;
     border-radius: 999px;
-    font-size: 0.95rem;
+    font-size: 0.8rem;
     font-weight: 700;
-    margin-right: 12px;
-    margin-bottom: 16px;
-    letter-spacing: 0.4px;
-    box-shadow: 0 0 16px rgba(167,139,250,0.25);
+    margin-right: 10px;
+    margin-bottom: 12px;
+    letter-spacing: 0.3px;
+    box-shadow: 0 0 12px rgba(167,139,250,0.2);
 }
 
 /* Metric cards */
@@ -176,15 +175,15 @@ h1, h2, h3, h4, p, label, span, div {
 }
 .metric-card h2 {
     margin: 0;
-    font-size: 3rem;
+    font-size: 2.2rem;
     font-weight: 700;
 }
 .metric-card p {
-    margin: 10px 0 0 0;
+    margin: 8px 0 0 0;
     opacity: 0.7;
-    font-size: 1.05rem;
+    font-size: 0.85rem;
     text-transform: uppercase;
-    letter-spacing: 1.4px;
+    letter-spacing: 1.2px;
     font-weight: 700;
 }
 
@@ -193,18 +192,18 @@ h1, h2, h3, h4, p, label, span, div {
     background: linear-gradient(135deg, rgba(167,139,250,0.3), rgba(96,165,250,0.2));
     border: 2px solid rgba(167,139,250,0.55);
     border-radius: 24px;
-    padding: 40px;
+    padding: 30px;
     text-align: center;
     animation: fadeInUp 0.6s ease, pulseGlow 3s ease-in-out infinite;
 }
 .mood-hero h2 {
-    font-size: 3.4rem;
+    font-size: 2.2rem;
     margin: 6px 0;
-    letter-spacing: 1.5px;
-    filter: drop-shadow(0 0 20px rgba(167,139,250,0.6));
+    letter-spacing: 1px;
+    filter: drop-shadow(0 0 14px rgba(167,139,250,0.5));
 }
 .mood-hero p {
-    font-size: 1.15rem;
+    font-size: 0.95rem;
     opacity: 0.85;
 }
 @keyframes pulseGlow {
@@ -218,12 +217,12 @@ h1, h2, h3, h4, p, label, span, div {
 
 .section-label {
     display: inline-block;
-    font-size: 1.05rem;
-    letter-spacing: 1.6px;
+    font-size: 0.85rem;
+    letter-spacing: 1.4px;
     text-transform: uppercase;
     opacity: 0.7;
     font-weight: 700;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     color: #D8B4FE;
 }
 
@@ -231,8 +230,8 @@ h1, h2, h3, h4, p, label, span, div {
     background: rgba(255,255,255,0.06);
     border: 1px solid rgba(167,139,250,0.35);
     border-radius: 22px;
-    padding: 26px 30px;
-    margin-bottom: 30px;
+    padding: 22px 26px;
+    margin-bottom: 26px;
     backdrop-filter: blur(14px);
 }
 
@@ -240,42 +239,42 @@ h1, h2, h3, h4, p, label, span, div {
     background: rgba(255,255,255,0.04);
     border: 1px dashed rgba(255,255,255,0.2);
     border-radius: 12px;
-    padding: 14px 18px;
-    font-size: 1rem;
+    padding: 12px 16px;
+    font-size: 0.9rem;
     opacity: 0.85;
 }
 
 /* Responsive tweaks */
 @media (max-width: 768px) {
-    .hero-title { font-size: 2.6rem; }
-    .hero-banner { padding: 28px 24px; }
-    .metric-card h2 { font-size: 2.1rem; }
+    .hero-title { font-size: 2.1rem; }
+    .hero-banner { padding: 24px 20px; }
+    .metric-card h2 { font-size: 1.7rem; }
 }
 
 /* Tabs */
 button[data-baseweb="tab"] {
     font-family: 'Space Grotesk', sans-serif;
-    font-size: 1.25rem;
-    font-weight: 700;
+    font-size: 1rem;
+    font-weight: 600;
 }
 
 /* Data analysis text */
 [data-testid="stMarkdownContainer"] p, [data-testid="stMarkdownContainer"] li {
-    font-size: 1.15rem;
-    line-height: 1.7;
+    font-size: 0.98rem;
+    line-height: 1.6;
 }
 
-/* Inputs bigger */
+/* Inputs */
 .stTextInput input, .stRadio label {
-    font-size: 1.1rem !important;
+    font-size: 0.95rem !important;
 }
 .stButton button, .stFormSubmitButton button {
-    font-size: 1.15rem !important;
+    font-size: 0.98rem !important;
     font-weight: 700;
     border-radius: 14px !important;
     background: linear-gradient(90deg, #8B5CF6, #3B82F6) !important;
     border: none !important;
-    padding: 10px 28px !important;
+    padding: 8px 22px !important;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 .stButton button:hover, .stFormSubmitButton button:hover {
@@ -479,7 +478,7 @@ tab_dashboard, tab_analysis, tab_about = st.tabs(["Live Dashboard", "Data Analys
 # ------------------------------
 with tab_dashboard:
     if not city:
-        st.info("Enter a city to get started.")
+        st.info("Enter a city in the sidebar to get started.")
     elif not API_KEY:
         st.warning("Add your OpenWeather API key to `.env` as `OPENWEATHER_API_KEY` to enable live lookups.")
     else:
@@ -679,5 +678,4 @@ with tab_about:
     - `geopy` + `Folium` — geocoding and interactive maps
     - `pandas` — data handling
 
- 
-    """)
+""")
