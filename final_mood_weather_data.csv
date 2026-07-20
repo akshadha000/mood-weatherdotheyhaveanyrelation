@@ -1,0 +1,998 @@
+date,text,sentiment,mood,clean_text,city,temp,humidity,weather
+2009-06-16 18:18:12,@chrishasboobs AHHH I HOPE YOUR OK!!! ,0,sad, ahhh i hope your ok ,Delhi,34.12,51,Clouds
+2009-04-06 23:11:14,"@misstoriblack cool , i have no tweet apps  for my razr 2",0,sad, cool  i have no tweet apps  for my razr ,Mumbai,27.72,82,Clouds
+2009-06-23 13:40:11,"@TiannaChaos i know  just family drama. its lame.hey next time u hang out with kim n u guys like have a sleepover or whatever, ill call u",0,sad, i know  just family drama its lamehey next time u hang out with kim n u guys like have a sleepover or whatever ill call u,Bangalore,23.83,77,Clouds
+2009-06-01 10:26:07,School email won't open  and I have geography stuff on there to revise! *Stupid School* :'(,0,sad,school email wont open  and i have geography stuff on there to revise stupid school ,Chennai,29.34,81,Clouds
+2009-06-20 12:56:51,upper airways problem ,0,sad,upper airways problem ,Kolkata,28.74,81,Clouds
+2009-06-06 00:32:16,Going to miss Pastor's sermon on Faith... ,0,sad,going to miss pastors sermon on faith ,Hyderabad,23.13,89,Clouds
+2009-05-31 13:10:36,on lunch....dj should come eat with me ,4,happy,on lunchdj should come eat with me ,Pune,24.11,72,Clouds
+2009-06-19 16:11:29,@piginthepoke oh why are you feeling like that? ,0,sad, oh why are you feeling like that ,Ahmedabad,31.42,58,Clouds
+2009-05-11 22:01:32,gahh noo!peyton needs to live!this is horrible ,0,sad,gahh noopeyton needs to livethis is horrible ,Jaipur,34.37,42,Clouds
+2009-05-30 03:39:34,@mrstessyman thank you glad you like it! There is a product review bit on the site  Enjoy knitting it!,4,happy, thank you glad you like it there is a product review bit on the site  enjoy knitting it,Lucknow,29.99,69,Clouds
+2009-06-05 23:59:27,@PerezHilton Zach makes me pee sitting down! And I'm a grown gay man! ,4,happy, zach makes me pee sitting down and im a grown gay man ,Delhi,34.12,51,Clouds
+2009-06-01 08:29:05,to sum up my day in one word ......... kackered! ,4,happy,to sum up my day in one word  kackered ,Mumbai,27.72,82,Clouds
+2009-06-07 16:46:29,@k9wkj Great minds think alike ,4,happy, great minds think alike ,Bangalore,23.83,77,Clouds
+2009-06-17 03:00:02,Is Poorly and in bed! ,0,sad,is poorly and in bed ,Chennai,29.34,81,Clouds
+2009-04-18 14:39:59,"@LilPecan Oh, that's really great  Here we have a small blizzard and also cold wind blows...",4,happy, oh thats really great  here we have a small blizzard and also cold wind blows,Kolkata,28.74,81,Clouds
+2009-05-18 03:32:38,"@wizely lol, calm down.  i got a 30day loan offer for only 1500% ",4,happy, lol calm down  i got a day loan offer for only  ,Hyderabad,23.13,89,Clouds
+2009-06-16 03:39:22,"i'm feeling quite sleepy today, wish i could stay in bed today...but OK! is my LAST YEAR, so let's go to school ",4,happy,im feeling quite sleepy today wish i could stay in bed todaybut ok is my last year so lets go to school ,Pune,24.11,72,Clouds
+2009-05-30 12:06:09,@nadalnews Yeah  Mathieu totally choked in the 3rd set to let Rog win as well. Djokovic played TERRIBLY.  ,0,sad, yeah  mathieu totally choked in the rd set to let rog win as well djokovic played terribly  ,Ahmedabad,31.42,58,Clouds
+2009-06-02 06:20:35,"ugh, morning's off to a rough start ",0,sad,ugh mornings off to a rough start ,Jaipur,34.37,42,Clouds
+2009-06-07 03:36:33,just bit my tongue ,0,sad,just bit my tongue ,Lucknow,29.99,69,Clouds
+2009-06-01 12:09:16,@frandrescher Apparently you dont have time for ur fans!!!!!!!!!! ,0,sad, apparently you dont have time for ur fans ,Delhi,34.12,51,Clouds
+2009-06-06 06:49:41,Whaddup Whaddup Whaddup Whaddup Whaddup  I Got white girl swag from MY HEAD TO MY shOES Whaddup @yungla ,4,happy,whaddup whaddup whaddup whaddup whaddup  i got white girl swag from my head to my shoes whaddup  ,Mumbai,27.72,82,Clouds
+2009-05-28 23:39:25,"@GogDog I'd be willing to pay $40-50 (thus covering the cost of the set) for one of them, but if you've got a counter offer I'll listen. ",4,happy, id be willing to pay  thus covering the cost of the set for one of them but if youve got a counter offer ill listen ,Bangalore,23.83,77,Clouds
+2009-06-16 04:49:51,Working on photos from Hillsong's 1 year celebration!!! stay tuned   www.hillsong.co.za,4,happy,working on photos from hillsongs  year celebration stay tuned   wwwhillsongcoza,Chennai,29.34,81,Clouds
+2009-05-01 23:59:22,"baby's chicken pox are soo bad on the face, I am afraid she might have scars ",0,sad,babys chicken pox are soo bad on the face i am afraid she might have scars ,Kolkata,28.74,81,Clouds
+2009-06-18 16:54:56,i don't feel good ,0,sad,i dont feel good ,Hyderabad,23.13,89,Clouds
+2009-05-29 22:52:37,@edadkins ha ha I want to see pictures from when you were a minister!!!  *boobie flahses*!!!! ,4,happy, ha ha i want to see pictures from when you were a minister  boobie flahses ,Pune,24.11,72,Clouds
+2009-05-29 12:33:09,This day will pass slowly.  All of these days will.  RAWR!!!!  ... ,0,sad,this day will pass slowly  all of these days will  rawr   ,Ahmedabad,31.42,58,Clouds
+2009-06-02 02:43:56,my car is poorly ,0,sad,my car is poorly ,Jaipur,34.37,42,Clouds
+2009-04-19 06:04:37,im turning 18 one week from now  but i don't feel excited  i really don't know why i've seen my friends  they got excited  but on my part,4,happy,im turning  one week from now  but i dont feel excited  i really dont know why ive seen my friends  they got excited  but on my part,Lucknow,29.99,69,Clouds
+2009-05-18 00:18:36,No woooooork tomorrrow&amp;tuesday ,4,happy,no woooooork tomorrrowamptuesday ,Delhi,34.12,51,Clouds
+2009-05-22 00:15:04,Flatmates are still in the bathroom! ARGGH!! ,0,sad,flatmates are still in the bathroom arggh ,Mumbai,27.72,82,Clouds
+2009-06-15 11:29:59,I'm having an allergic reaction to silver earings ,0,sad,im having an allergic reaction to silver earings ,Bangalore,23.83,77,Clouds
+2009-06-01 21:06:49,"@RocDoogie I am, I'll admit...  maybe I'll feel better tomorrow, yo! Down 4 studio time??",0,sad, i am ill admit  maybe ill feel better tomorrow yo down  studio time,Chennai,29.34,81,Clouds
+2009-06-17 19:07:16,"@jasonhooha Going back to sleep is such a great idea, unfortunately I'm already at work notebook-less ",0,sad, going back to sleep is such a great idea unfortunately im already at work notebookless ,Kolkata,28.74,81,Clouds
+2009-06-15 14:57:09,what is with msn making me click the wrong people. garrrrr ,0,sad,what is with msn making me click the wrong people garrrrr ,Hyderabad,23.13,89,Clouds
+2009-05-30 15:09:38,Too full of fizz but not enough cider ,0,sad,too full of fizz but not enough cider ,Pune,24.11,72,Clouds
+2009-06-15 11:01:39,How to Get Your Ex Back (worked for me  http://bit.ly/ec8qJ,4,happy,how to get your ex back worked for me  ,Ahmedabad,31.42,58,Clouds
+2009-06-25 00:37:45,Time to sleep... Long day again tomorrow ,0,sad,time to sleep long day again tomorrow ,Jaipur,34.37,42,Clouds
+2009-06-15 21:53:41,Hahaha blakk is reckkkin it. :p throwwwwwed. ,4,happy,hahaha blakk is reckkkin it p throwwwwwed ,Lucknow,29.99,69,Clouds
+2009-05-31 09:37:27,Cubs game today! My first ever ,4,happy,cubs game today my first ever ,Delhi,34.12,51,Clouds
+2009-06-07 05:09:02,@SuzySpaatz ~ hi! sounds like you're feeling a bit better...that's great! you have a great day! ,4,happy,  hi sounds like youre feeling a bit betterthats great you have a great day ,Mumbai,27.72,82,Clouds
+2009-05-10 00:31:36,@foprof LOL.  Leave a kid on internet and the kid will do stupid things.,4,happy, lol  leave a kid on internet and the kid will do stupid things,Bangalore,23.83,77,Clouds
+2009-06-02 23:23:28,eating cha with eric ,4,happy,eating cha with eric ,Chennai,29.34,81,Clouds
+2009-06-02 21:30:06,"@StarJonesEsq On a good note, we DID meet at Marty Richards RED BALL a few years ago, you were so sweet to me I'll never forget it ",4,happy, on a good note we did meet at marty richards red ball a few years ago you were so sweet to me ill never forget it ,Kolkata,28.74,81,Clouds
+2009-06-18 07:01:32,My hands are officially tied. I don't think I'll have time for anything anymore  This includes the California meet ,0,sad,my hands are officially tied i dont think ill have time for anything anymore  this includes the california meet ,Hyderabad,23.13,89,Clouds
+2009-05-11 21:43:17,"@Konstantine I said &quot;scar,&quot; sweetie. ",4,happy, i said quotscarquot sweetie ,Pune,24.11,72,Clouds
+2009-05-22 02:19:37,@CamilleJ it was supposed to go live on tv but it didn't happened in the end  that would have been cool being on the bbc...,0,sad, it was supposed to go live on tv but it didnt happened in the end  that would have been cool being on the bbc,Ahmedabad,31.42,58,Clouds
+2009-05-17 10:49:45,FCK-Brï¿½ndby 4-0! ,4,happy,fckbrndby  ,Jaipur,34.37,42,Clouds
+2009-06-18 12:32:19,@team_allen jealous!  I'm yet to find a local chinese i'm satisfied with ,0,sad, jealous  im yet to find a local chinese im satisfied with ,Lucknow,29.99,69,Clouds
+2009-06-05 18:45:48,@BayAreaCheap there r a few of us local yocals around  happy to find u on twitter 2day,4,happy, there r a few of us local yocals around  happy to find u on twitter day,Delhi,34.12,51,Clouds
+2009-06-06 20:16:58,"just back from SuperCheap - a most successful trip. The bikes are tanked &amp; checked for the week, so all ready to start relaxing ",4,happy,just back from supercheap  a most successful trip the bikes are tanked amp checked for the week so all ready to start relaxing ,Mumbai,27.72,82,Clouds
+2009-05-14 00:59:39,@ElleChanel want to shoot...but i'm not in charlotte .. ,0,sad, want to shootbut im not in charlotte  ,Bangalore,23.83,77,Clouds
+2009-06-16 02:44:54,@sephrenia1982 good work ,4,happy, good work ,Chennai,29.34,81,Clouds
+2009-05-29 17:49:21,@KingdomGuard welcome new cd out this week...maybe even tomorrow! ,4,happy, welcome new cd out this weekmaybe even tomorrow ,Kolkata,28.74,81,Clouds
+2009-06-23 16:46:11,@CatholicChicks hate bein on the phone that long ,0,sad, hate bein on the phone that long ,Hyderabad,23.13,89,Clouds
+2009-05-29 15:36:25,"If anyone wanted to attend TEDMED but can't make the date, I'll happily take your place, and will live-blog it for you too ",4,happy,if anyone wanted to attend tedmed but cant make the date ill happily take your place and will liveblog it for you too ,Pune,24.11,72,Clouds
+2009-05-18 03:42:25,@melbgirl It means the same to us!  #GoCats,4,happy, it means the same to us  ,Ahmedabad,31.42,58,Clouds
+2009-05-31 11:55:25,"beach this morning,bbq this afternoon. Back to school/work 2morro ",0,sad,beach this morningbbq this afternoon back to schoolwork morro ,Jaipur,34.37,42,Clouds
+2009-05-10 06:13:32,@joshlam and you are how old?? REALLY?!? ,4,happy, and you are how old really ,Lucknow,29.99,69,Clouds
+2009-06-17 02:55:54,@bing siteowner custom search box fail... &quot;market&quot;:&quot;en-AU&quot; does nothing - it still targets US search   should be &quot;only from australia&quot;??,0,sad, siteowner custom search box fail quotmarketquotquotenauquot does nothing  it still targets us search   should be quotonly from australiaquot,Delhi,34.12,51,Clouds
+2009-06-06 16:30:39,Watched Crank 2.... awesome ,4,happy,watched crank  awesome ,Mumbai,27.72,82,Clouds
+2009-06-06 21:55:04,Night in with the rock star...  ,4,happy,night in with the rock star  ,Bangalore,23.83,77,Clouds
+2009-05-30 07:02:50,@BATYASMUSIC Don't really have a reason.. haha sounds stupid. I'll be 14 ,4,happy, dont really have a reason haha sounds stupid ill be  ,Chennai,29.34,81,Clouds
+2009-05-09 20:00:55,first night in myers. just not the same w/out lydia!  but i'm actually excited about this summer! ,4,happy,first night in myers just not the same wout lydia  but im actually excited about this summer ,Kolkata,28.74,81,Clouds
+2009-06-23 11:31:48,"my tooth is sving, and I cannot see my dentist for a week ",0,sad,my tooth is sving and i cannot see my dentist for a week ,Hyderabad,23.13,89,Clouds
+2009-05-31 01:08:05,cant sleep got heartburn really bad ,0,sad,cant sleep got heartburn really bad ,Pune,24.11,72,Clouds
+2009-06-06 03:32:13,Off to Whipsnade  Hope it's dry,4,happy,off to whipsnade  hope its dry,Ahmedabad,31.42,58,Clouds
+2009-06-16 21:44:13,Going To Bed ...My Ankle Hurts ,0,sad,going to bed my ankle hurts ,Jaipur,34.37,42,Clouds
+2009-06-07 17:37:10,hates the fact she scanned the wrong passage in all those commentaries she was going to use for her essay ,0,sad,hates the fact she scanned the wrong passage in all those commentaries she was going to use for her essay ,Lucknow,29.99,69,Clouds
+2009-06-03 00:02:11,I shame the name of female  lol Alright. Shower then sleep then get up in like 5 hours.,0,sad,i shame the name of female  lol alright shower then sleep then get up in like  hours,Delhi,34.12,51,Clouds
+2009-06-03 05:00:24,"@disil429 Fine. Kinders coughing again, so not a lot of sleep. Weather's good, though, that's the main thing ",4,happy, fine kinders coughing again so not a lot of sleep weathers good though thats the main thing ,Mumbai,27.72,82,Clouds
+2009-05-17 11:37:05,Listening to the Nutcracker.  Who says it's only a Christmas thing?! ,4,happy,listening to the nutcracker  who says its only a christmas thing ,Bangalore,23.83,77,Clouds
+2009-05-10 09:39:21,"i miss him, i cant wait to see him, im happy ",4,happy,i miss him i cant wait to see him im happy ,Chennai,29.34,81,Clouds
+2009-06-05 17:41:34,@tristanwilds are you missing me? i'm missing my tuesday nights of 90210 ,0,sad, are you missing me im missing my tuesday nights of  ,Kolkata,28.74,81,Clouds
+2009-06-07 19:27:50,"@mithss mourniiiiiiing eh, morniiing!!! ",4,happy, mourniiiiiiing eh morniiing ,Hyderabad,23.13,89,Clouds
+2009-04-21 01:51:27,@pamelaong Glad the blog helped ,4,happy, glad the blog helped ,Pune,24.11,72,Clouds
+2009-05-16 23:30:02,Awesome pumpkin! Your famous ,4,happy,awesome pumpkin your famous ,Ahmedabad,31.42,58,Clouds
+2009-06-06 21:58:48,"@ScarlettHarlott Sadly , I've never seen a single episode. I know , I'm fired , right? ",0,sad, sadly  ive never seen a single episode i know  im fired  right ,Jaipur,34.37,42,Clouds
+2009-05-29 01:19:53,@LucasGo Haha. I will! o.O Hows you?  Long time no @ reply.,4,happy, haha i will oo hows you  long time no  reply,Lucknow,29.99,69,Clouds
+2009-04-06 22:35:40,"@PaulaAbdul awww, Good luck Paula!! Please don't work too hard  but I hope you have fun  Your new album is gonna be amazing!  xxx",0,sad, awww good luck paula please dont work too hard  but i hope you have fun  your new album is gonna be amazing  xxx,Delhi,34.12,51,Clouds
+2009-06-16 08:34:51,Seattle PRIDE will be June 28th at 11am.  Come out and support your community! March with the marriage equality contingent! ,4,happy,seattle pride will be june th at am  come out and support your community march with the marriage equality contingent ,Mumbai,27.72,82,Clouds
+2009-05-29 15:54:31,"@Lujee seriosuly, the second one &quot;since I'm already a mid. class dude and would work for food&quot; ",4,happy, seriosuly the second one quotsince im already a mid class dude and would work for foodquot ,Bangalore,23.83,77,Clouds
+2009-06-14 23:24:06,at school...listining to die Ãrzte - Westerland...great song really..btw i'm so tired...i sleeped between 02:30 and 05:30..thats bad ,0,sad,at schoollistining to die rzte  westerlandgreat song reallybtw im so tiredi sleeped between  and thats bad ,Chennai,29.34,81,Clouds
+2009-05-18 08:07:33,I am so hungry  I hate not eating breakfast!,0,sad,i am so hungry  i hate not eating breakfast,Kolkata,28.74,81,Clouds
+2009-06-17 20:29:42,ewww if i work at fazoli's i have to year a viser...and ugly shoes...and a pony tail...and no nail polish ,0,sad,ewww if i work at fazolis i have to year a viserand ugly shoesand a pony tailand no nail polish ,Hyderabad,23.13,89,Clouds
+2009-06-06 01:09:42,@ZippyC NO. IT'S FULL OF WIN AND I LUV IT. &lt;3 I've been meaning to catch up to where it's at now for ages. NOW I HAVE. ,4,happy, no its full of win and i luv it lt ive been meaning to catch up to where its at now for ages now i have ,Pune,24.11,72,Clouds
+2009-05-30 07:55:49,Oft. As finished as I can be. Can I relax and be on holiday now? I think I've missed the acceptable slot for lunch. ,0,sad,oft as finished as i can be can i relax and be on holiday now i think ive missed the acceptable slot for lunch ,Ahmedabad,31.42,58,Clouds
+2009-05-29 19:42:58,@ItsNeet 100%.. its like getting an A for all your classes.. ,4,happy,  its like getting an a for all your classes ,Jaipur,34.37,42,Clouds
+2009-05-18 07:09:24,"@seblefebvre Hi Seb! I'm a spanish fan of you.I'm addicted to SP and I think it's the best band in the world!please, come to spain early ",4,happy, hi seb im a spanish fan of youim addicted to sp and i think its the best band in the worldplease come to spain early ,Lucknow,29.99,69,Clouds
+2009-05-30 12:41:07,Home from soccer. It's so hot out there today. We have retreated to the coolness of the basement. ,4,happy,home from soccer its so hot out there today we have retreated to the coolness of the basement ,Delhi,34.12,51,Clouds
+2009-06-01 04:49:53,i have find my someone ,4,happy,i have find my someone ,Mumbai,27.72,82,Clouds
+2009-06-07 14:14:58,@marqueshouston We are the &quot;Fugazi Patrol&quot; &amp; our motto is &quot;If u see a clown point em out&quot; please let everyone know about us ,4,happy, we are the quotfugazi patrolquot amp our motto is quotif u see a clown point em outquot please let everyone know about us ,Bangalore,23.83,77,Clouds
+2009-06-02 00:54:35,it is ginormous... Haha well i  feel wierd talking about myy ziiiit  ta ta  good nightt,4,happy,it is ginormous haha well i  feel wierd talking about myy ziiiit  ta ta  good nightt,Chennai,29.34,81,Clouds
+2009-06-07 17:59:14,I'm obsessed with twitting  haha,4,happy,im obsessed with twitting  haha,Kolkata,28.74,81,Clouds
+2009-05-04 04:28:34,One interlock down one to go ,4,happy,one interlock down one to go ,Hyderabad,23.13,89,Clouds
+2009-06-18 19:22:16,"ugh...summer colds are the worst, esp when you have a fever on top of this ridic humidity ",0,sad,ughsummer colds are the worst esp when you have a fever on top of this ridic humidity ,Pune,24.11,72,Clouds
+2009-06-07 14:45:03,I miss Zack so much these days ,0,sad,i miss zack so much these days ,Ahmedabad,31.42,58,Clouds
+2009-06-05 20:58:42,@dbferguson I'm using an Asus. Forget which one at the moment since I don't have it near me.But my complaints are similar to yours. ,0,sad, im using an asus forget which one at the moment since i dont have it near mebut my complaints are similar to yours ,Jaipur,34.37,42,Clouds
+2009-06-01 23:30:45,"@powersurf OH I've Got a case. I designed it. Someone idiot stole it and I can prove it. If they want to play hardball,I'm game. ",4,happy, oh ive got a case i designed it someone idiot stole it and i can prove it if they want to play hardballim game ,Lucknow,29.99,69,Clouds
+2009-05-29 01:05:16,my thumb hurts after breaking the nail.... ,0,sad,my thumb hurts after breaking the nail ,Delhi,34.12,51,Clouds
+2009-06-02 01:37:00,"@amymacdonald1 Congrats on the 4x platinum  It's a fantastic album, one of my favs",4,happy, congrats on the x platinum  its a fantastic album one of my favs,Mumbai,27.72,82,Clouds
+2009-05-31 04:48:37,"@JosephFrost Yeahh, that would be pretty awesome. ",4,happy, yeahh that would be pretty awesome ,Bangalore,23.83,77,Clouds
+2009-05-18 05:11:04,@benlizzotte so i think you should work for the discovery channel b/c then it would be media AND sharks! ,4,happy, so i think you should work for the discovery channel bc then it would be media and sharks ,Chennai,29.34,81,Clouds
+2009-04-19 06:32:32,"@paddyrules home is mums house lol hm maddens could be a plan, am actually stone cold broke atm tho not even sure i could afford door fee ",0,sad, home is mums house lol hm maddens could be a plan am actually stone cold broke atm tho not even sure i could afford door fee ,Kolkata,28.74,81,Clouds
+2009-06-18 16:12:13,@MandyyJirouxx that page doesn't exist ,0,sad, that page doesnt exist ,Hyderabad,23.13,89,Clouds
+2009-05-29 16:48:18,fighting a cold. ,0,sad,fighting a cold ,Pune,24.11,72,Clouds
+2009-06-06 14:32:59,@greeleyalex  aw im jealous! I miss home. I wish I could be home in CG right now! Watching spanish tv with my Gparents,0,sad,  aw im jealous i miss home i wish i could be home in cg right now watching spanish tv with my gparents,Ahmedabad,31.42,58,Clouds
+2009-06-06 21:26:57,@aleshacal my phone is dying  no charger here!,0,sad, my phone is dying  no charger here,Jaipur,34.37,42,Clouds
+2009-05-03 08:15:50,@mileycyrus Green Day new cd on the 15th and you on the 16th. woo!! ,4,happy, green day new cd on the th and you on the th woo ,Lucknow,29.99,69,Clouds
+2009-06-05 17:20:38,my tv always freezes while i'm watching inbetweeners ,0,sad,my tv always freezes while im watching inbetweeners ,Delhi,34.12,51,Clouds
+2009-05-17 23:09:44,@softjunebreeze Ex-factor.... Me too ,0,sad, exfactor me too ,Mumbai,27.72,82,Clouds
+2009-04-19 08:34:08, Back to school on Monday...Well I did get an iPod Touch. @shmuxel + @randomized180 See yah tomorrow then I guess ,0,sad, back to school on mondaywell i did get an ipod touch    see yah tomorrow then i guess ,Bangalore,23.83,77,Clouds
+2009-06-17 16:24:30,@LisaAnneWest i missed it  have to catch up on sunday ohh ye so  fancy ldn on sunday? xoxo,0,sad, i missed it  have to catch up on sunday ohh ye so  fancy ldn on sunday xoxo,Chennai,29.34,81,Clouds
+2009-06-15 16:58:43,tried to check out your site @poeticmindset ... not working ,0,sad,tried to check out your site   not working ,Kolkata,28.74,81,Clouds
+2009-06-04 22:35:04,Watching Wayne Dyer's new program on PBS &quot;Excuses Begone!&quot;. Lower mainlanders can check it out on ch. 27 or 204 on Shaw! Peace ,4,happy,watching wayne dyers new program on pbs quotexcuses begonequot lower mainlanders can check it out on ch  or  on shaw peace ,Hyderabad,23.13,89,Clouds
+2009-06-07 21:02:16,pimples attack! Arghhhhhhhhh ,0,sad,pimples attack arghhhhhhhhh ,Pune,24.11,72,Clouds
+2009-06-20 20:32:07,"has to pack, stillll. and doesn't want to.. ",0,sad,has to pack stillll and doesnt want to ,Ahmedabad,31.42,58,Clouds
+2009-06-06 18:54:23,@snikkins How dare you get some before I have a chance to. You're no longer my friend ,0,sad, how dare you get some before i have a chance to youre no longer my friend ,Jaipur,34.37,42,Clouds
+2009-05-29 10:54:56,"Can't stop listening to the clips of @Jonasbrothers new album Lines, Vines and Trying Times its so amazing can't wait for the whole thing ",4,happy,cant stop listening to the clips of  new album lines vines and trying times its so amazing cant wait for the whole thing ,Lucknow,29.99,69,Clouds
+2009-06-18 11:59:03,about to pour in orlando ,0,sad,about to pour in orlando ,Delhi,34.12,51,Clouds
+2009-05-30 05:17:50,"@carriecruz I know! I don't think they air it on any of the cable channels anymore, but you can download them from the net ",4,happy, i know i dont think they air it on any of the cable channels anymore but you can download them from the net ,Mumbai,27.72,82,Clouds
+2009-06-07 17:53:02,@AprAnaya  you will !   check the website so you can have an idea as to what product u want to try . I will sent u the email tomorrow ,4,happy,  you will    check the website so you can have an idea as to what product u want to try  i will sent u the email tomorrow ,Bangalore,23.83,77,Clouds
+2009-06-15 14:05:40,@annieomnious    can it be fixed?  can we make a new simple one mayb?,0,sad,    can it be fixed  can we make a new simple one mayb,Chennai,29.34,81,Clouds
+2009-06-15 15:55:35,blÃ¤Ã¤ i have a headache ,0,sad,bl i have a headache ,Kolkata,28.74,81,Clouds
+2009-06-02 22:26:54,Has just joined Twitter.. It better be good! ,4,happy,has just joined twitter it better be good ,Hyderabad,23.13,89,Clouds
+2009-06-07 10:19:20,Where in Singapore do they sell Dujour? ,0,sad,where in singapore do they sell dujour ,Pune,24.11,72,Clouds
+2009-06-16 12:28:43,"#iranelection The &quot;yellow Press&quot; is alive and well in the 21st century, how quickly we forget the USS Maine ",0,sad, the quotyellow pressquot is alive and well in the st century how quickly we forget the uss maine ,Ahmedabad,31.42,58,Clouds
+2009-06-15 22:27:48,haven't been on all day  went to bed late last night!,0,sad,havent been on all day  went to bed late last night,Jaipur,34.37,42,Clouds
+2009-06-07 09:39:23,"where's all the rain we were supposed to have today? not complaining tho, it's lovely &amp; bright. very happy making ",4,happy,wheres all the rain we were supposed to have today not complaining tho its lovely amp bright very happy making ,Lucknow,29.99,69,Clouds
+2009-05-14 03:27:13,"@claire_stokoe thank you, it only took me two minutes, thankfully the style of envirowise.gov.uk was already there for the taking ",4,happy, thank you it only took me two minutes thankfully the style of envirowisegovuk was already there for the taking ,Delhi,34.12,51,Clouds
+2009-05-17 23:15:06,ps: i think twitter sucks if you dont have free unlimited texts. ,0,sad,ps i think twitter sucks if you dont have free unlimited texts ,Mumbai,27.72,82,Clouds
+2009-06-15 08:48:42,"@xDorkyStacy Ha! THAT SOUNDS SO WRONG STACY! lmao  i love you. and when I take one, I'll think of you too. haha, and on youtube. ",4,happy, ha that sounds so wrong stacy lmao  i love you and when i take one ill think of you too haha and on youtube ,Bangalore,23.83,77,Clouds
+2009-06-03 05:10:09,@gwyn007 @waz7710    no no really its ok! u try em out and then u can see which works and doesnt  by that time its to late,4,happy,     no no really its ok u try em out and then u can see which works and doesnt  by that time its to late,Chennai,29.34,81,Clouds
+2009-06-21 07:19:34,Who else misses Parade the day incredibly much.. ,0,sad,who else misses parade the day incredibly much ,Kolkata,28.74,81,Clouds
+2009-06-03 07:31:07,I was caller number one. ,0,sad,i was caller number one ,Hyderabad,23.13,89,Clouds
+2009-06-01 22:23:18,@StewartWade ditto!! Goodnight &amp; rest well!! Go play the lottery! I bought a ticket when I was n FL last week but no luck! ,0,sad, ditto goodnight amp rest well go play the lottery i bought a ticket when i was n fl last week but no luck ,Pune,24.11,72,Clouds
+2009-06-01 23:50:48,"Mornin every1! Hope all is well I'm your worlds. I'm not sure why I'm at work at 7:45 this mornin, but I guess Its not all bad ",4,happy,mornin every hope all is well im your worlds im not sure why im at work at  this mornin but i guess its not all bad ,Ahmedabad,31.42,58,Clouds
+2009-06-03 06:42:31,should be going out but wants to stay put to participate in @RichardWiseman experiment - might have to do it by txt. (no photo part) ,0,sad,should be going out but wants to stay put to participate in  experiment  might have to do it by txt no photo part ,Jaipur,34.37,42,Clouds
+2009-04-19 23:02:39,"If you can take criticism and blame without resentment, YOU'RE PROBABLY THE FAMILY DOG  see... http://jijr.com/hitZ cheers, Lou-ann",4,happy,if you can take criticism and blame without resentment youre probably the family dog  see  cheers louann,Lucknow,29.99,69,Clouds
+2009-05-04 06:22:24,"@TeeMonster Sorry, I know I'm late responding (15hrs  timezone troubles) but I think you would need to load Audacity to your compy",0,sad, sorry i know im late responding hrs  timezone troubles but i think you would need to load audacity to your compy,Delhi,34.12,51,Clouds
+2009-06-01 23:59:30,History exam today and dreading it ,0,sad,history exam today and dreading it ,Mumbai,27.72,82,Clouds
+2009-06-16 19:28:23,After seeing mr. benningfield tonight it really made me start to miss my vand family like hXc  i love you band geeks! &lt;3,0,sad,after seeing mr benningfield tonight it really made me start to miss my vand family like hxc  i love you band geeks lt,Bangalore,23.83,77,Clouds
+2009-06-07 01:33:35,Just downloaded a new Twitter app for my phone. So much better already. ,4,happy,just downloaded a new twitter app for my phone so much better already ,Chennai,29.34,81,Clouds
+2009-06-07 09:02:01,I seem to be making a habbit out of not falling asleep until very late ,0,sad,i seem to be making a habbit out of not falling asleep until very late ,Kolkata,28.74,81,Clouds
+2009-06-04 11:23:45,There was a steady stream at my polling station mostly old folks surely they wouldn't vote for the fascists ... Are people that stupid? ,0,sad,there was a steady stream at my polling station mostly old folks surely they wouldnt vote for the fascists  are people that stupid ,Hyderabad,23.13,89,Clouds
+2009-06-20 18:08:50,Missionaries had passport problems. Still havn't arrived  ya'll pray!,0,sad,missionaries had passport problems still havnt arrived  yall pray,Pune,24.11,72,Clouds
+2009-05-02 23:39:51,had a very good night ,4,happy,had a very good night ,Ahmedabad,31.42,58,Clouds
+2009-05-31 11:03:41,"Enjoying the morning just hanging out with Juliet in Victoria. She doesn't know it yet, but I'm taking her to see Il Divo tonight  #fb",4,happy,enjoying the morning just hanging out with juliet in victoria she doesnt know it yet but im taking her to see il divo tonight  ,Jaipur,34.37,42,Clouds
+2009-05-03 04:06:50,Off to the Miss Bikini Philippines pageant. Thanks to @veggiecircle for the ticket! ,4,happy,off to the miss bikini philippines pageant thanks to  for the ticket ,Lucknow,29.99,69,Clouds
+2009-06-07 05:56:58,i'm going global .. ,4,happy,im going global  ,Delhi,34.12,51,Clouds
+2009-06-06 12:53:31,They are gone .. ,0,sad,they are gone  ,Mumbai,27.72,82,Clouds
+2009-05-22 04:18:16,Friends with scott again ,4,happy,friends with scott again ,Bangalore,23.83,77,Clouds
+2009-05-29 14:22:19,I think that my lovely brother @ScottyHolloway should take me and his lovely sister @Ho11y to Old Town for some dinn dinn &amp; margaritas ,4,happy,i think that my lovely brother  should take me and his lovely sister  to old town for some dinn dinn amp margaritas ,Chennai,29.34,81,Clouds
+2009-06-04 08:50:08,Roast in the cooker and cakes in the oven soon.  Good morning!  Hope everyone is well today ,4,happy,roast in the cooker and cakes in the oven soon  good morning  hope everyone is well today ,Kolkata,28.74,81,Clouds
+2009-06-19 16:11:47,Wooo I picked my sister and I miss the empty house. ,0,sad,wooo i picked my sister and i miss the empty house ,Hyderabad,23.13,89,Clouds
+2009-04-18 15:45:29,@aleahhh season is almost done with babe ,0,sad, season is almost done with babe ,Pune,24.11,72,Clouds
+2009-06-06 22:33:37,off to work    byeee xox,0,sad,off to work    byeee xox,Ahmedabad,31.42,58,Clouds
+2009-05-30 13:57:15,@alexandramusic Diversity won! damnn i wanted flawless to win ,0,sad, diversity won damnn i wanted flawless to win ,Jaipur,34.37,42,Clouds
+2009-06-19 23:23:39,printin stuff for my aunt. dont ask y its so late. i forgot 2 do it earlier. ,0,sad,printin stuff for my aunt dont ask y its so late i forgot  do it earlier ,Lucknow,29.99,69,Clouds
+2009-05-03 00:03:03, can some one pleease tell me how to work out the total surface area of a square pyramid? ,0,sad, can some one pleease tell me how to work out the total surface area of a square pyramid ,Delhi,34.12,51,Clouds
+2009-06-15 20:51:04,@DENISE_RICHARDS love your hair  dont ever cut ur locks ,4,happy, love your hair  dont ever cut ur locks ,Mumbai,27.72,82,Clouds
+2009-05-30 02:57:26,@okse *Phew* Hate to think you and Colin had fallen out! Glad he's smiling for you. Hip Hip Hip Hooray!! ,4,happy, phew hate to think you and colin had fallen out glad hes smiling for you hip hip hip hooray ,Bangalore,23.83,77,Clouds
+2009-06-01 08:32:57,@Dee_Dee_3 high low ,4,happy, high low ,Chennai,29.34,81,Clouds
+2009-06-15 13:17:33,"And the motivation came!  yay! Not finished yet, but well on my way!  Gonna go finish it. xx",4,happy,and the motivation came  yay not finished yet but well on my way  gonna go finish it xx,Kolkata,28.74,81,Clouds
+2009-05-22 05:26:16,Still cant get Jonas Bros tickets..dreading facing my niece later on ( I can see the tantrum now). Hope they put on another gig in Dublin ,0,sad,still cant get jonas bros ticketsdreading facing my niece later on  i can see the tantrum now hope they put on another gig in dublin ,Hyderabad,23.13,89,Clouds
+2009-05-29 10:00:12,"I though the clothes of AW0910 Collection from +9 designers will be there, together with the visual arts, but it is not ",0,sad,i though the clothes of aw collection from  designers will be there together with the visual arts but it is not ,Pune,24.11,72,Clouds
+2009-06-07 18:00:54,On schedule now to soft launch tomorrow evening - already have first customer - lost cat ,4,happy,on schedule now to soft launch tomorrow evening  already have first customer  lost cat ,Ahmedabad,31.42,58,Clouds
+2009-06-02 04:37:35,&quot;Thank You [Lord] for reminding me to see myself the way You see me!&quot; ,4,happy,quotthank you lord for reminding me to see myself the way you see mequot ,Jaipur,34.37,42,Clouds
+2009-06-07 07:50:01,@CharlieeSimpson I Was Looking at an Old Poster From Busted The Other Day  You Had Really Short Hair And Everythng   Young Ta Old ,4,happy, i was looking at an old poster from busted the other day  you had really short hair and everythng   young ta old ,Lucknow,29.99,69,Clouds
+2009-06-20 09:23:40,"Ugh, so bored today! ",0,sad,ugh so bored today ,Delhi,34.12,51,Clouds
+2009-06-06 19:54:45,home from a long day of work. i wore heels from 11am to 7pm. i must be crazy!! came right home to soak the feets. lol who wana rub em? ,4,happy,home from a long day of work i wore heels from am to pm i must be crazy came right home to soak the feets lol who wana rub em ,Mumbai,27.72,82,Clouds
+2009-06-20 07:06:51,Still at work  This entire week has felt like an extremely long and awful Monday!,0,sad,still at work  this entire week has felt like an extremely long and awful monday,Bangalore,23.83,77,Clouds
+2009-06-18 06:42:26,Upgraded iPhone to 3.0 but seem to have weaker link to tamu wireless ,0,sad,upgraded iphone to  but seem to have weaker link to tamu wireless ,Chennai,29.34,81,Clouds
+2009-06-02 03:01:26,morning twitterland...off to work i go ,0,sad,morning twitterlandoff to work i go ,Kolkata,28.74,81,Clouds
+2009-05-30 10:54:29,@Debbiebarnhill I'm such a plantaholic.... I spent several thousand $s the last few years planting at my brothers lake cabin - he sold it ,0,sad, im such a plantaholic i spent several thousand s the last few years planting at my brothers lake cabin  he sold it ,Hyderabad,23.13,89,Clouds
+2009-05-14 02:27:16,Trying to learn some &quot;PHOTOGRAPHY&quot; ,4,happy,trying to learn some quotphotographyquot ,Pune,24.11,72,Clouds
+2009-05-29 19:55:25,@KrisAllenmusic I'll be sure to vote for you in that competition.  A star with your name on it would go well with your Idol Trophy!,4,happy, ill be sure to vote for you in that competition  a star with your name on it would go well with your idol trophy,Ahmedabad,31.42,58,Clouds
+2009-06-07 03:53:27,already miss baby donkey ,0,sad,already miss baby donkey ,Jaipur,34.37,42,Clouds
+2009-06-17 05:53:33,@kpsomotragos I have it on good authority that we'll be getting it around 3am. ,0,sad, i have it on good authority that well be getting it around am ,Lucknow,29.99,69,Clouds
+2009-06-22 16:06:16,Just heard gun shots in my neighborhood!!! ,0,sad,just heard gun shots in my neighborhood ,Delhi,34.12,51,Clouds
+2009-05-29 01:24:58,Just watched hella home movies with my aunt and uncle. I miss the days where our whole family got along ,0,sad,just watched hella home movies with my aunt and uncle i miss the days where our whole family got along ,Mumbai,27.72,82,Clouds
+2009-06-20 15:10:31,I am sooo tired!! My eyes literally can't stay open ,0,sad,i am sooo tired my eyes literally cant stay open ,Bangalore,23.83,77,Clouds
+2009-05-18 00:08:01,I hate word challenge on facebook! ,0,sad,i hate word challenge on facebook ,Chennai,29.34,81,Clouds
+2009-05-30 22:51:18,is sad she couldn't go out with her girls tonight  It's been too long....,0,sad,is sad she couldnt go out with her girls tonight  its been too long,Kolkata,28.74,81,Clouds
+2009-06-18 20:18:00,PACKING SUCKS! i miss my Lee ,0,sad,packing sucks i miss my lee ,Hyderabad,23.13,89,Clouds
+2009-06-01 17:01:58,O how i love you sammoons  o how i do. ,4,happy,o how i love you sammoons  o how i do ,Pune,24.11,72,Clouds
+2009-06-05 13:53:56,"Wants a free doughnut, Krispy Kremes are so expensive, but 10 million times better than other doughnuts. ",0,sad,wants a free doughnut krispy kremes are so expensive but  million times better than other doughnuts ,Ahmedabad,31.42,58,Clouds
+2009-06-06 11:59:52,new phone  tattoo on monday! Woo.. just had tea. yummy.,4,happy,new phone  tattoo on monday woo just had tea yummy,Jaipur,34.37,42,Clouds
+2009-06-07 16:29:42,waiting for my hoe to come back ,0,sad,waiting for my hoe to come back ,Lucknow,29.99,69,Clouds
+2009-06-02 04:54:55,"i just cried a lot  im so over that all , and i cant hear it anymore...",0,sad,i just cried a lot  im so over that all  and i cant hear it anymore,Delhi,34.12,51,Clouds
+2009-06-05 19:47:23,Trying to get on facebook!!! ,0,sad,trying to get on facebook ,Mumbai,27.72,82,Clouds
+2009-06-25 07:49:40,I want to post lol cats on here but I can't ,0,sad,i want to post lol cats on here but i cant ,Bangalore,23.83,77,Clouds
+2009-06-15 20:39:08,@RobbieTaylor I have no comment about who won the game until this replay is completed. ,4,happy, i have no comment about who won the game until this replay is completed ,Chennai,29.34,81,Clouds
+2009-04-18 20:31:57,Thank you everyone. I seriously am I lucky guy to have such great and lovely friends. Let's keep in touch  chuckishere.com at #LAX,4,happy,thank you everyone i seriously am i lucky guy to have such great and lovely friends lets keep in touch  chuckisherecom at ,Kolkata,28.74,81,Clouds
+2009-05-22 05:09:53,friday gimmick in the office  but always looking forward for the weekend!,0,sad,friday gimmick in the office  but always looking forward for the weekend,Hyderabad,23.13,89,Clouds
+2009-06-15 07:52:01,TALK meeting tonight at Tampa Chamber at 6pm with @WOMlinda as guest speaker on Word of Mouth Marketing! Happy Hour after @ Tinatapas ,4,happy,talk meeting tonight at tampa chamber at pm with  as guest speaker on word of mouth marketing happy hour after  tinatapas ,Pune,24.11,72,Clouds
+2009-05-29 12:29:40,successfully obtained  visa entries to enter  and stay in the Royal Kingdom of Thailand! ,4,happy,successfully obtained  visa entries to enter  and stay in the royal kingdom of thailand ,Ahmedabad,31.42,58,Clouds
+2009-06-15 14:08:57,Downtown Disney ,4,happy,downtown disney ,Jaipur,34.37,42,Clouds
+2009-05-03 19:21:26,missing my mom ,0,sad,missing my mom ,Lucknow,29.99,69,Clouds
+2009-06-05 15:47:36,A little sad  pretty bad news and feel too much insecure about my playing.,0,sad,a little sad  pretty bad news and feel too much insecure about my playing,Delhi,34.12,51,Clouds
+2009-06-18 23:23:36,@HuniB oOhwee naw i just been chillin tryna get use to this new work schedule of having to be at wrk @ 7... ,0,sad, oohwee naw i just been chillin tryna get use to this new work schedule of having to be at wrk   ,Mumbai,27.72,82,Clouds
+2009-05-30 07:19:07,@juzgalvez Hahaha! Don't be scared. They need fresh minds and you're it. ,4,happy, hahaha dont be scared they need fresh minds and youre it ,Bangalore,23.83,77,Clouds
+2009-06-01 22:03:31,grandparents arrive tomorrow... good nite ,4,happy,grandparents arrive tomorrow good nite ,Chennai,29.34,81,Clouds
+2009-06-16 06:12:36,that was a good chat!  keep u posted guys...,4,happy,that was a good chat  keep u posted guys,Kolkata,28.74,81,Clouds
+2009-05-22 04:56:58,@BrokenStruggle to much waffle &amp; not enough drinking going on. he's a less annoying version of numpty! &amp; he's not you which makes me ,0,sad, to much waffle amp not enough drinking going on hes a less annoying version of numpty amp hes not you which makes me ,Hyderabad,23.13,89,Clouds
+2009-05-10 03:17:04,@theclimbx3 i knooow  its the pizza girl episode xD &lt;3,4,happy, i knooow  its the pizza girl episode xd lt,Pune,24.11,72,Clouds
+2009-05-30 02:02:40,"Random drunk girl sitting by my car: &quot;Is that your man bag?&quot;  Me: &quot;Yes, that's my man bag.&quot;  BTW, its name is Butch  ",4,happy,random drunk girl sitting by my car quotis that your man bagquot  me quotyes thats my man bagquot  btw its name is butch  ,Ahmedabad,31.42,58,Clouds
+2009-05-29 15:46:18,lots of cool ppl  ~~&gt; @actionchick @thewildjoker @walterdoc @JGDemas @amilya @williger  #followfriday,4,happy,lots of cool ppl  gt        ,Jaipur,34.37,42,Clouds
+2009-06-01 04:29:29,Alright this is my debute twitt  yay lol,4,happy,alright this is my debute twitt  yay lol,Lucknow,29.99,69,Clouds
+2009-05-10 08:42:04,@Spitphyre girls i am outta it then  my exams,0,sad, girls i am outta it then  my exams,Delhi,34.12,51,Clouds
+2009-06-20 01:30:37,Why do peep toe shoes hurt so bad ,0,sad,why do peep toe shoes hurt so bad ,Mumbai,27.72,82,Clouds
+2009-06-05 22:20:02,@Alyssa_Milano do celebs get more characters than the rest of us? ,4,happy, do celebs get more characters than the rest of us ,Bangalore,23.83,77,Clouds
+2009-06-01 07:23:27,need to charge my mac... ,0,sad,need to charge my mac ,Chennai,29.34,81,Clouds
+2009-05-31 19:15:12,Keyshia cole loves bebe too!!! ,4,happy,keyshia cole loves bebe too ,Kolkata,28.74,81,Clouds
+2009-06-19 03:32:33,@dstarr I want my bed  x,0,sad, i want my bed  x,Hyderabad,23.13,89,Clouds
+2009-04-18 22:12:37,"Dang it....BRB....have to get the cake, candles and ice cream out and sing happy birthday to my niece. Sweet 16 ",4,happy,dang itbrbhave to get the cake candles and ice cream out and sing happy birthday to my niece sweet  ,Pune,24.11,72,Clouds
+2009-05-17 02:10:32,"@StiffValentine Olympus E-410.  Besides the recent digital lenses, I also got an old 50mm OM lens which mounts via a simple adapter.  ",4,happy, olympus e  besides the recent digital lenses i also got an old mm om lens which mounts via a simple adapter  ,Ahmedabad,31.42,58,Clouds
+2009-04-19 09:55:06,"is going to watch the brewer game, eat soup, play sims and sit in a vaporizer filled room. stupid cold. this sucks. ",0,sad,is going to watch the brewer game eat soup play sims and sit in a vaporizer filled room stupid cold this sucks ,Jaipur,34.37,42,Clouds
+2009-05-29 14:38:29,Hmmm.... My whole body feels sore! ,0,sad,hmmm my whole body feels sore ,Lucknow,29.99,69,Clouds
+2009-05-31 13:32:43,@Venyadosae I'm sooo happy you'll get to re-take penguin pics! I collect penguin stuff and am a penguin FREAK! Can't wait to see ,4,happy, im sooo happy youll get to retake penguin pics i collect penguin stuff and am a penguin freak cant wait to see ,Delhi,34.12,51,Clouds
+2009-06-19 18:15:47,"My server has been going down lots lately, it makes me a sad WoW player  lol",0,sad,my server has been going down lots lately it makes me a sad wow player  lol,Mumbai,27.72,82,Clouds
+2009-05-18 00:10:38,how would you feel if @taylorswift13 was in a GoBernos video? eh eh ,4,happy,how would you feel if  was in a gobernos video eh eh ,Bangalore,23.83,77,Clouds
+2009-05-22 04:26:41,"@timdifford cheers, I spotted that - couldn't find it on the App Store though ",0,sad, cheers i spotted that  couldnt find it on the app store though ,Chennai,29.34,81,Clouds
+2009-05-04 03:21:57,sore throat ,0,sad,sore throat ,Kolkata,28.74,81,Clouds
+2009-06-03 04:44:14,He'd go anywhere with me ,4,happy,hed go anywhere with me ,Hyderabad,23.13,89,Clouds
+2009-05-30 07:29:13,@LexiePixie your tarot twreading is next. ,4,happy, your tarot twreading is next ,Pune,24.11,72,Clouds
+2009-06-05 17:59:36,@Bowl_the_Bunny lol love how we put some in stars: *some* haha...*crosses fingers* i hope you get more ,4,happy, lol love how we put some in stars some hahacrosses fingers i hope you get more ,Ahmedabad,31.42,58,Clouds
+2009-06-06 14:07:56,This tea taste like pure WATER!!!  Yuck!,0,sad,this tea taste like pure water  yuck,Jaipur,34.37,42,Clouds
+2009-06-17 08:28:46,sad that it's not my birthday anymore and that my balloon is deflating ,0,sad,sad that its not my birthday anymore and that my balloon is deflating ,Lucknow,29.99,69,Clouds
+2009-06-19 10:02:39,"Great to get bk online, my own net was down ",0,sad,great to get bk online my own net was down ,Delhi,34.12,51,Clouds
+2009-05-10 06:18:13,St Andrews is scaring me. ,0,sad,st andrews is scaring me ,Mumbai,27.72,82,Clouds
+2009-05-30 10:05:42,Finally done work YAY ,4,happy,finally done work yay ,Bangalore,23.83,77,Clouds
+2009-06-17 20:14:14,@DTatStar not nice  lol,0,sad, not nice  lol,Chennai,29.34,81,Clouds
+2009-05-29 19:10:13,i aint alive....im just breathing to death ,0,sad,i aint aliveim just breathing to death ,Kolkata,28.74,81,Clouds
+2009-06-05 21:52:31,Sorry you missed it. Good night! ,4,happy,sorry you missed it good night ,Hyderabad,23.13,89,Clouds
+2009-05-17 12:02:34,oopss did that twice  D: im such a silly moo.,0,sad,oopss did that twice  d im such a silly moo,Pune,24.11,72,Clouds
+2009-06-06 13:41:09,"@acj525 mummmmmmmmmmm,  can you put the pizza in the oven ",4,happy, mummmmmmmmmmm  can you put the pizza in the oven ,Ahmedabad,31.42,58,Clouds
+2009-06-02 03:39:43,@ibbypop haha yeeahh yeahh you know its only till 2:30 so its not too bad! ,4,happy, haha yeeahh yeahh you know its only till  so its not too bad ,Jaipur,34.37,42,Clouds
+2009-06-18 15:56:51,@Jagusti shit! I thought it was months away  I'm not in Sheffield this weekend ,0,sad, shit i thought it was months away  im not in sheffield this weekend ,Lucknow,29.99,69,Clouds
+2009-06-01 20:37:03,@Shadez mmm...i wouldn't mind li'l Katy's either.. ,4,happy, mmmi wouldnt mind lil katys either ,Delhi,34.12,51,Clouds
+2009-06-02 01:18:52,On a JEW mood. Downloading Futures. Chase the Light naman mamaya. Haha. ,4,happy,on a jew mood downloading futures chase the light naman mamaya haha ,Mumbai,27.72,82,Clouds
+2009-05-09 22:56:30,Wishes @kirstiealley a Happy Mother's Day! ,4,happy,wishes  a happy mothers day ,Bangalore,23.83,77,Clouds
+2009-06-20 06:51:11,"More rain due, ugh, going to a graduation today and was hoping the kids could go swimming ",0,sad,more rain due ugh going to a graduation today and was hoping the kids could go swimming ,Chennai,29.34,81,Clouds
+2009-04-19 03:50:14,woke up early today...dont wanna go to school tomorrow... ,0,sad,woke up early todaydont wanna go to school tomorrow ,Kolkata,28.74,81,Clouds
+2009-06-25 04:10:25,I can't seem to fall asleep tonight ,0,sad,i cant seem to fall asleep tonight ,Hyderabad,23.13,89,Clouds
+2009-06-07 11:35:15,"#EU09 In 5 years we need a best coverage. World, take a look here, yes, here, Europe is moving ",4,happy, in  years we need a best coverage world take a look here yes here europe is moving ,Pune,24.11,72,Clouds
+2009-06-16 07:04:45,That should give you happy thoughts ,4,happy,that should give you happy thoughts ,Ahmedabad,31.42,58,Clouds
+2009-06-21 08:38:00,@monzongo2009 OH NO!!!  Get well soon   I'm trying to get well myself in the midst of Merola.  Sending you virtual antibiotics ,0,sad, oh no  get well soon   im trying to get well myself in the midst of merola  sending you virtual antibiotics ,Jaipur,34.37,42,Clouds
+2009-06-17 06:07:34,Dam texts woke me up ,0,sad,dam texts woke me up ,Lucknow,29.99,69,Clouds
+2009-06-06 10:58:15,"I could seriously go back to sleep  working 3-11 tonight w/ mitch...but toni won't be there...it's not the same, but i hope it's fun! ilu!",0,sad,i could seriously go back to sleep  working  tonight w mitchbut toni wont be thereits not the same but i hope its fun ilu,Delhi,34.12,51,Clouds
+2009-05-02 05:12:22,eatin an icecream ,4,happy,eatin an icecream ,Mumbai,27.72,82,Clouds
+2009-06-01 17:52:24,"@FifthSenseNYC I'll be giving the Mark Birley a wear later this week, even though I'm not a &quot;quiet man&quot;. ",4,happy, ill be giving the mark birley a wear later this week even though im not a quotquiet manquot ,Bangalore,23.83,77,Clouds
+2009-05-31 10:37:46,happy birthday to andy hurley ,4,happy,happy birthday to andy hurley ,Chennai,29.34,81,Clouds
+2009-05-30 11:22:25,Hangin with my bestie suzi ,4,happy,hangin with my bestie suzi ,Kolkata,28.74,81,Clouds
+2009-05-29 15:52:07," FML.. today sucks.. i just hope the dance will bring my soul up.. i pray, but im still sad..i hateee todayyyyyy!!! &gt;;(",0,sad, fml today sucks i just hope the dance will bring my soul up i pray but im still sadi hateee todayyyyyy gt,Hyderabad,23.13,89,Clouds
+2009-05-31 07:15:54,But I will follow ,4,happy,but i will follow ,Pune,24.11,72,Clouds
+2009-05-30 19:41:23,I'm saying good bye to a good friend tonight... kinda sad ,0,sad,im saying good bye to a good friend tonight kinda sad ,Ahmedabad,31.42,58,Clouds
+2009-06-01 17:26:06,my last nite in work for weeks.....ah im in such good humour ,4,happy,my last nite in work for weeksah im in such good humour ,Jaipur,34.37,42,Clouds
+2009-06-22 15:44:18,"My Sonic skills have not improved... Running, fine. Spinning, awesome. Jump from platform to platform? The fail whale grabs me ",0,sad,my sonic skills have not improved running fine spinning awesome jump from platform to platform the fail whale grabs me ,Lucknow,29.99,69,Clouds
+2009-06-17 01:05:46,"saw a red balloon flying outside my window. somewhere out there, a kid must be crying because the wind blew his balloon away... ",0,sad,saw a red balloon flying outside my window somewhere out there a kid must be crying because the wind blew his balloon away ,Delhi,34.12,51,Clouds
+2009-06-06 12:33:16,Working today. Closing. 2 - 11. Missing out on Ming's birthday dinner/party. ,0,sad,working today closing    missing out on mings birthday dinnerparty ,Mumbai,27.72,82,Clouds
+2009-05-10 02:08:34,@JoshBkelley just wanted to say the youngstown girls miss you  .. &amp; what happened to tell it like it is on itunes? cant find it!,0,sad, just wanted to say the youngstown girls miss you   amp what happened to tell it like it is on itunes cant find it,Bangalore,23.83,77,Clouds
+2009-06-15 19:00:13,Ahhh...I finally don't have to keep 5 guys happy...I get waited on tonite ,4,happy,ahhhi finally dont have to keep  guys happyi get waited on tonite ,Chennai,29.34,81,Clouds
+2009-06-06 07:32:58,hope you feel better mommy  I love you :X,0,sad,hope you feel better mommy  i love you x,Kolkata,28.74,81,Clouds
+2009-05-28 22:30:27,@KandyChazer it is...but i was told i was gonna be entertained and i wasnt ,0,sad, it isbut i was told i was gonna be entertained and i wasnt ,Hyderabad,23.13,89,Clouds
+2009-06-05 16:41:09,yay! just realized i'm not driving this trip and can do all the twittering!  ,4,happy,yay just realized im not driving this trip and can do all the twittering  ,Pune,24.11,72,Clouds
+2009-06-01 23:06:01,"@amf7 Thank you for reminding me! I actually have something in mind given the date. Hint, it's Star Trek related. ",4,happy, thank you for reminding me i actually have something in mind given the date hint its star trek related ,Ahmedabad,31.42,58,Clouds
+2009-05-22 05:06:32,We should have brought a flask with v0dka. Hahaha. ,4,happy,we should have brought a flask with vdka hahaha ,Jaipur,34.37,42,Clouds
+2009-05-10 02:43:10,Just got pulled over on 36. I am fucking terrified of cops. My headlights out I guess  mew.,0,sad,just got pulled over on  i am fucking terrified of cops my headlights out i guess  mew,Lucknow,29.99,69,Clouds
+2009-06-18 18:06:19,gotta go check/console/convince 2 yo to stay in bed and that he actually WANTS to go to sleep... 20 min nap in car= past his sleep... ,0,sad,gotta go checkconsoleconvince  yo to stay in bed and that he actually wants to go to sleep  min nap in car past his sleep ,Delhi,34.12,51,Clouds
+2009-05-31 12:18:33,@cali_g510 ok   I got you!,4,happy, ok   i got you,Mumbai,27.72,82,Clouds
+2009-06-15 23:02:01,Changed the background on here. About to go watch 'Mary Shellys Frankenstein'.  Add: http://bit.ly/4Qhlv,4,happy,changed the background on here about to go watch mary shellys frankenstein  add ,Bangalore,23.83,77,Clouds
+2009-04-07 00:29:12,"@MANDY_EMMERSON I know you do, Go TEAM GB ",4,happy, i know you do go team gb ,Chennai,29.34,81,Clouds
+2009-05-17 11:20:39,"@sdministry Hey scott, Its Ashli from Shelby County, We met when Rick and Mick were in town. How you been? It been awhile ",4,happy, hey scott its ashli from shelby county we met when rick and mick were in town how you been it been awhile ,Kolkata,28.74,81,Clouds
+2009-05-10 06:32:10,@temptationdice why did my family decide to have a family gathering?  i see why you hate them. -.-,0,sad, why did my family decide to have a family gathering  i see why you hate them ,Hyderabad,23.13,89,Clouds
+2009-06-01 06:52:38,@kerryjor Happy Birthday!  Enjoy the cougar years - roar! ,4,happy, happy birthday  enjoy the cougar years  roar ,Pune,24.11,72,Clouds
+2009-06-03 05:17:31,I work 9-6 today with bitch boss ,0,sad,i work  today with bitch boss ,Ahmedabad,31.42,58,Clouds
+2009-06-15 07:09:04,  DD has pinkeye...not fun.,0,sad,  dd has pinkeyenot fun,Jaipur,34.37,42,Clouds
+2009-05-17 11:06:31,3 little birds pitch by my door step singing sweet songs of melodies pure &amp; true sayin dis is my message 2 you: dont worry about a thing ,4,happy, little birds pitch by my door step singing sweet songs of melodies pure amp true sayin dis is my message  you dont worry about a thing ,Lucknow,29.99,69,Clouds
+2009-04-19 06:34:06,Church of the Highlands @ 11:30 in the Bryant Conference Center! BE THERE!   ,4,happy,church of the highlands   in the bryant conference center be there   ,Delhi,34.12,51,Clouds
+2009-06-06 00:09:08,Off to london biggin hill ,4,happy,off to london biggin hill ,Mumbai,27.72,82,Clouds
+2009-05-18 05:11:19,definitely just failed my exam ,0,sad,definitely just failed my exam ,Bangalore,23.83,77,Clouds
+2009-05-31 03:04:10,@Burlesquetron oh sorry I didn't see this tweet further down sorry. unhappy DD = 4 champers 4 me + looking 4 hair dye in back of cupboard ,4,happy, oh sorry i didnt see this tweet further down sorry unhappy dd   champers  me  looking  hair dye in back of cupboard ,Chennai,29.34,81,Clouds
+2009-06-05 21:50:32,@laurie_pringle I mention it in the blog post. It's in Vancouver. ,4,happy, i mention it in the blog post its in vancouver ,Kolkata,28.74,81,Clouds
+2009-06-05 23:45:11,I am soooo happy!!! ,4,happy,i am soooo happy ,Hyderabad,23.13,89,Clouds
+2009-06-05 17:07:24,@Itxi_Itx @th3maw  This is a great conversation.  What else might you do with your sheets during the act of love?  eh?  eh?  ,4,happy,   this is a great conversation  what else might you do with your sheets during the act of love  eh  eh  ,Pune,24.11,72,Clouds
+2009-05-29 19:29:10,mark cubans doin handsprings right now- the &quot;punks and thugs&quot; are sinking.. but he's not looking forward to paying dirk's child support. ,0,sad,mark cubans doin handsprings right now the quotpunks and thugsquot are sinking but hes not looking forward to paying dirks child support ,Ahmedabad,31.42,58,Clouds
+2009-05-10 20:57:03,@lovelyberries haha you can cuddle with me anytime ,4,happy, haha you can cuddle with me anytime ,Jaipur,34.37,42,Clouds
+2009-05-31 05:49:48,had a lovely birthday.  http://plurk.com/p/xedq0,4,happy,had a lovely birthday  ,Lucknow,29.99,69,Clouds
+2009-05-31 23:49:17,@judez_xo ugly kids there?  woahh where am i then. ,0,sad, ugly kids there  woahh where am i then ,Delhi,34.12,51,Clouds
+2009-05-10 21:19:14,@canadianfamily The best thing about my Mother's Day was my son. And the card my husband got me 'from' our 5.5 week old son. ,4,happy, the best thing about my mothers day was my son and the card my husband got me from our  week old son ,Mumbai,27.72,82,Clouds
+2009-06-15 03:00:00,Just got off the  â  Misery loves company..... Haha,4,happy,just got off the    misery loves company haha,Bangalore,23.83,77,Clouds
+2009-06-23 12:17:56,ugh sdre isnt coming here  lame. today can suck my dick.,0,sad,ugh sdre isnt coming here  lame today can suck my dick,Chennai,29.34,81,Clouds
+2009-06-06 02:02:10,@andyclemmensen tv on mute cause its boring but then ipod with speakers on timer  now thats how its done.,4,happy, tv on mute cause its boring but then ipod with speakers on timer  now thats how its done,Kolkata,28.74,81,Clouds
+2009-04-20 07:54:21,TWO More weeks and its back to work. ,0,sad,two more weeks and its back to work ,Hyderabad,23.13,89,Clouds
+2009-06-02 02:22:45,is healthy breakfast then back to geography revision ,0,sad,is healthy breakfast then back to geography revision ,Pune,24.11,72,Clouds
+2009-06-01 07:36:47,off to sleep. GOOD NIGHT WORLD  hope it'll not rain tomorrow.,4,happy,off to sleep good night world  hope itll not rain tomorrow,Ahmedabad,31.42,58,Clouds
+2009-06-04 10:49:39,Kylie's being a bad girl today. ,0,sad,kylies being a bad girl today ,Jaipur,34.37,42,Clouds
+2009-06-16 04:54:10,@LaYdeeDeliSh he's definately a strong lil guy! ,4,happy, hes definately a strong lil guy ,Lucknow,29.99,69,Clouds
+2009-06-06 20:56:55,I watched UP! This time I cried  It's really sad and hilarious ... That movie totally rocks!,0,sad,i watched up this time i cried  its really sad and hilarious  that movie totally rocks,Delhi,34.12,51,Clouds
+2009-05-22 08:14:13,just booked my driving test ,4,happy,just booked my driving test ,Mumbai,27.72,82,Clouds
+2009-05-01 23:35:09,i've been working for more than 24 hours now ,0,sad,ive been working for more than  hours now ,Bangalore,23.83,77,Clouds
+2009-05-29 18:33:57,"@ddlovato I wish I was a celeb like you, Miley Cyrus, Selena Gomez, Taylor Swift, and all those pretty girls out there! ",4,happy, i wish i was a celeb like you miley cyrus selena gomez taylor swift and all those pretty girls out there ,Chennai,29.34,81,Clouds
+2009-05-31 18:18:14,I can't believe the last survivor of the Titanic died...that's really sad! ,0,sad,i cant believe the last survivor of the titanic diedthats really sad ,Kolkata,28.74,81,Clouds
+2009-06-01 05:43:03,Starting to wonder if my future landlord is crazy or prejudice against americans.. this may not end well ,0,sad,starting to wonder if my future landlord is crazy or prejudice against americans this may not end well ,Hyderabad,23.13,89,Clouds
+2009-05-30 14:27:43,@kiniaq and the reasons are never wrong my dear... they are absolutely lovely  wow,4,happy, and the reasons are never wrong my dear they are absolutely lovely  wow,Pune,24.11,72,Clouds
+2009-06-07 15:09:54,@lexia well done on all your reporting.  Haven't been vocal but have enjoyed and appreciated your work. Cheers lady. ,4,happy, well done on all your reporting  havent been vocal but have enjoyed and appreciated your work cheers lady ,Ahmedabad,31.42,58,Clouds
+2009-05-18 05:17:39,I would love the 85mm 1.2 .. but would settle for the 85mm 1.8. I'd also love a 1Dsmark3 for it to sit on ,4,happy,i would love the mm   but would settle for the mm  id also love a dsmark for it to sit on ,Jaipur,34.37,42,Clouds
+2009-05-29 09:06:36,@AngelIVXXX very good price ,4,happy, very good price ,Lucknow,29.99,69,Clouds
+2009-06-05 18:36:02,@MrRathbone You have many friends here who will walk with you through the dark and the light. Smile ,4,happy, you have many friends here who will walk with you through the dark and the light smile ,Delhi,34.12,51,Clouds
+2009-05-17 11:46:33,soo hungry! hot dogs with all the fixings? sounds yummy ! ,4,happy,soo hungry hot dogs with all the fixings sounds yummy  ,Mumbai,27.72,82,Clouds
+2009-06-01 07:42:51,is having a bad day - email not working properly and looks like the 10km run is off for me ,0,sad,is having a bad day  email not working properly and looks like the km run is off for me ,Bangalore,23.83,77,Clouds
+2009-06-07 16:36:04,@officialnjonas you speak my name in chat? please?I am a big fan your...follow me? ,4,happy, you speak my name in chat pleasei am a big fan yourfollow me ,Chennai,29.34,81,Clouds
+2009-06-01 23:14:35,"The Tonight Show w/ Conan was AWESOME!!! I missed that tall, pale, red-headed man! ",4,happy,the tonight show w conan was awesome i missed that tall pale redheaded man ,Kolkata,28.74,81,Clouds
+2009-05-29 16:46:48,"@Hail_Mary_Jane: never date anyone who's on twitter, then you can't tweet about how whack they are.&lt;----sooooooooo true ",4,happy, never date anyone whos on twitter then you cant tweet about how whack they areltsooooooooo true ,Hyderabad,23.13,89,Clouds
+2009-05-29 00:33:49,I need someone to talk to!  Who can that be? ,4,happy,i need someone to talk to  who can that be ,Pune,24.11,72,Clouds
+2009-05-17 03:35:52,@BrianMcnugget still your old joker kinda self...im glad...i kinda miss it ,0,sad, still your old joker kinda selfim gladi kinda miss it ,Ahmedabad,31.42,58,Clouds
+2009-05-18 00:22:24,un vot pe blogoree pls: http://bit.ly/ueUb6   Multumesc! ,4,happy,un vot pe blogoree pls    multumesc ,Jaipur,34.37,42,Clouds
+2009-05-31 16:48:49,"Dear baby, I can't wait until your teething days are over. ",0,sad,dear baby i cant wait until your teething days are over ,Lucknow,29.99,69,Clouds
+2009-06-07 19:26:23,"@ninasplayground LOL, I didn't know it was on  OF COURSE if watch that dumb bitches show ;-) like a train wreck... Can't stop watching ;)",0,sad, lol i didnt know it was on  of course if watch that dumb bitches show  like a train wreck cant stop watching ,Delhi,34.12,51,Clouds
+2009-06-01 10:44:38,"BlackBerry troubles all over.. fortunately enough I don't have one! My HTC Touch works fine, for almost 2 years! ",4,happy,blackberry troubles all over fortunately enough i dont have one my htc touch works fine for almost  years ,Mumbai,27.72,82,Clouds
+2009-05-31 06:25:27,@MeganBull how do you know how much your twitter profile is worth?? haha...or was that a joke? ,4,happy, how do you know how much your twitter profile is worth hahaor was that a joke ,Bangalore,23.83,77,Clouds
+2009-05-30 07:41:17,http://mobypicture.com/?yxykxt - I knew it from the start. It's a two year old t-shirt by now. Always makes me pleased to see though. ,4,happy,  i knew it from the start its a two year old tshirt by now always makes me pleased to see though ,Chennai,29.34,81,Clouds
+2009-06-07 18:40:02,I had Wendy's before this. That was a bad choice   http://twitpic.com/6vlkp,0,sad,i had wendys before this that was a bad choice   ,Kolkata,28.74,81,Clouds
+2009-05-02 01:31:37,@cjm55 Thanks!  ,4,happy, thanks  ,Hyderabad,23.13,89,Clouds
+2009-05-17 23:25:04,"why do people not just try to understand instead of getting pissed off  when someone needs you, its cause they love you...",0,sad,why do people not just try to understand instead of getting pissed off  when someone needs you its cause they love you,Pune,24.11,72,Clouds
+2009-05-31 10:15:15,@Castiel_ yeah. totally. ,0,sad, yeah totally ,Ahmedabad,31.42,58,Clouds
+2009-05-30 00:59:01,@Lumiel Aren't you sweet? ,4,happy, arent you sweet ,Jaipur,34.37,42,Clouds
+2009-06-02 02:45:01,CDC Vaccine Advisor Pockets $29 Million Promoting Vaccines -  http://is.gd/M7Q8 - MORE ELITIST SCUM VACCINATION PROFITEERING - Sorry ,0,sad,cdc vaccine advisor pockets  million promoting vaccines     more elitist scum vaccination profiteering  sorry ,Lucknow,29.99,69,Clouds
+2009-06-07 12:42:46,@MissChriis i don't know how to celebrate yet. lol but i'm very excited about it. ,4,happy, i dont know how to celebrate yet lol but im very excited about it ,Delhi,34.12,51,Clouds
+2009-06-16 04:18:41,@windsorj Poor thing  Hope you feel brighter soon x,0,sad, poor thing  hope you feel brighter soon x,Mumbai,27.72,82,Clouds
+2009-06-17 18:48:54,Ah. The perfect summer day was ruined by the rain. Too good to be true.  but its still hot as hell. I feel sticky and gross. Long day. Ha,0,sad,ah the perfect summer day was ruined by the rain too good to be true  but its still hot as hell i feel sticky and gross long day ha,Bangalore,23.83,77,Clouds
+2009-06-21 06:40:33, i gotta work today,0,sad, i gotta work today,Chennai,29.34,81,Clouds
+2009-04-21 01:36:24,@nowamunkie My pleasure. ,4,happy, my pleasure ,Kolkata,28.74,81,Clouds
+2009-06-07 08:04:16,Blood Brothers was Amazing.  Got my program signed by the cast  Got a Picture with Sean Jones. ,4,happy,blood brothers was amazing  got my program signed by the cast  got a picture with sean jones ,Hyderabad,23.13,89,Clouds
+2009-04-19 03:44:07,bob to the top high school musical porno. ftw ,4,happy,bob to the top high school musical porno ftw ,Pune,24.11,72,Clouds
+2009-06-18 19:18:49,@DavidArchie I'm running a fever  If you gave me a shoutout I swear I'd get better! (HINTHINT!) HAHAHA.,0,sad, im running a fever  if you gave me a shoutout i swear id get better hinthint hahaha,Ahmedabad,31.42,58,Clouds
+2009-05-30 20:13:07,"@edicius during this Stanley Cup match up, yes, I am a Pens fan. ",4,happy, during this stanley cup match up yes i am a pens fan ,Jaipur,34.37,42,Clouds
+2009-04-21 00:50:34,"@besz I will tell you on Thursday all about Tuesday, I promise. How bout I skip all this, and just eat the monkey for breakfast? ",4,happy, i will tell you on thursday all about tuesday i promise how bout i skip all this and just eat the monkey for breakfast ,Lucknow,29.99,69,Clouds
+2009-06-07 10:13:25,I thought it was meant to be a hot summer  to mean rain doesnt mean hot.,0,sad,i thought it was meant to be a hot summer  to mean rain doesnt mean hot,Delhi,34.12,51,Clouds
+2009-06-07 04:24:17,@Wolfie75 Welcomes home  Glad you had a fabbo time!,4,happy, welcomes home  glad you had a fabbo time,Mumbai,27.72,82,Clouds
+2009-06-02 04:18:02,doesn't know what to do with himself today... but might get some blonde put in his hair for summer ,4,happy,doesnt know what to do with himself today but might get some blonde put in his hair for summer ,Bangalore,23.83,77,Clouds
+2009-05-18 07:53:31,"kick  butt, Chuck has been renewed for a third season.  Sucks only 13 episodes though.    http://tr.im/lF45",0,sad,kick  butt chuck has been renewed for a third season  sucks only  episodes though    ,Chennai,29.34,81,Clouds
+2009-05-29 01:16:53,just wants to get it over and done with. I miss working ,0,sad,just wants to get it over and done with i miss working ,Kolkata,28.74,81,Clouds
+2009-05-31 05:55:36,@Boy_Kill_Boy Anything for first class tix ,4,happy, anything for first class tix ,Hyderabad,23.13,89,Clouds
+2009-06-05 08:43:26,"@Jason25329 Sorry to hear that  but hey, you're eating well at least!",0,sad, sorry to hear that  but hey youre eating well at least,Pune,24.11,72,Clouds
+2009-06-01 06:26:47,Phew! Done rewriting the 1st bit of my results to order. Reread comments from bosses to ensure I'd incorporated them. Had. But sad now. ,0,sad,phew done rewriting the st bit of my results to order reread comments from bosses to ensure id incorporated them had but sad now ,Ahmedabad,31.42,58,Clouds
+2009-06-01 05:07:41,morning tweeple  hope you all have a great monday,4,happy,morning tweeple  hope you all have a great monday,Jaipur,34.37,42,Clouds
+2009-06-05 18:33:38,"Home and off for hopefully, a sunny weekend ",4,happy,home and off for hopefully a sunny weekend ,Lucknow,29.99,69,Clouds
+2009-06-02 07:41:39,"@innocent_eyez26 OMG :o ahahaa. oh well, thats common there  hihii",4,happy, omg o ahahaa oh well thats common there  hihii,Delhi,34.12,51,Clouds
+2009-06-20 06:00:44,packing up my room... ,0,sad,packing up my room ,Mumbai,27.72,82,Clouds
+2009-06-03 00:19:30,CEO is on the floor today. Need to be careful while surfing today. It's all work and no play day. ,0,sad,ceo is on the floor today need to be careful while surfing today its all work and no play day ,Bangalore,23.83,77,Clouds
+2009-05-30 19:47:24,hitting the gym!  its bout time,0,sad,hitting the gym  its bout time,Chennai,29.34,81,Clouds
+2009-06-07 11:18:22,"Wife just left on a motorcycle ride. I still need to get my Washington plates , so I am at home, Drat! ",0,sad,wife just left on a motorcycle ride i still need to get my washington plates  so i am at home drat ,Kolkata,28.74,81,Clouds
+2009-06-17 10:48:25,@TwilightilDawn Oh man I want palm trees and the beautiful ocean! Not cow town CO  Follow @peterfacinelli @billy_burke,0,sad, oh man i want palm trees and the beautiful ocean not cow town co  follow  ,Hyderabad,23.13,89,Clouds
+2009-06-15 14:10:55,#musicmonday King Blues My Bolder ,4,happy, king blues my bolder ,Pune,24.11,72,Clouds
+2009-06-21 08:01:57,"I have a 1,500-word deadline in 2 days, stacks of research materials are surrounding me, and I don't have a clue how to start  Need coffee",0,sad,i have a word deadline in  days stacks of research materials are surrounding me and i dont have a clue how to start  need coffee,Ahmedabad,31.42,58,Clouds
+2009-06-01 08:10:56,@gfalcone601 well at least you had a great time and thats what's important! ,4,happy, well at least you had a great time and thats whats important ,Jaipur,34.37,42,Clouds
+2009-06-21 08:46:42,"Oh and more car FAIL, after all the work i had done Fri., the Check Engine light went on just as i got home last night ",0,sad,oh and more car fail after all the work i had done fri the check engine light went on just as i got home last night ,Lucknow,29.99,69,Clouds
+2009-06-25 07:33:59,@itwittmyclit I'm jealous. I wanna nerd out ,0,sad, im jealous i wanna nerd out ,Delhi,34.12,51,Clouds
+2009-05-01 23:21:14,"@PiKaHsSo Sup fam? Hope you have a GREAT weekend! Keep doing what u do, we appreciate u ",4,happy, sup fam hope you have a great weekend keep doing what u do we appreciate u ,Mumbai,27.72,82,Clouds
+2009-05-02 06:22:48,http://twitpic.com/4eg0i - Before his hair cut. I just wanna kiss that little face all day long ,4,happy,  before his hair cut i just wanna kiss that little face all day long ,Bangalore,23.83,77,Clouds
+2009-05-18 00:24:41,@mike_rhodes r u romeo from somewhere? ,4,happy, r u romeo from somewhere ,Chennai,29.34,81,Clouds
+2009-06-17 18:14:56,Only problem with Google Chrome: no foxkeh ,0,sad,only problem with google chrome no foxkeh ,Kolkata,28.74,81,Clouds
+2009-05-31 14:03:18,Figuring out how to live a life where I'm my own boss... fun ,4,happy,figuring out how to live a life where im my own boss fun ,Hyderabad,23.13,89,Clouds
+2009-05-22 08:08:05,"CAN YOU SAY AFTER 30 HOURS OF TRAVELING IM FINALLY IN ARGENTINA?! yes! oh hello Buenos Aires, how i love you ",4,happy,can you say after  hours of traveling im finally in argentina yes oh hello buenos aires how i love you ,Pune,24.11,72,Clouds
+2009-05-30 07:10:44,@dawnmcwilliams Saha ,0,sad, saha ,Ahmedabad,31.42,58,Clouds
+2009-05-31 07:23:09,I don't feel well at all. Dizziness and vomit. No fun ,0,sad,i dont feel well at all dizziness and vomit no fun ,Jaipur,34.37,42,Clouds
+2009-05-30 17:10:25,"I want to drink tonight,, want a cosmopolitan ",4,happy,i want to drink tonight want a cosmopolitan ,Lucknow,29.99,69,Clouds
+2009-06-15 18:18:01,@dance2jeffreee I have already watch that video lol ,4,happy, i have already watch that video lol ,Delhi,34.12,51,Clouds
+2009-06-20 18:43:51,Everytime she stops talkin or replying for hours or days it is like she's leavin me all over again ,0,sad,everytime she stops talkin or replying for hours or days it is like shes leavin me all over again ,Mumbai,27.72,82,Clouds
+2009-06-03 04:48:15,is off to work til 4! Happy Hump Day! ,4,happy,is off to work til  happy hump day ,Bangalore,23.83,77,Clouds
+2009-04-18 08:15:19,@girl_alex ....  Hope you're okay?,0,sad,   hope youre okay,Chennai,29.34,81,Clouds
+2009-06-07 10:50:29,"i made 29 updates today, my record xD talk to you tomorrow bye ",4,happy,i made  updates today my record xd talk to you tomorrow bye ,Kolkata,28.74,81,Clouds
+2009-06-01 01:47:07,@disco_di aww tell me about it!!! its just not the same  hope you have a better day,0,sad, aww tell me about it its just not the same  hope you have a better day,Hyderabad,23.13,89,Clouds
+2009-05-18 07:55:38,"@SomeWriter Hey, great minds think alike! ",4,happy, hey great minds think alike ,Pune,24.11,72,Clouds
+2009-05-10 09:13:45,Mother's Day is a traditionally time for BBQ here ... unfortunately I don't like BBQ at all  ... but I am also not a mother ;-) ;-),0,sad,mothers day is a traditionally time for bbq here  unfortunately i dont like bbq at all   but i am also not a mother  ,Ahmedabad,31.42,58,Clouds
+2009-05-31 19:06:56,back from school w/ @_gerardo. Making a grocery run w/ @kellan_craddock before celebrating @chadachi's 22nd birthday with a barbeque. ,4,happy,back from school w  making a grocery run w  before celebrating s nd birthday with a barbeque ,Jaipur,34.37,42,Clouds
+2009-04-20 01:42:53,Summat to make your laugh today http://budurl.com/beckhams ,4,happy,summat to make your laugh today  ,Lucknow,29.99,69,Clouds
+2009-05-30 11:32:49,"regretting not wearing sunscreen today, spent 6 hours walking round Kew Gardens during a mini heatwave. Healthy glow is an understatement ",0,sad,regretting not wearing sunscreen today spent  hours walking round kew gardens during a mini heatwave healthy glow is an understatement ,Delhi,34.12,51,Clouds
+2009-05-16 23:18:07,Shot after shot. Alc is lying to me ,0,sad,shot after shot alc is lying to me ,Mumbai,27.72,82,Clouds
+2009-05-31 23:07:21,@kirstiealley Prizes are good! ,4,happy, prizes are good ,Bangalore,23.83,77,Clouds
+2009-05-29 15:44:13,"Everyone follow @JKitsJena because this twitter is fawked, pleeeeease and thank you ",4,happy,everyone follow  because this twitter is fawked pleeeeease and thank you ,Chennai,29.34,81,Clouds
+2009-05-30 22:16:00,@ the booptys crib watching chucky 3 with the little one my boopty aint feeling well ,0,sad, the booptys crib watching chucky  with the little one my boopty aint feeling well ,Kolkata,28.74,81,Clouds
+2009-06-01 17:05:21,im off from one job and now im off to my next one. i wish i was rich and didnt have to worry about money. but i have to cuz of my son.   ,0,sad,im off from one job and now im off to my next one i wish i was rich and didnt have to worry about money but i have to cuz of my son   ,Hyderabad,23.13,89,Clouds
+2009-06-25 05:51:13,"@BT_broadband Ah, well, we're both in the same boat then. I switched because they were throttling the speed every single night. ",0,sad, ah well were both in the same boat then i switched because they were throttling the speed every single night ,Pune,24.11,72,Clouds
+2009-05-30 09:21:46,and @thedebbyryan http://www.debbyandchrisryanfansite.webs.com/ is WRONG tha page dont found  follow us -we r ur team TEAMofDEBBYRYAN,0,sad,and   is wrong tha page dont found  follow us we r ur team teamofdebbyryan,Ahmedabad,31.42,58,Clouds
+2009-05-10 01:52:14,@tonyrobbins &quot;paradise is where I am.&quot; he also said ,4,happy, quotparadise is where i amquot he also said ,Jaipur,34.37,42,Clouds
+2009-06-19 18:11:42,@Guitargirl5595 yeah so now i am all bummed cause now i dont have college anymore ,0,sad, yeah so now i am all bummed cause now i dont have college anymore ,Lucknow,29.99,69,Clouds
+2009-05-29 23:39:18,@TomboyTigress  you told me you LIKED my marshmallow fish. *runs off crying*,0,sad,  you told me you liked my marshmallow fish runs off crying,Delhi,34.12,51,Clouds
+2009-05-03 20:31:30,is back at the hotel. wifi doesn't reach the room  http://plurk.com/p/rnauu,0,sad,is back at the hotel wifi doesnt reach the room  ,Mumbai,27.72,82,Clouds
+2009-06-16 01:56:16,"Im a very open girl and if you remain respectful, we will have a lot of fun  See my pics here http://sa9.us/HornySophie",4,happy,im a very open girl and if you remain respectful we will have a lot of fun  see my pics here ,Bangalore,23.83,77,Clouds
+2009-06-15 02:49:50,@jaimeeashley i demand a picture of the red hair please and thankyou ,4,happy, i demand a picture of the red hair please and thankyou ,Chennai,29.34,81,Clouds
+2009-06-06 10:29:26,I will try to remember to Twitter from the George Strait concert ,4,happy,i will try to remember to twitter from the george strait concert ,Kolkata,28.74,81,Clouds
+2009-06-06 09:18:17,going to take some photo and ride my whole new bike~~ ,4,happy,going to take some photo and ride my whole new bike ,Hyderabad,23.13,89,Clouds
+2009-06-01 11:12:26,good afternnon world althought the weather is bad i hate the rainny season ,0,sad,good afternnon world althought the weather is bad i hate the rainny season ,Pune,24.11,72,Clouds
+2009-06-01 09:39:44,"Hai, anyone wanna hang? ",4,happy,hai anyone wanna hang ,Ahmedabad,31.42,58,Clouds
+2009-06-15 14:43:51,"@victoriastevens yeah, i've started too ",0,sad, yeah ive started too ,Jaipur,34.37,42,Clouds
+2009-05-29 23:54:08,I have got to bid ou all goodnight tweeps. Need to spend more QTwith @Mike103g the miniscule before he leaves for the week ,4,happy,i have got to bid ou all goodnight tweeps need to spend more qtwith  the miniscule before he leaves for the week ,Lucknow,29.99,69,Clouds
+2009-05-22 03:51:41,Tra la la la la!  might make a video later  see if i can be bothered ,4,happy,tra la la la la  might make a video later  see if i can be bothered ,Delhi,34.12,51,Clouds
+2009-06-06 13:23:42,@SamanthaOfUM lol that would tiiiiight but idk about money situation! ,0,sad, lol that would tiiiiight but idk about money situation ,Mumbai,27.72,82,Clouds
+2009-06-05 09:54:17,I miss Ashley so much right now ,0,sad,i miss ashley so much right now ,Bangalore,23.83,77,Clouds
+2009-05-29 22:50:33,i can't believe this is all part of my detox (it is) because i was so fine and now i'm talking all core wounds! oh my god! jesus help me! ,4,happy,i cant believe this is all part of my detox it is because i was so fine and now im talking all core wounds oh my god jesus help me ,Chennai,29.34,81,Clouds
+2009-05-29 15:38:11,is rockin' a minivan til the STi is ready. I miss it already ,0,sad,is rockin a minivan til the sti is ready i miss it already ,Kolkata,28.74,81,Clouds
+2009-06-14 22:47:17,"Sooooo happy right now.  I &lt;3 my old high school friends.  Miss the boy already, though. ",0,sad,sooooo happy right now  i lt my old high school friends  miss the boy already though ,Hyderabad,23.13,89,Clouds
+2009-06-01 03:24:55,"@Young_SoulBlade hey, wassup? ",4,happy, hey wassup ,Pune,24.11,72,Clouds
+2009-06-18 06:56:31,it seems that I'm going to lose the big #lgp2009's feast   I hope you enjoy it as much as I did!,0,sad,it seems that im going to lose the big s feast   i hope you enjoy it as much as i did,Ahmedabad,31.42,58,Clouds
+2009-05-17 11:49:45,@Shadows1990 Oh dear  should go out when your better ,0,sad, oh dear  should go out when your better ,Jaipur,34.37,42,Clouds
+2009-06-14 22:23:41,@samantha247 Luckyyyy. I want to ding dong ditch with ya'll. Jealous. ,0,sad, luckyyyy i want to ding dong ditch with yall jealous ,Lucknow,29.99,69,Clouds
+2009-05-31 15:01:41,@Remy_Foster LOL I'm in your favourites 3 times!!! ,4,happy, lol im in your favourites  times ,Delhi,34.12,51,Clouds
+2009-06-07 00:27:34,"@Destini41 Have a safe trip, Desti, and have lots of fun!!! Hope you can tweet us a lot  And give @crystalchappell 4700 kisses from us",4,happy, have a safe trip desti and have lots of fun hope you can tweet us a lot  and give   kisses from us,Mumbai,27.72,82,Clouds
+2009-06-07 13:27:33,@ryanstar http://twitpic.com/6ub7v - Great view ,4,happy,   great view ,Bangalore,23.83,77,Clouds
+2009-06-05 15:15:25,mmm taco doritos=heaven in my mouth ,4,happy,mmm taco doritosheaven in my mouth ,Chennai,29.34,81,Clouds
+2009-05-30 08:52:39,@MandyyJirouxx morning already ,0,sad, morning already ,Kolkata,28.74,81,Clouds
+2009-06-01 09:11:41,"MTV Movie Awards yesterday: congrats Robert, Kristen, Miley and the Twilight's makers.  &lt;3",4,happy,mtv movie awards yesterday congrats robert kristen miley and the twilights makers  lt,Hyderabad,23.13,89,Clouds
+2009-06-25 01:53:23,http://twitpic.com/8cwzd - the swimming pool of our hotel... that makes me dream of summer... in Vienna we have so far no summer ,0,sad,  the swimming pool of our hotel that makes me dream of summer in vienna we have so far no summer ,Pune,24.11,72,Clouds
+2009-05-29 00:41:49,"Plans for today: Lunch with my darling Leila, getting my hair cut... Ok, that's the good part ",4,happy,plans for today lunch with my darling leila getting my hair cut ok thats the good part ,Ahmedabad,31.42,58,Clouds
+2009-06-06 08:20:56,@cocababy202 hahaha it washed all the sick off of me. ,4,happy, hahaha it washed all the sick off of me ,Jaipur,34.37,42,Clouds
+2009-05-30 17:07:42,@SasaLoves I'm here princess!  Need to try to eat something before I drink. Still having waves of nausea - I should have napped ,0,sad, im here princess  need to try to eat something before i drink still having waves of nausea  i should have napped ,Lucknow,29.99,69,Clouds
+2009-04-07 03:08:34,Issue of Echelon?..Are they behind some Botnets also? ..you can watch...http://tinyurl.com/c8dns8  ah..but dont think like that ,4,happy,issue of echelonare they behind some botnets also you can watch  ahbut dont think like that ,Delhi,34.12,51,Clouds
+2009-06-07 19:33:33,"@IsadoraR hooray for your english being done , but we are screwed for everything else ",0,sad, hooray for your english being done  but we are screwed for everything else ,Mumbai,27.72,82,Clouds
+2009-04-07 03:19:20,No 12-hour coma today. I had a nightmare that shook me awake. ,0,sad,no hour coma today i had a nightmare that shook me awake ,Bangalore,23.83,77,Clouds
+2009-06-15 09:26:08,@SenseiRAM We missed you ,4,happy, we missed you ,Chennai,29.34,81,Clouds
+2009-06-15 17:57:48,"@jonasbrothers dear nick jonas, please teach me how to play the glockenspiel. that is just about the coolest instrument name ever. ",4,happy, dear nick jonas please teach me how to play the glockenspiel that is just about the coolest instrument name ever ,Kolkata,28.74,81,Clouds
+2009-06-19 16:25:36,3 hours till SD. longest trip ever. Never again. Ate a salad n pasta at dinner n couldn't even finish my pasta. ,0,sad, hours till sd longest trip ever never again ate a salad n pasta at dinner n couldnt even finish my pasta ,Hyderabad,23.13,89,Clouds
+2009-06-02 15:17:10,#goodsex get the itus ,4,happy, get the itus ,Pune,24.11,72,Clouds
+2009-06-20 12:09:32,Watching ''The Cleaner'' &amp; taking care of wifey. She's sick. ,0,sad,watching the cleaner amp taking care of wifey shes sick ,Ahmedabad,31.42,58,Clouds
+2009-04-19 09:30:19,Drinking coffee ,4,happy,drinking coffee ,Jaipur,34.37,42,Clouds
+2009-05-29 20:37:55,Good morning everyone in this twitter world! Bangun jam segini mulu  http://myloc.me/23fl,0,sad,good morning everyone in this twitter world bangun jam segini mulu  ,Lucknow,29.99,69,Clouds
+2009-05-17 04:56:54,"Atlantis &amp; Hubble current location now is above Indonesia. Wave your hand guys, wave!  #fb",4,happy,atlantis amp hubble current location now is above indonesia wave your hand guys wave  ,Delhi,34.12,51,Clouds
+2009-05-02 23:44:50,Another loser: i lost the game  http://tinyurl.com/cfz2lj,0,sad,another loser i lost the game  ,Mumbai,27.72,82,Clouds
+2009-06-15 20:18:22,stuck at home in Temecula for the night  someone come save me pleaseeeeee!,0,sad,stuck at home in temecula for the night  someone come save me pleaseeeeee,Bangalore,23.83,77,Clouds
+2009-05-04 04:18:33,@rhyanoutrageous thank you ,4,happy, thank you ,Chennai,29.34,81,Clouds
+2009-06-15 21:11:21,@MeiNg I'll settle for The Last Lecture by Randy Pausch instead. He is inspirational. ,4,happy, ill settle for the last lecture by randy pausch instead he is inspirational ,Kolkata,28.74,81,Clouds
+2009-04-19 23:26:51,going to bed.  i wish the hubby had more time off ,0,sad,going to bed  i wish the hubby had more time off ,Hyderabad,23.13,89,Clouds
+2009-06-18 20:57:27,David started basic Wednesday and they took his phone for who knows how long... missing his voice and his kisses ,0,sad,david started basic wednesday and they took his phone for who knows how long missing his voice and his kisses ,Pune,24.11,72,Clouds
+2009-06-04 09:07:44,@Curiosafmmb  Dave yeah I prefer David actually!!. Yes he was Bill from Kill Bill. From what Ive hearded he had hung himslef ... ,0,sad,  dave yeah i prefer david actually yes he was bill from kill bill from what ive hearded he had hung himslef  ,Ahmedabad,31.42,58,Clouds
+2009-06-21 08:53:46,@d33pak ya...but m missing my &quot;beeryani&quot; on the weekends ,0,sad, yabut m missing my quotbeeryaniquot on the weekends ,Jaipur,34.37,42,Clouds
+2009-06-20 01:52:41,so bored !  i want the Sims to hurry up and download,0,sad,so bored   i want the sims to hurry up and download,Lucknow,29.99,69,Clouds
+2009-06-19 17:49:06,@persef I would gladly have him back in exchange for my sandwich though ,0,sad, i would gladly have him back in exchange for my sandwich though ,Delhi,34.12,51,Clouds
+2009-05-29 15:54:26,"@Boyislost Ok im gona go  but I dont want to be close with anyone atm, sry if it takes a min to reply im at work so i have to hide twitter",4,happy, ok im gona go  but i dont want to be close with anyone atm sry if it takes a min to reply im at work so i have to hide twitter,Mumbai,27.72,82,Clouds
+2009-05-31 04:23:40,@aeroform Naptime for me. Can't keep my eyes open. ,0,sad, naptime for me cant keep my eyes open ,Bangalore,23.83,77,Clouds
+2009-05-29 23:34:13,"fed up with Windows, so Ubuntu Netbook Remix Edition is now on Kaylee ",4,happy,fed up with windows so ubuntu netbook remix edition is now on kaylee ,Chennai,29.34,81,Clouds
+2009-04-07 02:27:28,I will never like getting up at 5 am  dumb work schedule.,0,sad,i will never like getting up at  am  dumb work schedule,Kolkata,28.74,81,Clouds
+2009-06-19 11:58:27,@DVDeMm Want my Amazon box to arrive.  Probably Royal Mail playing football with it!,0,sad, want my amazon box to arrive  probably royal mail playing football with it,Hyderabad,23.13,89,Clouds
+2009-06-02 01:38:41,"@dougiedaydream well yes but with a trilby, red wayfarers and a vintage casio watch in tow. i thought i looked good. ",0,sad, well yes but with a trilby red wayfarers and a vintage casio watch in tow i thought i looked good ,Pune,24.11,72,Clouds
+2009-05-17 20:40:31,@KellyOlexa it is like boxers under pants....It is to be FREE or not to BE FREE!!!! ,4,happy, it is like boxers under pantsit is to be free or not to be free ,Ahmedabad,31.42,58,Clouds
+2009-06-20 22:55:35,@GoCheeksGo i tried to vote but my phone sucks and wouldn't let me ,0,sad, i tried to vote but my phone sucks and wouldnt let me ,Jaipur,34.37,42,Clouds
+2009-05-29 12:13:27,@mileycyrus voting has closed ,0,sad, voting has closed ,Lucknow,29.99,69,Clouds
+2009-05-18 02:27:27,@SashaKane - That's a great mood to be in. Do you mind if I borrow it for this week?! ,4,happy,  thats a great mood to be in do you mind if i borrow it for this week ,Delhi,34.12,51,Clouds
+2009-06-21 09:14:12,@TheRealAD aw poor baby ,0,sad, aw poor baby ,Mumbai,27.72,82,Clouds
+2009-06-07 00:36:12,Photo: suneoke: saddens me that sheâs taken  *tear* lol http://tumblr.com/xgo1z1owl,0,sad,photo suneoke saddens me that shes taken  tear lol ,Bangalore,23.83,77,Clouds
+2009-05-16 20:24:14,Then - Brad Paisley ,4,happy,then  brad paisley ,Chennai,29.34,81,Clouds
+2009-06-15 15:17:33,giving up on having a job this summer. Managers continue to fail to call me. Looks like its going to be a long broke year. ,0,sad,giving up on having a job this summer managers continue to fail to call me looks like its going to be a long broke year ,Kolkata,28.74,81,Clouds
+2009-06-16 23:41:55,Rumours OS 3 being released when Apple employees get into work (9am). Therefore 5pm uk time ,0,sad,rumours os  being released when apple employees get into work am therefore pm uk time ,Hyderabad,23.13,89,Clouds
+2009-06-07 09:25:12,uni. home work ,0,sad,uni home work ,Pune,24.11,72,Clouds
+2009-06-25 07:35:26,enjoying my week off...now comes the busy part... ,0,sad,enjoying my week offnow comes the busy part ,Ahmedabad,31.42,58,Clouds
+2009-06-06 03:31:42,"@BecM49 i am, thanks (: i'll put you in mine ",4,happy, i am thanks  ill put you in mine ,Jaipur,34.37,42,Clouds
+2009-06-01 02:28:26,"Checking in  Good morning twitter fam! I'm in Miami, up bright and early, ready to hit the gym! xo",4,happy,checking in  good morning twitter fam im in miami up bright and early ready to hit the gym xo,Lucknow,29.99,69,Clouds
+2009-05-29 12:53:45,@NickHexum Please play Daisy Cutter+Jackpot+the rest of Uplifter in Atlanta. That'd be a pretty good 4th of July. ,4,happy, please play daisy cutterjackpotthe rest of uplifter in atlanta thatd be a pretty good th of july ,Delhi,34.12,51,Clouds
+2009-05-31 23:23:03,"Bank card fraud victim  $1,600 spent in 24hs. $400 at Celebrities, $400 at Richards on Richards and $800 at Safeway.",0,sad,bank card fraud victim   spent in hs  at celebrities  at richards on richards and  at safeway,Mumbai,27.72,82,Clouds
+2009-06-07 04:38:07,has to go. bye  http://plurk.com/p/z2e6x,4,happy,has to go bye  ,Bangalore,23.83,77,Clouds
+2009-05-30 19:54:56,taking a bath..and then go to the chruch!! ,4,happy,taking a bathand then go to the chruch ,Chennai,29.34,81,Clouds
+2009-05-01 20:44:01,"not good, not good. ",0,sad,not good not good ,Kolkata,28.74,81,Clouds
+2009-05-31 04:16:25,"@mr_billiam did you get your yabbies and your yobbos mixed up, or something?  ",4,happy, did you get your yabbies and your yobbos mixed up or something  ,Hyderabad,23.13,89,Clouds
+2009-05-10 07:33:41,@peanut2468 basically i was going 2 go 2 ur casa as soon as i got my license but u wernt home so... ,4,happy, basically i was going  go  ur casa as soon as i got my license but u wernt home so ,Pune,24.11,72,Clouds
+2009-06-15 00:42:07,cold and flu tablets = EPIC FAIL. they dont even work ,0,sad,cold and flu tablets  epic fail they dont even work ,Ahmedabad,31.42,58,Clouds
+2009-06-22 15:00:35,@TheWayIRoll I don't know where is she... but I miss her  ahah goodnight honey! n.n,0,sad, i dont know where is she but i miss her  ahah goodnight honey nn,Jaipur,34.37,42,Clouds
+2009-05-10 09:07:24,tired  and beleives early mornings should be illegal!,0,sad,tired  and beleives early mornings should be illegal,Lucknow,29.99,69,Clouds
+2009-06-06 14:49:40,"@dontforgetchaos aaah, sorry, you know i love you really!! hee hee  ;)",4,happy, aaah sorry you know i love you really hee hee  ,Delhi,34.12,51,Clouds
+2009-05-04 06:49:18,@FredroC1469 most of the time ,4,happy, most of the time ,Mumbai,27.72,82,Clouds
+2009-05-29 17:53:54,"Oven has been on since 3:15... that's almost 3 hours!  3 loaves (1 cinnamon bread) &amp; 2.5 batches of rolls are baked. scones, not made yet ",0,sad,oven has been on since  thats almost  hours   loaves  cinnamon bread amp  batches of rolls are baked scones not made yet ,Bangalore,23.83,77,Clouds
+2009-06-17 05:40:50,"@Em_Love yes, and FOH played at my friends school  how unfair?",0,sad, yes and foh played at my friends school  how unfair,Chennai,29.34,81,Clouds
+2009-05-01 23:24:03,man... I'll miss the JRuby on Google App Engine talk at #railsconf ,0,sad,man ill miss the jruby on google app engine talk at  ,Kolkata,28.74,81,Clouds
+2009-06-19 00:10:41,friday night and no 1 to go party wit im a loner in my own country ,0,sad,friday night and no  to go party wit im a loner in my own country ,Hyderabad,23.13,89,Clouds
+2009-05-22 07:09:46,"@Stella_Holman no, orkut? ",4,happy, no orkut ,Pune,24.11,72,Clouds
+2009-05-29 13:29:32,"oh no, i need new work shoes...i broke this one! ",0,sad,oh no i need new work shoesi broke this one ,Ahmedabad,31.42,58,Clouds
+2009-05-31 02:06:45,@paulpuddifoot your pic/avatar is gone ,0,sad, your picavatar is gone ,Jaipur,34.37,42,Clouds
+2009-05-02 03:59:08,"Ahh, I'm stuck... For my birthday I can either get a new phone (SMSNG Omnia) or I can get a Sky box in my room... HELP! Idk what to doooo ",0,sad,ahh im stuck for my birthday i can either get a new phone smsng omnia or i can get a sky box in my room help idk what to doooo ,Lucknow,29.99,69,Clouds
+2009-06-16 06:30:34,@jmaxxz sssshhhhh....I run both at work ,4,happy, sssshhhhhi run both at work ,Delhi,34.12,51,Clouds
+2009-06-22 16:00:37,Praying! I live like an hour away from where it happened. ,0,sad,praying i live like an hour away from where it happened ,Mumbai,27.72,82,Clouds
+2009-05-29 08:54:05,at work  then back to my baby's house ,0,sad,at work  then back to my babys house ,Bangalore,23.83,77,Clouds
+2009-05-02 02:42:05,going to 3 Horseshoes in Radnage for lunch with friends. Should be good! ,4,happy,going to  horseshoes in radnage for lunch with friends should be good ,Chennai,29.34,81,Clouds
+2009-05-31 04:22:48,don't want to do my maths exam tomozz  iv left school for good  why make us come back and do them ,0,sad,dont want to do my maths exam tomozz  iv left school for good  why make us come back and do them ,Kolkata,28.74,81,Clouds
+2009-06-06 12:46:43,@KatiaDominos lmao yeah it is xD &amp; omg i put joe dancing to single ladies on my ipod!!! ,4,happy, lmao yeah it is xd amp omg i put joe dancing to single ladies on my ipod ,Hyderabad,23.13,89,Clouds
+2009-06-22 17:08:56,"F to the Y to the I: I'm now home, but my stupid phone is still @ the office, so don't bother calling or texting me tonight. ",0,sad,f to the y to the i im now home but my stupid phone is still  the office so dont bother calling or texting me tonight ,Pune,24.11,72,Clouds
+2009-04-07 04:41:58,@HURM the way i have been feeling the last few days and nights... i think i have conficker... it tried playing opossum... it didnt work ,0,sad, the way i have been feeling the last few days and nights i think i have conficker it tried playing opossum it didnt work ,Ahmedabad,31.42,58,Clouds
+2009-05-03 02:23:20,I am ill  And that when it's such good weather! Oh my english is so bad ,0,sad,i am ill  and that when its such good weather oh my english is so bad ,Jaipur,34.37,42,Clouds
+2009-06-03 01:43:34,out of smokes and broke as a mothafuckerrr ,0,sad,out of smokes and broke as a mothafuckerrr ,Lucknow,29.99,69,Clouds
+2009-06-23 07:43:47,Sad that @mimigee will no longer be a fixture when i go visit NYC   Good luck at school!,0,sad,sad that  will no longer be a fixture when i go visit nyc   good luck at school,Delhi,34.12,51,Clouds
+2009-05-30 14:27:34,About to Hang out with Sadey ,4,happy,about to hang out with sadey ,Mumbai,27.72,82,Clouds
+2009-06-23 08:38:49,wtf happened 2 the sun?? its all alex's fault (quote &quot;Wot wud u do if it started pissin it down?&quot;) rain sucks ,0,sad,wtf happened  the sun its all alexs fault quote quotwot wud u do if it started pissin it downquot rain sucks ,Bangalore,23.83,77,Clouds
+2009-05-17 06:51:57,"at home, restingg ",4,happy,at home restingg ,Chennai,29.34,81,Clouds
+2009-06-17 10:07:26,U still waiting for still update! I've been sitting like a mad man all day! ,0,sad,u still waiting for still update ive been sitting like a mad man all day ,Kolkata,28.74,81,Clouds
+2009-06-17 08:04:09,We can has OS 3 update?.......no we hasn't.   (shakes head and mopes away),0,sad,we can has os  updateno we hasnt   shakes head and mopes away,Hyderabad,23.13,89,Clouds
+2009-06-07 19:43:40,need rest but need Michelle ,0,sad,need rest but need michelle ,Pune,24.11,72,Clouds
+2009-06-23 11:19:20,@tpphotography bonkers isn't it? Pocket calculator + photocell somehow = Â£Â£Â£Â£'s I've been looking for a reasonably priced one but no joy ,0,sad, bonkers isnt it pocket calculator  photocell somehow  s ive been looking for a reasonably priced one but no joy ,Ahmedabad,31.42,58,Clouds
+2009-06-07 11:28:56,@PollyPocket3 do you hate us ? ,0,sad, do you hate us  ,Jaipur,34.37,42,Clouds
+2009-06-07 17:15:12,my car is dead........ what am i to do  Poor bug,0,sad,my car is dead what am i to do  poor bug,Lucknow,29.99,69,Clouds
+2009-05-31 23:09:34,"Sorry, that last was for @popculturezoo Doctor who geek speak ",4,happy,sorry that last was for  doctor who geek speak ,Delhi,34.12,51,Clouds
+2009-04-20 06:39:18,@backstreetboys Happy b-day Backstreeets!!!!Hope you go for many many moree!!Thank you for ur amazing music ,4,happy, happy bday backstreeetshope you go for many many moreethank you for ur amazing music ,Mumbai,27.72,82,Clouds
+2009-06-06 04:22:17,@whataboutadam My sis didnt get hers either ,0,sad, my sis didnt get hers either ,Bangalore,23.83,77,Clouds
+2009-06-18 04:13:05,Morning to all! Hope its a nicer day where you are compaired to here. It's going to rain all day and the next 2 days. ,0,sad,morning to all hope its a nicer day where you are compaired to here its going to rain all day and the next  days ,Chennai,29.34,81,Clouds
+2009-06-03 04:54:09,"@dannygokey Awww, Danny. Sorry I'm late!  Who wouldn't accept the offer to teach you uploading?",4,happy, awww danny sorry im late  who wouldnt accept the offer to teach you uploading,Kolkata,28.74,81,Clouds
+2009-06-02 21:00:09,@RoseZag She's writing a book! It's good so far ,4,happy, shes writing a book its good so far ,Hyderabad,23.13,89,Clouds
+2009-06-02 03:11:15,@mark_hadfield That's the other solution.  But it then stops genuine people from following you spontaneously based on your tweets.,4,happy, thats the other solution  but it then stops genuine people from following you spontaneously based on your tweets,Pune,24.11,72,Clouds
+2009-05-30 17:08:11,@siamusic the land of replies is indeed a labourius place  at least you know you're loved!  xo,4,happy, the land of replies is indeed a labourius place  at least you know youre loved  xo,Ahmedabad,31.42,58,Clouds
+2009-06-23 13:06:44,Wondering if I should take K to the release of Transformers 2 tomorrow. I hate crowds ,0,sad,wondering if i should take k to the release of transformers  tomorrow i hate crowds ,Jaipur,34.37,42,Clouds
+2009-04-19 05:06:49,"Only problem was lack of sauce The sauce is awesome, but not enough ",0,sad,only problem was lack of sauce the sauce is awesome but not enough ,Lucknow,29.99,69,Clouds
+2009-06-25 08:38:46,"@divestoclimb It lets me through, but then gives a &quot;Sorry, no exact matches were found, but other tickets may still be available.&quot; error ",0,sad, it lets me through but then gives a quotsorry no exact matches were found but other tickets may still be availablequot error ,Delhi,34.12,51,Clouds
+2009-06-07 16:29:46,@Lifehigh83 I requested you. ,4,happy, i requested you ,Mumbai,27.72,82,Clouds
+2009-04-20 02:28:33,Having a well-deserved Guinness ,4,happy,having a welldeserved guinness ,Bangalore,23.83,77,Clouds
+2009-06-07 18:28:20,I can NOT believe my baby girl is 3!! I know I'm  lame b/c I'm actually sad about this!!I don't want her to grow up boo hoo ,0,sad,i can not believe my baby girl is  i know im  lame bc im actually sad about thisi dont want her to grow up boo hoo ,Chennai,29.34,81,Clouds
+2009-06-21 02:50:50,"@giloi2009 Yeah I got excited by seeing that changelog, then was bitterly disappointed there's no push notifications for Facebook ",0,sad, yeah i got excited by seeing that changelog then was bitterly disappointed theres no push notifications for facebook ,Kolkata,28.74,81,Clouds
+2009-06-17 09:12:57,Everybody's laughing at my neon day-glow argyle socks. ,0,sad,everybodys laughing at my neon dayglow argyle socks ,Hyderabad,23.13,89,Clouds
+2009-06-15 13:54:36,@bowwow614 In your option i have to take tha nice guy ,4,happy, in your option i have to take tha nice guy ,Pune,24.11,72,Clouds
+2009-05-29 23:34:38,sunny morning ,4,happy,sunny morning ,Ahmedabad,31.42,58,Clouds
+2009-05-30 01:19:21,"waiting for my dad to pick me up. we're gonna watch a movie  btw, new photos SOON! ",4,happy,waiting for my dad to pick me up were gonna watch a movie  btw new photos soon ,Jaipur,34.37,42,Clouds
+2009-06-17 22:02:41,hates smart-arse rookie cops on power trips who pull you over and issue $189 fines ,0,sad,hates smartarse rookie cops on power trips who pull you over and issue  fines ,Lucknow,29.99,69,Clouds
+2009-06-07 20:35:37,@WSOPlive we appreciate the unscheduled coverage. keep it up and give the crew a raise ,4,happy, we appreciate the unscheduled coverage keep it up and give the crew a raise ,Delhi,34.12,51,Clouds
+2009-05-30 13:57:24,"@sharathpatali right on ! Just bought this new computer, will be mig easier to get code done ",4,happy, right on  just bought this new computer will be mig easier to get code done ,Mumbai,27.72,82,Clouds
+2009-06-06 09:35:00,i am so bored!!  well lets see i am writing my spanish paper and guess wht! schools over  FML!,0,sad,i am so bored  well lets see i am writing my spanish paper and guess wht schools over  fml,Bangalore,23.83,77,Clouds
+2009-06-15 11:05:43,woot! i have 77 points on my subway card! 75 points is a free foot long!  going to get it now!,4,happy,woot i have  points on my subway card  points is a free foot long  going to get it now,Chennai,29.34,81,Clouds
+2009-05-09 20:46:32,@kimgoss i been saying that the past 2 weeks that i miss playing spades and drinkin chillin.. the good old days.. let me know baby ,4,happy, i been saying that the past  weeks that i miss playing spades and drinkin chillin the good old days let me know baby ,Kolkata,28.74,81,Clouds
+2009-05-18 06:40:38,No mini vacations for the moment  Starting a week with different / many things to do. Thank you God,0,sad,no mini vacations for the moment  starting a week with different  many things to do thank you god,Hyderabad,23.13,89,Clouds
+2009-05-03 19:26:22,i have no idea how i'm going to fix things with me and landon! i want things back to normal but i don't know how and if that is possible ,0,sad,i have no idea how im going to fix things with me and landon i want things back to normal but i dont know how and if that is possible ,Pune,24.11,72,Clouds
+2009-05-30 20:53:11,@Chinkerfly they never said anything interesting and i always had to wade through dozens of their tweets to get to people i cared about ,4,happy, they never said anything interesting and i always had to wade through dozens of their tweets to get to people i cared about ,Ahmedabad,31.42,58,Clouds
+2009-06-15 06:18:34, well maybe next time my dreams with come true,0,sad, well maybe next time my dreams with come true,Jaipur,34.37,42,Clouds
+2009-05-26 22:59:50,"BPHS Orchestra spring concert tomorrow night!  7:00 pm @ the PAC! Freefreefree! B there or B square! As Reuben says, &quot;It's instupituous!&quot;",4,happy,bphs orchestra spring concert tomorrow night   pm  the pac freefreefree b there or b square as reuben says quotits instupituousquot,Lucknow,29.99,69,Clouds
+2009-05-31 02:28:04,@regalaffair hey you are up early ,4,happy, hey you are up early ,Delhi,34.12,51,Clouds
+2009-05-04 01:57:32,@BevClement I don't think we talk much about Banks these days - not quite as respected as they once were ,4,happy, i dont think we talk much about banks these days  not quite as respected as they once were ,Mumbai,27.72,82,Clouds
+2009-05-29 23:00:05,"Shout out to the Koblers... As Sure as the Dawn, here we go! Thanks again ",4,happy,shout out to the koblers as sure as the dawn here we go thanks again ,Bangalore,23.83,77,Clouds
+2009-06-07 09:32:27,i've watched titanic hundreds of times but leo dying still gets me every time. ,0,sad,ive watched titanic hundreds of times but leo dying still gets me every time ,Chennai,29.34,81,Clouds
+2009-05-09 20:41:02,@nickasaur hey nick  how are youu? x,4,happy, hey nick  how are youu x,Kolkata,28.74,81,Clouds
+2009-06-03 04:02:48,"Just edited about a million photos of cats, none of them for lolz. ",0,sad,just edited about a million photos of cats none of them for lolz ,Hyderabad,23.13,89,Clouds
+2009-05-17 21:05:17,"G'night,  I'll try to get on tomorrow! ",4,happy,gnight  ill try to get on tomorrow ,Pune,24.11,72,Clouds
+2009-05-03 05:39:01,Good Morning Everyone... grinding the beans to make coconut macroon coffee anyone for a cup ,4,happy,good morning everyone grinding the beans to make coconut macroon coffee anyone for a cup ,Ahmedabad,31.42,58,Clouds
+2009-05-02 08:02:15,@emzsy I've come down with something. Had to come home from work.  feel shit. xox,0,sad, ive come down with something had to come home from work  feel shit xox,Jaipur,34.37,42,Clouds
+2009-04-18 16:59:01,"It's brain-fried deadline time.  Dazed, unfocused, a bit of an out-of-body experience.  21 years ago, I would have paid to feel this way. ",4,happy,its brainfried deadline time  dazed unfocused a bit of an outofbody experience   years ago i would have paid to feel this way ,Lucknow,29.99,69,Clouds
+2009-05-30 19:44:57,im like really bored. staring at my arms..the autographs are on my hands are kinda fading away. but the arm parts r still der ,4,happy,im like really bored staring at my armsthe autographs are on my hands are kinda fading away but the arm parts r still der ,Delhi,34.12,51,Clouds
+2009-06-01 14:07:47,@yelyahwilliams why is franklin so sad?  everytime i hear it for some reason it makes me think of good times but im on the verge of cryin,0,sad, why is franklin so sad  everytime i hear it for some reason it makes me think of good times but im on the verge of cryin,Mumbai,27.72,82,Clouds
+2009-06-16 15:54:26,Not looking forward to work AT ALL today. ,0,sad,not looking forward to work at all today ,Bangalore,23.83,77,Clouds
+2009-05-30 09:39:28,@SongzYuuup Heyyyy Trey! That's wassup! Take it over! Lol Have a good day in the VA ,4,happy, heyyyy trey thats wassup take it over lol have a good day in the va ,Chennai,29.34,81,Clouds
+2009-05-03 16:24:10,@spencerpratt Congrats on the wedding  I'm glad you waited to have a nice traditional wedding!!,4,happy, congrats on the wedding  im glad you waited to have a nice traditional wedding,Kolkata,28.74,81,Clouds
+2009-04-19 05:29:05,"@dbdc We should be confident, especially with our home form. King Is a big miss though, but I've got lots of faith in Dawson. COYS! ",4,happy, we should be confident especially with our home form king is a big miss though but ive got lots of faith in dawson coys ,Hyderabad,23.13,89,Clouds
+2009-06-15 18:01:39,@Bran2110 eat a frosty for me ,4,happy, eat a frosty for me ,Pune,24.11,72,Clouds
+2009-05-18 02:03:03,"@jodabone Cool, meet u there!  I'm gonna drive tho cause that's a long walk up the hill... lol. Before 9am they got Early Bird Specials.",4,happy, cool meet u there  im gonna drive tho cause thats a long walk up the hill lol before am they got early bird specials,Ahmedabad,31.42,58,Clouds
+2009-05-18 05:03:29,just found out that the Boston Celtics lost to the Orlando Magic!! FUCK FUCK!! What a way to start the working week ,0,sad,just found out that the boston celtics lost to the orlando magic fuck fuck what a way to start the working week ,Jaipur,34.37,42,Clouds
+2009-06-20 06:02:07,Feels partly responsible about the trouble in Iran cos his avatar STILL isn't green. ,0,sad,feels partly responsible about the trouble in iran cos his avatar still isnt green ,Lucknow,29.99,69,Clouds
+2009-06-03 08:43:23,@radna  is jesus christ also tweeting I wonder?,4,happy,  is jesus christ also tweeting i wonder,Delhi,34.12,51,Clouds
+2009-06-03 00:53:55,@TVdotcomAU Don't forget to watch @newinventors too! ,4,happy, dont forget to watch  too ,Mumbai,27.72,82,Clouds
+2009-06-17 19:07:13,Sittin on a train platform waitin for a train. Quite possibly hav just failed another test ,0,sad,sittin on a train platform waitin for a train quite possibly hav just failed another test ,Bangalore,23.83,77,Clouds
+2009-06-20 23:12:30,"Slightly better version. Posted the wrong one earlier. Sky is still blown out, sadly  Love the shot tho http://yfrog.com/7grxqj",0,sad,slightly better version posted the wrong one earlier sky is still blown out sadly  love the shot tho ,Chennai,29.34,81,Clouds
+2009-05-17 10:35:42,were the ones who made you  x,4,happy,were the ones who made you  x,Kolkata,28.74,81,Clouds
+2009-06-02 05:02:12,FINALLY won a game of Settlers Of Catan. Also booked restaurant for birthday dinner. Life is good ,4,happy,finally won a game of settlers of catan also booked restaurant for birthday dinner life is good ,Hyderabad,23.13,89,Clouds
+2009-05-03 06:22:00,"is dreading work tomoz, wonders if everything was done correctly at close :S gonna double check everything b4 hand ",0,sad,is dreading work tomoz wonders if everything was done correctly at close s gonna double check everything b hand ,Pune,24.11,72,Clouds
+2009-06-15 11:18:11,@adaftscotslass Get 100 followers a day using www.tweeterfollow.com Once you add everyone you are on the train or pay vip ,4,happy, get  followers a day using wwwtweeterfollowcom once you add everyone you are on the train or pay vip ,Ahmedabad,31.42,58,Clouds
+2009-06-17 11:13:28,@Nassira yep.yep. day job is kicking my butt at the moment. ,0,sad, yepyep day job is kicking my butt at the moment ,Jaipur,34.37,42,Clouds
+2009-05-14 01:16:06,Together with michael. We just decided to cook some breakfast together. ,4,happy,together with michael we just decided to cook some breakfast together ,Lucknow,29.99,69,Clouds
+2009-05-29 10:15:03,@MissCaseyB I know what you mean  rain sucks...,0,sad, i know what you mean  rain sucks,Delhi,34.12,51,Clouds
+2009-05-17 21:01:19,*sigh* more boring history to do ,0,sad,sigh more boring history to do ,Mumbai,27.72,82,Clouds
+2009-05-30 16:50:13,@AIIisonIraheta What's up!? You rock! ,4,happy, whats up you rock ,Bangalore,23.83,77,Clouds
+2009-05-31 02:41:58,uploading photos from photoshoooot  guitarist is uber persistant..they're coming!,4,happy,uploading photos from photoshoooot  guitarist is uber persistanttheyre coming,Chennai,29.34,81,Clouds
+2009-06-07 16:06:54,today was just SPLENDID!!! ,4,happy,today was just splendid ,Kolkata,28.74,81,Clouds
+2009-05-30 12:51:05,major focus issues in rehearsal today-wish i was outside so bad  cant wait to bbq hope 2nite !! come on 6 o'clock get here already,0,sad,major focus issues in rehearsal todaywish i was outside so bad  cant wait to bbq hope nite  come on  oclock get here already,Hyderabad,23.13,89,Clouds
+2009-06-01 02:08:08,in Rome and it's raining ,0,sad,in rome and its raining ,Pune,24.11,72,Clouds
+2009-06-22 11:19:15,Foiled again! Being dragged out by parents at a moments notice. I want to draw! ,0,sad,foiled again being dragged out by parents at a moments notice i want to draw ,Ahmedabad,31.42,58,Clouds
+2009-04-21 02:22:23,I wish I could sleep ,0,sad,i wish i could sleep ,Jaipur,34.37,42,Clouds
+2009-05-29 11:25:13,@_Enigma__ I say stick to your guns...it will drive the women crazy. ,4,happy, i say stick to your gunsit will drive the women crazy ,Lucknow,29.99,69,Clouds
+2009-06-15 02:14:05,@LeahJKelly  that sucks.,0,sad,  that sucks,Delhi,34.12,51,Clouds
+2009-06-01 05:25:26,@dreamergirl17 no  wayyy to much hw I gotta finish first. And it's way cold out!,0,sad, no  wayyy to much hw i gotta finish first and its way cold out,Mumbai,27.72,82,Clouds
+2009-06-15 00:18:43,@markmejia and @albertposis just made my day  luvv deemmm!!! haha,4,happy, and  just made my day  luvv deemmm haha,Bangalore,23.83,77,Clouds
+2009-05-30 12:57:09,@MothersAnthem I have a request! Play Structure of a Heart tonite please ,4,happy, i have a request play structure of a heart tonite please ,Chennai,29.34,81,Clouds
+2009-06-02 13:24:50,"i mean, i thought i was supposed to be like, excited and happy at this point, not stressed ",0,sad,i mean i thought i was supposed to be like excited and happy at this point not stressed ,Kolkata,28.74,81,Clouds
+2009-04-20 07:44:53,@mosesma You strike again with your article on twiter !   http://bit.ly/Ob9HA,4,happy, you strike again with your article on twiter    ,Hyderabad,23.13,89,Clouds
+2009-06-17 18:20:42,is so tired from my workout..plus.. waiting to get some work soo bad.. UGH&gt;. i hate not having any money .. so much outcome and no income ,0,sad,is so tired from my workoutplus waiting to get some work soo bad ughgt i hate not having any money  so much outcome and no income ,Pune,24.11,72,Clouds
+2009-04-20 05:24:29,"@brandonwalowitz Aww... I hope you change your mind about Twitter. If you ever do, I'll be here reading. ",4,happy, aww i hope you change your mind about twitter if you ever do ill be here reading ,Ahmedabad,31.42,58,Clouds
+2009-06-16 16:27:25,http://digg.com/d1twJ0 sad  i was rootin' for her!,0,sad, sad  i was rootin for her,Jaipur,34.37,42,Clouds
+2009-06-07 15:05:50,@RobinBrown78 You mean you're not a celeb? only followed you thinking you were related to Gordon silly me ,4,happy, you mean youre not a celeb only followed you thinking you were related to gordon silly me ,Lucknow,29.99,69,Clouds
+2009-06-06 14:17:24,"I just finished following some people. Gah, I'm so tired. Goodnight Tweetpeople. ",4,happy,i just finished following some people gah im so tired goodnight tweetpeople ,Delhi,34.12,51,Clouds
+2009-06-18 00:48:52,"@jack_herer  Hahahaha, what snow??? Still nothing  ",0,sad,  hahahaha what snow still nothing  ,Mumbai,27.72,82,Clouds
+2009-05-04 06:13:44,@dages58 lol after this weekend yea ur right  text me cause im goin to 3rd and they dont have computers there  bye bye,4,happy, lol after this weekend yea ur right  text me cause im goin to rd and they dont have computers there  bye bye,Bangalore,23.83,77,Clouds
+2009-06-20 16:19:27,@EdMunster I know don't remind me  ha,0,sad, i know dont remind me  ha,Chennai,29.34,81,Clouds
+2009-05-30 09:41:38,@giraffette special eddie pout is bloody fantastic. enjoyed it very much. thanks. ,4,happy, special eddie pout is bloody fantastic enjoyed it very much thanks ,Kolkata,28.74,81,Clouds
+2009-06-07 11:39:18,"@JELuttrull Thanks   Yeah, I was watching it a bit earlier, but my heart wasn't really in it.  Shocking, I know!",4,happy, thanks   yeah i was watching it a bit earlier but my heart wasnt really in it  shocking i know,Hyderabad,23.13,89,Clouds
+2009-06-03 03:25:07,"@sakurajewellery yeah, it's awful  he woke up doing this little cry'y mewing sound this morning, half asleep  How are you today Hun? X",0,sad, yeah its awful  he woke up doing this little cryy mewing sound this morning half asleep  how are you today hun x,Pune,24.11,72,Clouds
+2009-05-30 19:24:52,We're watching Magic game at home... Hopefully they win so we could go to Orlando for Final  miss Orlando very much...,4,happy,were watching magic game at home hopefully they win so we could go to orlando for final  miss orlando very much,Ahmedabad,31.42,58,Clouds
+2009-05-14 05:47:45,I don't want my sister to go back ,0,sad,i dont want my sister to go back ,Jaipur,34.37,42,Clouds
+2009-06-18 15:59:03,Feeelin Pretty Shitty. All She Had to Do Was Txt me once to remind me why i fell For Her. Why Must She Fuck With me like This ,0,sad,feeelin pretty shitty all she had to do was txt me once to remind me why i fell for her why must she fuck with me like this ,Lucknow,29.99,69,Clouds
+2009-06-23 21:39:46,I miss my Brandon ,0,sad,i miss my brandon ,Delhi,34.12,51,Clouds
+2009-05-04 06:48:09,Off to class! ,0,sad,off to class ,Mumbai,27.72,82,Clouds
+2009-06-18 20:43:16,this is embarrassing who wants to set up texting via phone for me cuz i can't ,0,sad,this is embarrassing who wants to set up texting via phone for me cuz i cant ,Bangalore,23.83,77,Clouds
+2009-05-02 12:28:08,"@vysh_doss Good stuff, ain't it? Yeah, you told me about Aamir. And you already know what Rendang is like reheated. ",4,happy, good stuff aint it yeah you told me about aamir and you already know what rendang is like reheated ,Chennai,29.34,81,Clouds
+2009-05-10 19:26:17,"@Dj_Phat awwwwwwwwww, that's how ur doin me now?? lol makin fun of my spelling??  i'ma beat u up when i see u! lol",0,sad, awwwwwwwwww thats how ur doin me now lol makin fun of my spelling  ima beat u up when i see u lol,Kolkata,28.74,81,Clouds
+2009-06-01 23:16:05,@kareemdmapantz maybe tomorrow. hahaha i miss youuuu! you have a cam?! ohhh yer laptop! ,4,happy, maybe tomorrow hahaha i miss youuuu you have a cam ohhh yer laptop ,Hyderabad,23.13,89,Clouds
+2009-06-01 18:12:08,@xxkamm oh man you hardass  x3,4,happy, oh man you hardass  x,Pune,24.11,72,Clouds
+2009-05-30 10:21:34,Lazy day. Can't wait for maneater tonight. The book was awesome! ,4,happy,lazy day cant wait for maneater tonight the book was awesome ,Ahmedabad,31.42,58,Clouds
+2009-05-03 05:57:05,"I can finally go to bed now that I know who gets the gold logie,  im disappointed it wasn't rove though  ",0,sad,i can finally go to bed now that i know who gets the gold logie  im disappointed it wasnt rove though  ,Jaipur,34.37,42,Clouds
+2009-06-06 16:27:02,"@MSPMike Okay Mike, you have great photos, but can you take them right-side-up?  I'm getting a neck crick!  ",4,happy, okay mike you have great photos but can you take them rightsideup  im getting a neck crick  ,Lucknow,29.99,69,Clouds
+2009-05-22 03:31:33,seems like a nice day-guess it's off to the park with my lil man ,4,happy,seems like a nice dayguess its off to the park with my lil man ,Delhi,34.12,51,Clouds
+2009-06-06 23:24:03,@mattsmind that's cause they are. I adopted them when my pup got into the nest &amp; ate the others. ,0,sad, thats cause they are i adopted them when my pup got into the nest amp ate the others ,Mumbai,27.72,82,Clouds
+2009-06-19 02:39:33,Not feeling it today ,0,sad,not feeling it today ,Bangalore,23.83,77,Clouds
+2009-06-05 14:07:13,@Mitchley Oh noooes! Cos of lodging with family I try to avoid getting one after 10pm... prob just as well ,4,happy, oh noooes cos of lodging with family i try to avoid getting one after pm prob just as well ,Chennai,29.34,81,Clouds
+2009-06-01 14:44:51,"@TeachJoanne you deserve it.. enjoy.  the fact that you didn't break a nail gives you some superhero status, btw. *smooch*",4,happy, you deserve it enjoy  the fact that you didnt break a nail gives you some superhero status btw smooch,Kolkata,28.74,81,Clouds
+2009-06-05 09:54:01,ahh computer class with tori and geena  watching TH HANGOVER later with torii ,4,happy,ahh computer class with tori and geena  watching th hangover later with torii ,Hyderabad,23.13,89,Clouds
+2009-06-05 15:55:55,@BrianLimond ta. we're not all racists ,0,sad, ta were not all racists ,Pune,24.11,72,Clouds
+2009-05-28 23:02:50,@JaneYee isnt traffic fantastic &lt;insert sarcasm&gt; ,4,happy, isnt traffic fantastic ltinsert sarcasmgt ,Ahmedabad,31.42,58,Clouds
+2009-05-29 11:43:34,GAMING UP A STORM TODAY! ,4,happy,gaming up a storm today ,Jaipur,34.37,42,Clouds
+2009-06-16 00:52:16,iPhone 3GS and N97 launching in Australia on the same day. Feel the marketing hype kicking into overdrive for the next 2 weeks ,4,happy,iphone gs and n launching in australia on the same day feel the marketing hype kicking into overdrive for the next  weeks ,Lucknow,29.99,69,Clouds
+2009-04-20 01:17:55,@IndyAmanda Sounds possible  It even looks so confusing u dont wanna try! I have to use it at school and I always mess up everything,4,happy, sounds possible  it even looks so confusing u dont wanna try i have to use it at school and i always mess up everything,Delhi,34.12,51,Clouds
+2009-05-31 11:30:00,wow i never thought i would have 30 followers. thanks! ,4,happy,wow i never thought i would have  followers thanks ,Mumbai,27.72,82,Clouds
+2009-06-06 06:13:25,@souljaboytellem I would have to agree with you on that ,4,happy, i would have to agree with you on that ,Bangalore,23.83,77,Clouds
+2009-05-17 17:06:50,God I wish I was still in America ,0,sad,god i wish i was still in america ,Chennai,29.34,81,Clouds
+2009-05-30 08:42:37,God damn why does my knee hurt? ,0,sad,god damn why does my knee hurt ,Kolkata,28.74,81,Clouds
+2009-06-21 07:45:53,"I heard plants can twitter, too. My little acorn-tree &quot;yusuf&quot; would cough if he could. He's really ill. ",0,sad,i heard plants can twitter too my little acorntree quotyusufquot would cough if he could hes really ill ,Hyderabad,23.13,89,Clouds
+2009-06-06 13:39:15,@wreckdagaffey very Cruella Deville of you ,4,happy, very cruella deville of you ,Pune,24.11,72,Clouds
+2009-06-18 18:43:49,"http://twitpic.com/7rish - i miss wearin' that jacket... i love the fur, i miss it ",0,sad,  i miss wearin that jacket i love the fur i miss it ,Ahmedabad,31.42,58,Clouds
+2009-05-01 21:55:57,"went to the Blue Room, saw a bunch of awesome sea turtles and ate a huge fish eye with Justin and Sayer  I love family camp!",4,happy,went to the blue room saw a bunch of awesome sea turtles and ate a huge fish eye with justin and sayer  i love family camp,Jaipur,34.37,42,Clouds
+2009-06-06 16:35:11,My better half is tending to the balcony jungle...She's planting herbs ,4,happy,my better half is tending to the balcony jungleshes planting herbs ,Lucknow,29.99,69,Clouds
+2009-05-31 09:53:31,@greekpeace I LUV buying children's bks (well all bks really... Its an obsession!). Good think its part of my daily job to buy/read them ,4,happy, i luv buying childrens bks well all bks really its an obsession good think its part of my daily job to buyread them ,Delhi,34.12,51,Clouds
+2009-05-22 05:58:52,Awww it all worked out in the end ,4,happy,awww it all worked out in the end ,Mumbai,27.72,82,Clouds
+2009-04-19 23:47:45,@getmerohit poor sutil.... tried to hard to maintain his position ,0,sad, poor sutil tried to hard to maintain his position ,Bangalore,23.83,77,Clouds
+2009-06-02 23:45:37,lets blow stuff up ,4,happy,lets blow stuff up ,Chennai,29.34,81,Clouds
+2009-06-03 05:58:40,Church Sign:  Heavenly forecast - reign forever!  ,4,happy,church sign  heavenly forecast  reign forever  ,Kolkata,28.74,81,Clouds
+2009-06-07 02:19:31,@tephanyanne That's good. How are you feeling? ,4,happy, thats good how are you feeling ,Hyderabad,23.13,89,Clouds
+2009-05-30 14:47:09,@lolhayley ah i see well i rekon we must be annoying aidan with our twitter whore antics :L cant find anything to watch on tv ,0,sad, ah i see well i rekon we must be annoying aidan with our twitter whore antics l cant find anything to watch on tv ,Pune,24.11,72,Clouds
+2009-05-29 01:31:37,@veronicasmusic Yessss UK soon! I have been waiting for years! Come to Scotland ,4,happy, yessss uk soon i have been waiting for years come to scotland ,Ahmedabad,31.42,58,Clouds
+2009-06-25 02:00:26,@jamieerinw I'm a horrible person and still haven't posted your letter ,0,sad, im a horrible person and still havent posted your letter ,Jaipur,34.37,42,Clouds
+2009-05-31 03:36:14,"@Newy_ShortStack Hahai was gonna say xD shes absolutely everywhere, its hard not to have atleast heard of her. shes great ay? ",4,happy, hahai was gonna say xd shes absolutely everywhere its hard not to have atleast heard of her shes great ay ,Lucknow,29.99,69,Clouds
+2009-06-05 19:29:42,uhhggghhhh....sick is not my idea of summer fun ,0,sad,uhhggghhhhsick is not my idea of summer fun ,Delhi,34.12,51,Clouds
+2009-06-16 06:55:03,@annakiss I'm based in the Netherlands. But still on my bucket-list is a trip to the UK/London. I think otherwise of the photogenic part ,4,happy, im based in the netherlands but still on my bucketlist is a trip to the uklondon i think otherwise of the photogenic part ,Mumbai,27.72,82,Clouds
+2009-05-22 02:45:43,@everydaystrange very exciting stuff! I'm taking my mum to get one for her birthday this year. She's gonna be 60 ,4,happy, very exciting stuff im taking my mum to get one for her birthday this year shes gonna be  ,Bangalore,23.83,77,Clouds
+2009-06-07 10:16:48,im so sorry you guys! i've been shooting on the lake all week and my phone had a tragic accident! it went to the bottom of Havasu ,0,sad,im so sorry you guys ive been shooting on the lake all week and my phone had a tragic accident it went to the bottom of havasu ,Chennai,29.34,81,Clouds
+2009-06-05 16:04:04,@gipsy_dreamer I wish you luck! *hug* You can do it! ,4,happy, i wish you luck hug you can do it ,Kolkata,28.74,81,Clouds
+2009-06-25 05:43:10,@TomFelton so will i  TEAM DRACO !!!! whoooh.,0,sad, so will i  team draco  whoooh,Hyderabad,23.13,89,Clouds
+2009-06-15 08:50:47,@Gioiaa why do i never know when there's a new chapter  remind me tomorrow please! no time now ,0,sad, why do i never know when theres a new chapter  remind me tomorrow please no time now ,Pune,24.11,72,Clouds
+2009-06-23 08:43:34,@PHAROUT85 just looked it up. the construction was funded by NY municipal bonds which will be repaid by the mets... ,0,sad, just looked it up the construction was funded by ny municipal bonds which will be repaid by the mets ,Ahmedabad,31.42,58,Clouds
+2009-05-13 22:35:21,"@tweenkle77 @aileen2u2 @WTFJAY @meghanwood @MisterNoodle according to tweetdeck, I am my only friend ",0,sad,     according to tweetdeck i am my only friend ,Jaipur,34.37,42,Clouds
+2009-06-20 11:42:56,Lions lost against South Africa 2day...  but we gave them a good match next time we will win ! xxx,0,sad,lions lost against south africa day  but we gave them a good match next time we will win  xxx,Lucknow,29.99,69,Clouds
+2009-06-05 16:00:08,"auchh, drop by 1  (23)sulumitsretsambew-id.com",0,sad,auchh drop by   sulumitsretsambewidcom,Delhi,34.12,51,Clouds
+2009-05-30 06:49:45,is in love with Mr Darcy but he's already got a gf. huhu.  le sigh.,0,sad,is in love with mr darcy but hes already got a gf huhu  le sigh,Mumbai,27.72,82,Clouds
+2009-05-01 22:25:52,Home from Wal-Mart. Groceries were somehow cheaper this week...and I'm so not complaining ,4,happy,home from walmart groceries were somehow cheaper this weekand im so not complaining ,Bangalore,23.83,77,Clouds
+2009-06-23 11:11:28,@kindstrangers GRACE! we better go see patrick wolf next year. im still super sad we missed the concert. ,0,sad, grace we better go see patrick wolf next year im still super sad we missed the concert ,Chennai,29.34,81,Clouds
+2009-06-15 14:29:32,@cassiyang crash but quite obviously i'm still awake. gonna study history later. 12 days more to terms!! are you feeling better now tho? ,4,happy, crash but quite obviously im still awake gonna study history later  days more to terms are you feeling better now tho ,Kolkata,28.74,81,Clouds
+2009-06-07 07:37:55,"@Rob_Cohn @Eric_Chambers tea is just plain good for you  white, green oolong and black (all the same plant you know)",4,happy,  tea is just plain good for you  white green oolong and black all the same plant you know,Hyderabad,23.13,89,Clouds
+2009-05-31 17:36:30,"gonna watch the MTV awards, too bad I'm not there! ",0,sad,gonna watch the mtv awards too bad im not there ,Pune,24.11,72,Clouds
+2009-06-20 06:04:12,I adore the mornings when I bawl for hours because I feel so hideous.  Say one effing thing about inner beauty and I'm unfollowing you.,0,sad,i adore the mornings when i bawl for hours because i feel so hideous  say one effing thing about inner beauty and im unfollowing you,Ahmedabad,31.42,58,Clouds
+2009-05-31 09:26:02,"@Donnette Thank You very much! I'll be ready to write and write, but now seems for nothing, I don't know how to distribute ",0,sad, thank you very much ill be ready to write and write but now seems for nothing i dont know how to distribute ,Jaipur,34.37,42,Clouds
+2009-06-01 20:22:52,"@treesyjo yeah, just go to the county where you live. We got out license in multnomah and got married at the coast! ",4,happy, yeah just go to the county where you live we got out license in multnomah and got married at the coast ,Lucknow,29.99,69,Clouds
+2009-06-05 16:21:42,@euphrosyna reality is always shocking. . . ,0,sad, reality is always shocking   ,Delhi,34.12,51,Clouds
+2009-06-06 16:17:05,@KalebNation my name is Ashley ,4,happy, my name is ashley ,Mumbai,27.72,82,Clouds
+2009-05-29 17:13:38,Eli in the ER  they pricked his finger for blood sugar and he was trying not to cry http://twitpic.com/67z2q,0,sad,eli in the er  they pricked his finger for blood sugar and he was trying not to cry ,Bangalore,23.83,77,Clouds
+2009-05-03 01:30:30,Nooo we leave in 2 hours ,0,sad,nooo we leave in  hours ,Chennai,29.34,81,Clouds
+2009-05-29 14:36:42,@mumalot I corrected myself ,0,sad, i corrected myself ,Kolkata,28.74,81,Clouds
+2009-06-19 15:08:05,shout to the homie @stepheezy for the #ff love. even though she's too cool to follow me ,0,sad,shout to the homie  for the  love even though shes too cool to follow me ,Hyderabad,23.13,89,Clouds
+2009-05-02 12:58:09,Helping out @ Corner Stone tonight ,4,happy,helping out  corner stone tonight ,Pune,24.11,72,Clouds
+2009-06-07 09:57:19,sat listening to the rain tap the window ledge an about to have a shower seen as there is nothin else to do ,4,happy,sat listening to the rain tap the window ledge an about to have a shower seen as there is nothin else to do ,Ahmedabad,31.42,58,Clouds
+2009-05-22 08:03:41,@pjmaybe looking forward to inFamous. 'been trying to get through Mass Effect but I have a feeling it wont get a lookin' soon ,4,happy, looking forward to infamous been trying to get through mass effect but i have a feeling it wont get a lookin soon ,Jaipur,34.37,42,Clouds
+2009-05-30 13:02:27,Exams soon ! ,0,sad,exams soon  ,Lucknow,29.99,69,Clouds
+2009-06-18 17:21:39,listening to eagles call on Catalina Island...they are almost ready to fledge ,0,sad,listening to eagles call on catalina islandthey are almost ready to fledge ,Delhi,34.12,51,Clouds
+2009-05-31 08:30:56,@misshelen20 now I seem to have no pic at all ,0,sad, now i seem to have no pic at all ,Mumbai,27.72,82,Clouds
+2009-06-15 07:23:10,Must now learn english for testpaper tomorrow. BÃ¤Ã¤Ã¤Ã¤hhh  I have wrote Autumn Reeser an email!!!!! Hope she answer me......,0,sad,must now learn english for testpaper tomorrow bhhh  i have wrote autumn reeser an email hope she answer me,Bangalore,23.83,77,Clouds
+2009-06-05 15:13:25,@likestarlight I like this icon. Your eyes are awesome in it ,4,happy, i like this icon your eyes are awesome in it ,Chennai,29.34,81,Clouds
+2009-06-07 15:42:02,&quot;There's a stick thats gonna kill me!&quot; -Emily ,4,happy,quottheres a stick thats gonna kill mequot emily ,Kolkata,28.74,81,Clouds
+2009-06-25 00:59:28,@kyuhyunnie Less games?  Aww...That must be hard for you...,0,sad, less games  awwthat must be hard for you,Hyderabad,23.13,89,Clouds
+2009-04-07 01:12:27,"wake up in Paris, but it's grey ..  need more sun !!",0,sad,wake up in paris but its grey   need more sun ,Pune,24.11,72,Clouds
+2009-04-18 14:54:53,"@aalikesness No doubt, let's make it happen - hit me at fuseboxradio@gmail.com! ",4,happy, no doubt lets make it happen  hit me at fuseboxradiocom ,Ahmedabad,31.42,58,Clouds
+2009-05-30 02:51:19,@Maximilus LOL seems someone put the bulls eye on your back... ushikwapo shikamana ,4,happy, lol seems someone put the bulls eye on your back ushikwapo shikamana ,Jaipur,34.37,42,Clouds
+2009-06-07 16:51:56,@cinemabizarre http://twitpic.com/3tl66 - aww kiro got cut off ,0,sad,   aww kiro got cut off ,Lucknow,29.99,69,Clouds
+2009-06-07 08:36:47,@PerfectEnigma . . . from the frig. . .but im sure i could have just went and told you that in person.   lol,4,happy,    from the frig  but im sure i could have just went and told you that in person   lol,Delhi,34.12,51,Clouds
+2009-05-30 19:13:12,I'm out... *kicks Twitter*  ,0,sad,im out kicks twitter  ,Mumbai,27.72,82,Clouds
+2009-05-30 06:04:43,"@integratedmom R family enjoyed the travel ovr thr, FlagStaff AZ, &amp; the 2 wonders of the world!  They say many r moving thr from CA.",4,happy, r family enjoyed the travel ovr thr flagstaff az amp the  wonders of the world  they say many r moving thr from ca,Bangalore,23.83,77,Clouds
+2009-06-18 20:01:00,"omg, telkomsel BIS is down again! again!!!  thinking of changing provider ",0,sad,omg telkomsel bis is down again again  thinking of changing provider ,Chennai,29.34,81,Clouds
+2009-05-26 23:10:32,most def   hey mr.jackson !,0,sad,most def   hey mrjackson ,Kolkata,28.74,81,Clouds
+2009-06-18 23:25:01,"@MolotovCupcake What type of dog is it? I tried to name my dog (half chow, half lab) Moogle years ago but that got vetoed ",0,sad, what type of dog is it i tried to name my dog half chow half lab moogle years ago but that got vetoed ,Hyderabad,23.13,89,Clouds
+2009-06-22 16:57:59,i have the flu. ,0,sad,i have the flu ,Pune,24.11,72,Clouds
+2009-06-21 03:22:56,still cant sleep    i think im hungry....lol,0,sad,still cant sleep    i think im hungrylol,Ahmedabad,31.42,58,Clouds
+2009-05-03 09:31:43,I'm so glad I got to sleep in  Prom was incredible! ,4,happy,im so glad i got to sleep in  prom was incredible ,Jaipur,34.37,42,Clouds
+2009-06-06 17:25:24,"baking &amp; packinggg, then cristinas staying with me tonight as usualllll, PITTSBURGH in the AM to see my giiiiirlllfriends ",4,happy,baking amp packinggg then cristinas staying with me tonight as usualllll pittsburgh in the am to see my giiiiirlllfriends ,Lucknow,29.99,69,Clouds
+2009-06-15 04:49:22,well just had a minni thunder storm   so scary ok not that scary but hey,0,sad,well just had a minni thunder storm   so scary ok not that scary but hey,Delhi,34.12,51,Clouds
+2009-06-03 05:24:38,"@Jotebro yw, keep the good stuff flowing ",4,happy, yw keep the good stuff flowing ,Mumbai,27.72,82,Clouds
+2009-06-15 19:42:39,&quot;You're so indecisive. Or decisive. I can't decide.&quot; ,4,happy,quotyoure so indecisive or decisive i cant decidequot ,Bangalore,23.83,77,Clouds
+2009-05-31 01:28:31,day trip to Neuchatel ,4,happy,day trip to neuchatel ,Chennai,29.34,81,Clouds
+2009-05-02 05:42:41,Today's a big day ,4,happy,todays a big day ,Kolkata,28.74,81,Clouds
+2009-04-19 02:08:04,"@neilhimself  The weird Coraline cover is the result of CMYK images sent on a RGB way, so it all weirds out.  Just open with Photoshop ",4,happy,  the weird coraline cover is the result of cmyk images sent on a rgb way so it all weirds out  just open with photoshop ,Hyderabad,23.13,89,Clouds
+2009-06-05 10:00:13,"time for a tanning session outside, then shower, then PROM! so excited ",4,happy,time for a tanning session outside then shower then prom so excited ,Pune,24.11,72,Clouds
+2009-06-14 23:44:03,"Well, let's not forget the manaction. Then it's more like 55 minutes. The man action was alright. 6 out of 10, I've seen better ",4,happy,well lets not forget the manaction then its more like  minutes the man action was alright  out of  ive seen better ,Ahmedabad,31.42,58,Clouds
+2009-05-29 23:34:43,@shullygully yeah i watched the game! haha. felt really sleepy throughout the game though. kane must be depressed ,4,happy, yeah i watched the game haha felt really sleepy throughout the game though kane must be depressed ,Jaipur,34.37,42,Clouds
+2009-06-02 12:41:24,i didnt read cuz i felt to yucky so i had a yogut and that just made made me feel more yucky..damn teeth  and now i dont know what to eat,0,sad,i didnt read cuz i felt to yucky so i had a yogut and that just made made me feel more yuckydamn teeth  and now i dont know what to eat,Lucknow,29.99,69,Clouds
+2009-05-29 01:29:34,"@pythons it's a PT cruiser, sort of named itself  sad but moving on to custom skate. Might call it Rolly :p",4,happy, its a pt cruiser sort of named itself  sad but moving on to custom skate might call it rolly p,Delhi,34.12,51,Clouds
+2009-06-06 13:04:35,since I'm all over the map now - Bryan Ferry covering one of my fave Dylan songs  â« http://blip.fm/~7r7ih,4,happy,since im all over the map now  bryan ferry covering one of my fave dylan songs   ,Mumbai,27.72,82,Clouds
+2009-06-07 05:30:36,VISA process for SAUDI is messing up my week. Not sure if I am going to Effat/Jeddah yet!  Over 40 so fingers crossed. ;-),4,happy,visa process for saudi is messing up my week not sure if i am going to effatjeddah yet  over  so fingers crossed ,Bangalore,23.83,77,Clouds
+2009-05-30 22:21:31,@BearTwinsMom thanks sweetie! ,4,happy, thanks sweetie ,Chennai,29.34,81,Clouds
+2009-05-31 19:31:22,@pogue  I was making a play on the term &quot;virtual seminar&quot;,4,happy,  i was making a play on the term quotvirtual seminarquot,Kolkata,28.74,81,Clouds
+2009-06-06 23:44:33,morning tweeple. London is awash with precipitation. ,0,sad,morning tweeple london is awash with precipitation ,Hyderabad,23.13,89,Clouds
+2009-06-07 16:13:29,"still with my mother, i wanna go homee ",0,sad,still with my mother i wanna go homee ,Pune,24.11,72,Clouds
+2009-06-21 09:18:49,@allieraebot r u feeling better? i really hope so..  im sad u were sick...,0,sad, r u feeling better i really hope so  im sad u were sick,Ahmedabad,31.42,58,Clouds
+2009-04-20 23:29:34,just stepped on un chicharrone....crumbs ,0,sad,just stepped on un chicharronecrumbs ,Jaipur,34.37,42,Clouds
+2009-05-30 00:34:36,@JackysPoodle Bless your heart - you're such a good liar and my fragile ego is so thankful   haha! x,4,happy, bless your heart  youre such a good liar and my fragile ego is so thankful   haha x,Lucknow,29.99,69,Clouds
+2009-05-04 04:58:14,"@babygirlparis hope you have a great weekend,Paris ",4,happy, hope you have a great weekendparis ,Delhi,34.12,51,Clouds
+2009-05-01 20:09:25,"aww, man...oh, well - had to work friday anyway ",0,sad,aww manoh well  had to work friday anyway ,Mumbai,27.72,82,Clouds
+2009-06-07 11:47:32,beach trip and a show ,4,happy,beach trip and a show ,Bangalore,23.83,77,Clouds
+2009-05-30 11:00:22,@TessaDare  LOL. Mine is 6 and I know yours are younger and you have 2. Hopefully I'll hit that time before you. ,4,happy,  lol mine is  and i know yours are younger and you have  hopefully ill hit that time before you ,Chennai,29.34,81,Clouds
+2009-05-31 14:51:26,@Footballwife your flower is cool.  I just didn't expect it... lol   THanks for the locator link!   i'm craving ice cream-cookies &amp; cream,4,happy, your flower is cool  i just didnt expect it lol   thanks for the locator link   im craving ice creamcookies amp cream,Kolkata,28.74,81,Clouds
+2009-05-17 11:34:21,And it is coming soon ,4,happy,and it is coming soon ,Hyderabad,23.13,89,Clouds
+2009-06-20 20:19:00,"aw so sweet froz yogey on a frozenass day. . .@Shaboobie &amp; @suupkamo, yall wanna get scooped up? bamfs minus you 2 righ now! ",0,sad,aw so sweet froz yogey on a frozenass day   amp  yall wanna get scooped up bamfs minus you  righ now ,Pune,24.11,72,Clouds
+2009-06-16 08:19:53,Off to bed.  Goodnight ,4,happy,off to bed  goodnight ,Ahmedabad,31.42,58,Clouds
+2009-06-01 19:56:55,"I wish there was a forest trail right outside my house where I could walk, hike, bike, and explore! Buuuut I don't. ",0,sad,i wish there was a forest trail right outside my house where i could walk hike bike and explore buuuut i dont ,Jaipur,34.37,42,Clouds
+2009-06-06 15:39:23,"great night ... drinking beer and watching signs , and i'm HOME ALONE , it's 11:38pm and pitch black outside.... ",0,sad,great night  drinking beer and watching signs  and im home alone  its pm and pitch black outside ,Lucknow,29.99,69,Clouds
+2009-06-01 11:56:09, An effin lightening scared the sh*t out of me!,0,sad, an effin lightening scared the sht out of me,Delhi,34.12,51,Clouds
+2009-05-29 19:18:21,@BambuDePistola Don't worry. They are fresh outta bootcamp and I got me a war vet - there's no comparison ,4,happy, dont worry they are fresh outta bootcamp and i got me a war vet  theres no comparison ,Mumbai,27.72,82,Clouds
+2009-06-01 22:44:07,why did ian leave the cab ,0,sad,why did ian leave the cab ,Bangalore,23.83,77,Clouds
+2009-06-18 21:10:00,sitting -- feet are in pain  from concert..but it was worth it,0,sad,sitting  feet are in pain  from concertbut it was worth it,Chennai,29.34,81,Clouds
+2009-05-29 21:13:45,@Armywife515 Ohhhhhh.....hmmmmm...I think Saturday should be about food!! hahaha...I am not sure..Guess i could start that ,4,happy, ohhhhhhhmmmmmi think saturday should be about food hahahai am not sureguess i could start that ,Kolkata,28.74,81,Clouds
+2009-06-23 12:40:17,"would love some sleep, but no, can't afford it ",0,sad,would love some sleep but no cant afford it ,Hyderabad,23.13,89,Clouds
+2009-05-29 09:14:26,Final exams are over!!!!! All we need to do now is relax and chill ,4,happy,final exams are over all we need to do now is relax and chill ,Pune,24.11,72,Clouds
+2009-06-03 07:31:12,Playin around online  Colds definately do suck !!! Annoyed and about to get up n make lunch,0,sad,playin around online  colds definately do suck  annoyed and about to get up n make lunch,Ahmedabad,31.42,58,Clouds
+2009-06-15 21:22:34,iranian election much more interesting than transcendental idealism ,0,sad,iranian election much more interesting than transcendental idealism ,Jaipur,34.37,42,Clouds
+2009-06-06 02:15:32,@bobbi10100 of course i do  xxx,4,happy, of course i do  xxx,Lucknow,29.99,69,Clouds
+2009-06-21 07:00:04,didn't dare to go in my own room for like 15 minutes just because a freaky lizard was on the blinds. GAHH!! WIMP!!! ,0,sad,didnt dare to go in my own room for like  minutes just because a freaky lizard was on the blinds gahh wimp ,Delhi,34.12,51,Clouds
+2009-06-05 21:44:04,@qillerm flip your flip flops then ,4,happy, flip your flip flops then ,Mumbai,27.72,82,Clouds
+2009-05-14 05:16:35,@holyghost_girl: @2pach?! Well you let him be your bffl  ,0,sad,  well you let him be your bffl  ,Bangalore,23.83,77,Clouds
+2009-05-02 10:23:14,"@barefoot_exec @MariSmith Wow, you two passing in the skies over Chicago....certainly a rainbow will appear....or a bolt of lightening! ",4,happy,  wow you two passing in the skies over chicagocertainly a rainbow will appearor a bolt of lightening ,Chennai,29.34,81,Clouds
+2009-06-18 04:04:49,Just got home ... (from school)... bunch of homeworks again... ,0,sad,just got home  from school bunch of homeworks again ,Kolkata,28.74,81,Clouds
+2009-05-22 07:05:04,"Is not going to San Antonio this time  However, will get to Houston sooner than planned",0,sad,is not going to san antonio this time  however will get to houston sooner than planned,Hyderabad,23.13,89,Clouds
+2009-06-03 09:05:40,is at lunch and time to catch up with things on the social media front... Wednesday work day almost over ,4,happy,is at lunch and time to catch up with things on the social media front wednesday work day almost over ,Pune,24.11,72,Clouds
+2009-05-31 00:15:38,@dungodung I'm all ears ,4,happy, im all ears ,Ahmedabad,31.42,58,Clouds
+2009-05-18 06:44:53,@kerstyn_smith Aw. Love that song. ,4,happy, aw love that song ,Jaipur,34.37,42,Clouds
+2009-05-17 10:35:03,"http://twitpic.com/5dd11 - @DavidT2006 here's a shot of me baps, they don't taste as nice as I thought they would ",0,sad,   heres a shot of me baps they dont taste as nice as i thought they would ,Lucknow,29.99,69,Clouds
+2009-06-16 05:23:57,Rainy day blues.... Wish I wasn't enrolled again at school...  &quot;walang pasok bukas!!!!&quot;,0,sad,rainy day blues wish i wasnt enrolled again at school  quotwalang pasok bukasquot,Delhi,34.12,51,Clouds
+2009-06-06 09:41:34,awake messing around on the computer. gotta work in about an hour ,0,sad,awake messing around on the computer gotta work in about an hour ,Mumbai,27.72,82,Clouds
+2009-04-06 23:57:43,@demib hopefully they are just followers rather than stalkers ,4,happy, hopefully they are just followers rather than stalkers ,Bangalore,23.83,77,Clouds
+2009-06-01 19:06:39,@thekhris you're probably not but you're only one I know that dances in there undies on twitter LOL ,4,happy, youre probably not but youre only one i know that dances in there undies on twitter lol ,Chennai,29.34,81,Clouds
+2009-06-01 01:48:14,@shabzcohelp can I have it ,4,happy, can i have it ,Kolkata,28.74,81,Clouds
+2009-05-30 18:24:16,About to see Up 3d! ,4,happy,about to see up d ,Hyderabad,23.13,89,Clouds
+2009-06-06 10:50:48,What a yucky day  needs to snuggle again...but ur nowhere near  &lt;3,0,sad,what a yucky day  needs to snuggle againbut ur nowhere near  lt,Pune,24.11,72,Clouds
+2009-06-17 03:56:44,@susiebubble Your emails are not working it seems  x,0,sad, your emails are not working it seems  x,Ahmedabad,31.42,58,Clouds
+2009-06-03 02:40:50,@Wossy Woo! Love Hugh Laurie! Have to be watchin the show this week ,4,happy, woo love hugh laurie have to be watchin the show this week ,Jaipur,34.37,42,Clouds
+2009-06-17 23:45:01,So it's official. @TerribleD_UOE hates me because of my gay jokes. My good mood is gone. SAAAAAAAAD ,0,sad,so its official  hates me because of my gay jokes my good mood is gone saaaaaaaad ,Lucknow,29.99,69,Clouds
+2009-06-01 18:19:03,"Overly emotional, tired, and I have a headache. ",0,sad,overly emotional tired and i have a headache ,Delhi,34.12,51,Clouds
+2009-06-19 19:53:40,"I'm hungry.  I'll eat noodles and nothing but noodles, is that bad?",0,sad,im hungry  ill eat noodles and nothing but noodles is that bad,Mumbai,27.72,82,Clouds
+2009-04-20 00:08:12,@ceo08 by switching off tweetdeck and using twhirl ,4,happy, by switching off tweetdeck and using twhirl ,Bangalore,23.83,77,Clouds
+2009-05-30 15:09:50,@AIMEELILY Hey i just want to say that i think you are an amazing performer and thankyou for inspiring me ,4,happy, hey i just want to say that i think you are an amazing performer and thankyou for inspiring me ,Chennai,29.34,81,Clouds
+2009-05-31 02:30:15,Rachel over  stayed last night  out to the park again today ,4,happy,rachel over  stayed last night  out to the park again today ,Kolkata,28.74,81,Clouds
+2009-06-18 09:05:07,"@MissGC : You should!! It's highly recommended!! XD Oh, some people said that @BrianEHanerJr was an impostor ",0,sad,  you should its highly recommended xd oh some people said that  was an impostor ,Hyderabad,23.13,89,Clouds
+2009-06-23 13:02:09,"@alexakim LOL... my bad, accidentally deleted it on my work PC, can't get it back til this evening  bad pic anyhow",0,sad, lol my bad accidentally deleted it on my work pc cant get it back til this evening  bad pic anyhow,Pune,24.11,72,Clouds
+2009-06-17 21:44:47,My hurt just started again inside  thinking about everything makes me wanna go rawr!,0,sad,my hurt just started again inside  thinking about everything makes me wanna go rawr,Ahmedabad,31.42,58,Clouds
+2009-06-05 12:01:59,"@tooclevername to those with hammers, everything looks like a nail!  ",4,happy, to those with hammers everything looks like a nail  ,Jaipur,34.37,42,Clouds
+2009-06-01 13:03:41,@FireMom Taco Pie sounds kind of heavenly ,4,happy, taco pie sounds kind of heavenly ,Lucknow,29.99,69,Clouds
+2009-06-03 01:07:59,@shezzitta thanks for the links to back to life - looking into it right now ,4,happy, thanks for the links to back to life  looking into it right now ,Delhi,34.12,51,Clouds
+2009-06-01 05:09:37,@maych88 : here in Bangalore also ,0,sad,  here in bangalore also ,Mumbai,27.72,82,Clouds
+2009-06-18 18:13:56,mourning because i can never share moose tracks with my best friend ,0,sad,mourning because i can never share moose tracks with my best friend ,Bangalore,23.83,77,Clouds
+2009-05-30 12:02:53,I'm trying to show @chrispirillo how awesome Woopra is! Help me by going to http://www.geekbrief.tv right now! Thanks!! ,4,happy,im trying to show  how awesome woopra is help me by going to  right now thanks ,Chennai,29.34,81,Clouds
+2009-05-09 22:46:42,"THIS IS ORIGINAL FROM YOURS TRULY...  &quot;If you want to become wealthy, learn the things most ppl say they don't have time for&quot; -ME",4,happy,this is original from yours truly  quotif you want to become wealthy learn the things most ppl say they dont have time forquot me,Kolkata,28.74,81,Clouds
+2009-06-05 18:37:43,@djksly what no daily quote?  was lookin fwd to it mami,0,sad, what no daily quote  was lookin fwd to it mami,Hyderabad,23.13,89,Clouds
+2009-06-07 08:12:36,@carloslamona I do too and I miss that. Phone date this week ,4,happy, i do too and i miss that phone date this week ,Pune,24.11,72,Clouds
+2009-06-15 06:21:21,@sociaIIyawkward  Hey lady!  How is your day!  I say little makeup!  I dont like to wear a lot unless I have too!  ,4,happy,  hey lady  how is your day  i say little makeup  i dont like to wear a lot unless i have too  ,Ahmedabad,31.42,58,Clouds
+2009-05-31 16:54:50,@FreddysFingers there's just no place for a little Ninja Bunny in Campbell ,0,sad, theres just no place for a little ninja bunny in campbell ,Jaipur,34.37,42,Clouds
+2009-05-26 22:40:15,"i saw an extremely big insect and when i wanna hit it, it's gone! ",0,sad,i saw an extremely big insect and when i wanna hit it its gone ,Lucknow,29.99,69,Clouds
+2009-06-18 12:13:22,cant wait till westlife cum back am missing them soo soo much  x,0,sad,cant wait till westlife cum back am missing them soo soo much  x,Delhi,34.12,51,Clouds
+2009-06-04 22:47:22,@racingleager thanks for the article on danica ,4,happy, thanks for the article on danica ,Mumbai,27.72,82,Clouds
+2009-06-06 19:34:29,"Checkin out Tropic Thunder and eatin Corn Pops...oh yeah, its a good nite ",4,happy,checkin out tropic thunder and eatin corn popsoh yeah its a good nite ,Bangalore,23.83,77,Clouds
+2009-06-16 23:01:22,Hate it when I find the perfect pair of jeans online only to find that they are $178!!!  makes me sad. Hello! Skinny Jeans are so perfect.,0,sad,hate it when i find the perfect pair of jeans online only to find that they are   makes me sad hello skinny jeans are so perfect,Chennai,29.34,81,Clouds
+2009-04-20 04:14:19,@Edomed hahahahahha...this one is best  hahaha...hope ur doing ok take care,4,happy, hahahahahhathis one is best  hahahahope ur doing ok take care,Kolkata,28.74,81,Clouds
+2009-05-31 07:11:55,Just cleaned my room ,4,happy,just cleaned my room ,Hyderabad,23.13,89,Clouds
+2009-05-29 01:00:56,"I'm saying goodbye to Sydney for a few days, and Hello to Rapeville.... I'll miss pretty ",0,sad,im saying goodbye to sydney for a few days and hello to rapeville ill miss pretty ,Pune,24.11,72,Clouds
+2009-06-03 00:48:21,It feel so good when doing something you like is working  (and making money),4,happy,it feel so good when doing something you like is working  and making money,Ahmedabad,31.42,58,Clouds
+2009-06-02 21:53:15,"@JamesDeen you mean she didn't get you chocolate ice cream, or like...chocolate chip? solves the ice cream &amp; chocolate need ",4,happy, you mean she didnt get you chocolate ice cream or likechocolate chip solves the ice cream amp chocolate need ,Jaipur,34.37,42,Clouds
+2009-06-01 12:29:27,@tylerhilton Thinking about coming to Sweden? ,4,happy, thinking about coming to sweden ,Lucknow,29.99,69,Clouds
+2009-05-14 03:22:20,@GeoffLloyd i've a big crush on her! Find out if her fan's broken for me ,4,happy, ive a big crush on her find out if her fans broken for me ,Delhi,34.12,51,Clouds
+2009-05-18 04:46:57,going to be live blogging the #freshnet session over here -  http://twurl.nl/ynxqkj - hit refresh every now &amp; again ,4,happy,going to be live blogging the  session over here     hit refresh every now amp again ,Mumbai,27.72,82,Clouds
+2009-05-28 22:07:35,@LadyOfDnB so i just got updated with the js blogspot thing... thats so retarded ,0,sad, so i just got updated with the js blogspot thing thats so retarded ,Bangalore,23.83,77,Clouds
+2009-05-30 09:05:24,I have plans for today and friday wiff val n charweee ,4,happy,i have plans for today and friday wiff val n charweee ,Chennai,29.34,81,Clouds
+2009-06-17 02:47:33,good morning babiesss. i don't feel like straightening my hair that takes 45 min. ,0,sad,good morning babiesss i dont feel like straightening my hair that takes  min ,Kolkata,28.74,81,Clouds
+2009-06-16 15:57:01,@davewhittle and by the look of the fog... you won't be coming any time soon! ,0,sad, and by the look of the fog you wont be coming any time soon ,Hyderabad,23.13,89,Clouds
+2009-06-20 21:09:58,"I miss Jordy Wordy  ew, its father's day.",0,sad,i miss jordy wordy  ew its fathers day,Pune,24.11,72,Clouds
+2009-05-30 09:25:29,online marketing Mission Statement or something like that  | psykoid.com http://bit.ly/TV22r,4,happy,online marketing mission statement or something like that   psykoidcom ,Ahmedabad,31.42,58,Clouds
+2009-06-20 12:32:10,Kinda cold to be laying out poolside ,0,sad,kinda cold to be laying out poolside ,Jaipur,34.37,42,Clouds
+2009-06-06 11:15:03,@mileycyrus you can miss out SCOTLAND on your UK tour ,0,sad, you can miss out scotland on your uk tour ,Lucknow,29.99,69,Clouds
+2009-06-25 02:39:53,"i feel bad for my brother... he graduated high school yesterday, but both my parents are here in egypt with me. he was all alone ",0,sad,i feel bad for my brother he graduated high school yesterday but both my parents are here in egypt with me he was all alone ,Delhi,34.12,51,Clouds
+2009-06-06 00:11:11,redeorating my restaurant ,4,happy,redeorating my restaurant ,Mumbai,27.72,82,Clouds
+2009-06-19 21:53:10,Stupid phone got retarded today and now so sad over lost pictures. Bye bye past few weeks... ,0,sad,stupid phone got retarded today and now so sad over lost pictures bye bye past few weeks ,Bangalore,23.83,77,Clouds
+2009-06-05 22:28:14,"happy, sad, excited, nervous, is there a specific name for it other than complicated? huh? oh yea, GRADUATION! ",4,happy,happy sad excited nervous is there a specific name for it other than complicated huh oh yea graduation ,Chennai,29.34,81,Clouds
+2009-06-19 20:34:39,@yunglarry LARRYYYYYY YOU NEVER RESPOND    HAHAHAHAHAHAHAHA,0,sad, larryyyyyy you never respond    hahahahahahahaha,Kolkata,28.74,81,Clouds
+2009-05-10 04:53:04,says good evening plurkess!!! http://tinyurl.com/deg3ve http://plurk.com/p/swfzh,4,happy,says good evening plurkess  ,Hyderabad,23.13,89,Clouds
+2009-06-15 09:22:00,"rode the edge of the storm home, some hail, but as soon as I got through the door, the skys have opened, off to walk the dog in a storm ",4,happy,rode the edge of the storm home some hail but as soon as i got through the door the skys have opened off to walk the dog in a storm ,Pune,24.11,72,Clouds
+2009-05-31 14:44:41,"@simplyamee  that's pretty bummy....  your app was in first, so why don't they push another pup to them?",0,sad,  thats pretty bummy  your app was in first so why dont they push another pup to them,Ahmedabad,31.42,58,Clouds
+2009-06-24 21:39:55,"teary-eyed, hoping my cousin will find the strength to stay alive from cancer.. ",0,sad,tearyeyed hoping my cousin will find the strength to stay alive from cancer ,Jaipur,34.37,42,Clouds
+2009-06-06 09:14:59,&quot;God only gives us 1 life - don't waste it on a loser.&quot;  ,4,happy,quotgod only gives us  life  dont waste it on a loserquot  ,Lucknow,29.99,69,Clouds
+2009-06-02 22:16:42,just played uno and im tired but I dont wanna go to bed ,0,sad,just played uno and im tired but i dont wanna go to bed ,Delhi,34.12,51,Clouds
+2009-06-18 14:18:39,laying down with a horrible headache ,0,sad,laying down with a horrible headache ,Mumbai,27.72,82,Clouds
+2009-05-31 18:14:30,"@PinkBerryGirl yes very true! the food was awesome  got my jumbo onion rings check my twitpic for a pic of them, lol &amp; philly cheesesteak!",4,happy, yes very true the food was awesome  got my jumbo onion rings check my twitpic for a pic of them lol amp philly cheesesteak,Bangalore,23.83,77,Clouds
+2009-04-07 05:54:51,getting to roll out on his 255/70/16's yeaah im a white rapper ,4,happy,getting to roll out on his s yeaah im a white rapper ,Chennai,29.34,81,Clouds
+2009-06-01 06:20:55,"@JasonSco good morning jason! yeah, ME TOO! i went to bed @ 1AM and get up @ 6AM. i'm very tired too  still have a long day ahead tho lol",0,sad, good morning jason yeah me too i went to bed  am and get up  am im very tired too  still have a long day ahead tho lol,Kolkata,28.74,81,Clouds
+2009-06-17 17:22:34,@catts me too ,0,sad, me too ,Hyderabad,23.13,89,Clouds
+2009-06-02 20:29:26,"omg. I haven't been on here in ages  Well, I'm starting to come back slowly but surely. ;3",0,sad,omg i havent been on here in ages  well im starting to come back slowly but surely ,Pune,24.11,72,Clouds
+2009-06-16 04:41:00,"I hate old RM cases, one just bit me ",0,sad,i hate old rm cases one just bit me ,Ahmedabad,31.42,58,Clouds
+2009-05-31 18:14:24,"Congrats @ashleytisdale!  @mileycyrus youll win for Last Song eventually, girl, dont worry!",4,happy,congrats    youll win for last song eventually girl dont worry,Jaipur,34.37,42,Clouds
+2009-05-03 01:10:44,@darker_artic yeah...maybe one day it will pay off.  have a nice day,4,happy, yeahmaybe one day it will pay off  have a nice day,Lucknow,29.99,69,Clouds
+2009-06-03 02:43:58,@lenier you still giving it to the blues tonight tho? i reckon first try decides the game  #origin,4,happy, you still giving it to the blues tonight tho i reckon first try decides the game  ,Delhi,34.12,51,Clouds
+2009-06-21 01:09:27,oh yay torchwood has gone up to 20% its so slow ,0,sad,oh yay torchwood has gone up to  its so slow ,Mumbai,27.72,82,Clouds
+2009-06-04 09:18:17,"@chadxhatred that sounds so redneck. then again, you ARE from kansas! hahaha ",4,happy, that sounds so redneck then again you are from kansas hahaha ,Bangalore,23.83,77,Clouds
+2009-06-06 12:36:31,@AlanCarr lookin forward to chattyman. the book was well  funny!   x,4,happy, lookin forward to chattyman the book was well  funny   x,Chennai,29.34,81,Clouds
+2009-06-05 09:10:40,yessss @Jonasbrothers have done a video for Fly With Me ,4,happy,yessss  have done a video for fly with me ,Kolkata,28.74,81,Clouds
+2009-06-01 06:32:14,"hungry,tired,yet in a great mood! ",4,happy,hungrytiredyet in a great mood ,Hyderabad,23.13,89,Clouds
+2009-06-06 03:14:22,"New tegan &amp; sara video, ROFL! Genius  How is everyone this...not so fine saturday?",4,happy,new tegan amp sara video rofl genius  how is everyone thisnot so fine saturday,Pune,24.11,72,Clouds
+2009-05-10 10:09:34,"At Meg's, Neck Ache From Plugged  xxx",0,sad,at megs neck ache from plugged  xxx,Ahmedabad,31.42,58,Clouds
+2009-05-29 16:05:05,I'm leaving work now. Trying to decide if I return on Sunday afternoon or Monday 4 am to meet a noon (UK time) deadline. ,0,sad,im leaving work now trying to decide if i return on sunday afternoon or monday  am to meet a noon uk time deadline ,Jaipur,34.37,42,Clouds
+2009-05-18 02:52:16,"@danspace Missy Higgins? Ugh, call the police! ",4,happy, missy higgins ugh call the police ,Lucknow,29.99,69,Clouds
+2009-06-01 02:40:10,@jamshedwadia want to shave your head?? ,4,happy, want to shave your head ,Delhi,34.12,51,Clouds
+2009-06-20 11:10:32,@SimonBob Nobody cares about grammar anymore. ,0,sad, nobody cares about grammar anymore ,Mumbai,27.72,82,Clouds
+2009-05-29 10:23:52,"@stephenfry Oooo, Sound's good ",4,happy, oooo sounds good ,Bangalore,23.83,77,Clouds
+2009-05-31 13:20:35,@cassandra2603 God what a cheery chat has he somehow can back into the news ? I know about Vera Drake hmm not pleasant  x,0,sad, god what a cheery chat has he somehow can back into the news  i know about vera drake hmm not pleasant  x,Chennai,29.34,81,Clouds
+2009-06-15 13:13:31,thanks for your support @stevebeasant ,4,happy,thanks for your support  ,Kolkata,28.74,81,Clouds
+2009-06-03 07:21:41,"Awww man, I woke up sick ",0,sad,awww man i woke up sick ,Hyderabad,23.13,89,Clouds
+2009-04-07 01:48:25,"after smoking for 16 years , i have now not had a smoke for 4 weeks and 1 day  woooohooooo happy days",4,happy,after smoking for  years  i have now not had a smoke for  weeks and  day  woooohooooo happy days,Pune,24.11,72,Clouds
+2009-05-10 20:35:21,sooo im up and out! out with my peeps. i can tell its gonna be a early night. wishing i was caked up instead ,0,sad,sooo im up and out out with my peeps i can tell its gonna be a early night wishing i was caked up instead ,Ahmedabad,31.42,58,Clouds
+2009-06-15 07:48:35,"@NoraReed a year ago, after our move, we had tons and tons of packing material. Didn't save any, though ",0,sad, a year ago after our move we had tons and tons of packing material didnt save any though ,Jaipur,34.37,42,Clouds
+2009-06-07 13:29:52,i wanna go to the manchester apollo! ,4,happy,i wanna go to the manchester apollo ,Lucknow,29.99,69,Clouds
+2009-04-07 02:54:27,@fionamccarthy Thanx hun ,4,happy, thanx hun ,Delhi,34.12,51,Clouds
+2009-04-20 02:30:51,@pinkymcsian YES bloody work ,0,sad, yes bloody work ,Mumbai,27.72,82,Clouds
+2009-06-07 15:31:50,"http://twitpic.com/6v42q - Busy day at Genesis Bicycles in Easton, PA. Got in a great ride, now hubby has some shop work to do ",4,happy,  busy day at genesis bicycles in easton pa got in a great ride now hubby has some shop work to do ,Bangalore,23.83,77,Clouds
+2009-06-19 01:27:04,"@shannamoakler http://twitpic.com/7s8p5 - Yeah that's the story of my life, and that pooor puppy ",0,sad,   yeah thats the story of my life and that pooor puppy ,Chennai,29.34,81,Clouds
+2009-06-14 22:36:33,Excuse me @btubquiz - can has interesting question please? Afternoon = bleh  [*nudge nudge* @lexiphanic],0,sad,excuse me   can has interesting question please afternoon  bleh  nudge nudge ,Kolkata,28.74,81,Clouds
+2009-06-16 00:24:17,@bryanchin87 @prakashdaniel I choke on Shisha  Safa still?,0,sad,  i choke on shisha  safa still,Hyderabad,23.13,89,Clouds
+2009-04-19 11:05:49,@xnattsx not top bad thanks  and you?,4,happy, not top bad thanks  and you,Pune,24.11,72,Clouds
+2009-06-18 08:55:09,must get my butt out to see more shows/concerts. Last one I've been to was Spice Girls ,0,sad,must get my butt out to see more showsconcerts last one ive been to was spice girls ,Ahmedabad,31.42,58,Clouds
+2009-06-18 04:24:17,"Oh no, was meant to go to the post office before it closed  hope they don't return my package",0,sad,oh no was meant to go to the post office before it closed  hope they dont return my package,Jaipur,34.37,42,Clouds
+2009-06-06 11:47:55,"@MissMillions lololol...Good afternoon Miss MiL-Li-YONZ  Long night, ay? lol..Hope you're feeling better..",4,happy, lolololgood afternoon miss milliyonz  long night ay lolhope youre feeling better,Lucknow,29.99,69,Clouds
+2009-05-30 15:48:03,"@vampirefreak101 Hey thanks a lot for you coverage in Motepulciano,  congrats girl!!!!  You make me so happy!!! ",4,happy, hey thanks a lot for you coverage in motepulciano  congrats girl  you make me so happy ,Delhi,34.12,51,Clouds
+2009-06-05 22:45:07,"@modus_operandi what is zaceed!? Also, nice tat @markdamgaard. ",4,happy, what is zaceed also nice tat  ,Mumbai,27.72,82,Clouds
+2009-06-17 10:31:52,@thehappyhours I'm so sorry ,0,sad, im so sorry ,Bangalore,23.83,77,Clouds
+2009-05-30 08:21:06,"quote of the day:people maybe won't remember what you said or did, but they will remember how you made them feel... ",4,happy,quote of the daypeople maybe wont remember what you said or did but they will remember how you made them feel ,Chennai,29.34,81,Clouds
+2009-05-29 23:55:06,My favorite part of the Tonight Show w/ Jay Leno is Jaywalking! Loved it! Will miss it! ,0,sad,my favorite part of the tonight show w jay leno is jaywalking loved it will miss it ,Kolkata,28.74,81,Clouds
+2009-05-31 15:23:33,Just got home. About to leave for another grad party ,4,happy,just got home about to leave for another grad party ,Hyderabad,23.13,89,Clouds
+2009-04-20 06:39:48,@zwalkk could you make yourself look like any more of a stoner punk?! sheesh.. let me remind u: 4/20- not a real holiday ,4,happy, could you make yourself look like any more of a stoner punk sheesh let me remind u  not a real holiday ,Pune,24.11,72,Clouds
+2009-05-31 06:50:00,"holy careful cropping, batman!    http://bit.ly/iNjhI",4,happy,holy careful cropping batman    ,Ahmedabad,31.42,58,Clouds
+2009-06-06 14:39:27,"@writinginrain lol, i have too many favorites. thanks tho. ",4,happy, lol i have too many favorites thanks tho ,Jaipur,34.37,42,Clouds
+2009-05-11 23:38:17,"My god this book is like listening to a record on repeat 170,000 times. I GET IT! AID TO AFRICA HASN'T &amp; WON'T HELP. Shut The Fuck Up! .. ",0,sad,my god this book is like listening to a record on repeat  times i get it aid to africa hasnt amp wont help shut the fuck up  ,Lucknow,29.99,69,Clouds
+2009-06-01 01:38:28,@WeirdKidd its never too early or too late ,4,happy, its never too early or too late ,Delhi,34.12,51,Clouds
+2009-05-30 12:38:34,"Ugh,my laptop randomly stopped working...*Panick*-Oh no,what have i done?! ",0,sad,ughmy laptop randomly stopped workingpanickoh nowhat have i done ,Mumbai,27.72,82,Clouds
+2009-06-06 04:57:04,@Mickie_1 thanks ,4,happy, thanks ,Bangalore,23.83,77,Clouds
+2009-06-05 18:45:44,@minamic: Very true. ,4,happy, very true ,Chennai,29.34,81,Clouds
+2009-06-06 20:32:49,hung with the boy. tomorrowwwwwwwww;; seeing Up with emma and Bribear!  i'm so excited.,4,happy,hung with the boy tomorrowwwwwwwww seeing up with emma and bribear  im so excited,Kolkata,28.74,81,Clouds
+2009-06-02 04:51:29,@MissJoJoSmith Aw poor Subo ,0,sad, aw poor subo ,Hyderabad,23.13,89,Clouds
+2009-06-04 12:59:22,@KickingBuckets paul has a huge yin. Like a baby's arm ,0,sad, paul has a huge yin like a babys arm ,Pune,24.11,72,Clouds
+2009-04-18 07:30:34,@LaMisty_Elite the mikey worm! It's a virus. Some kid hacks into ur acct. I don't know how 2 get rid of it! HELP!!! ,0,sad, the mikey worm its a virus some kid hacks into ur acct i dont know how  get rid of it help ,Ahmedabad,31.42,58,Clouds
+2009-05-03 02:42:05,My ppl already at Carribean Fusion... heard its poppin... ,4,happy,my ppl already at carribean fusion heard its poppin ,Jaipur,34.37,42,Clouds
+2009-06-15 13:33:52,@nerdydork LOL! the thing that sucks for me is that I almost got my nose pierced today but I couldn't since i'm not 16 ,0,sad, lol the thing that sucks for me is that i almost got my nose pierced today but i couldnt since im not  ,Lucknow,29.99,69,Clouds
+2009-06-05 18:38:03,@romaiel Not a good time for a relationship.  Maybe a good time for a few flings though. He's young. She's young. They've got years.,4,happy, not a good time for a relationship  maybe a good time for a few flings though hes young shes young theyve got years,Delhi,34.12,51,Clouds
+2009-06-15 11:35:41,still recovering from this weekend.  at least I'm off today...,0,sad,still recovering from this weekend  at least im off today,Mumbai,27.72,82,Clouds
+2009-04-19 07:39:48,Finally done all my coursewrok thank god! Time to chillax ,4,happy,finally done all my coursewrok thank god time to chillax ,Bangalore,23.83,77,Clouds
+2009-06-18 14:35:51,I have got such a sore stomach!!! At home sulking ,0,sad,i have got such a sore stomach at home sulking ,Chennai,29.34,81,Clouds
+2009-05-31 05:10:59,off for a BBQ this aft! ,4,happy,off for a bbq this aft ,Kolkata,28.74,81,Clouds
+2009-06-20 15:39:33,@nantastiic she was in a coma after a car accident ,0,sad, she was in a coma after a car accident ,Hyderabad,23.13,89,Clouds
+2009-06-16 20:52:10,watchen the FRESH PRINCE OF BEL-AIR...still missen da hubby.. ,0,sad,watchen the fresh prince of belairstill missen da hubby ,Pune,24.11,72,Clouds
+2009-05-22 01:45:06,"is asking, does Kris Allen has a Twitter account?  ",4,happy,is asking does kris allen has a twitter account  ,Ahmedabad,31.42,58,Clouds
+2009-05-03 20:46:54,"@tferraro @soverpeck @rhetter ACTUALLY...a potato is a tuber, but it's also known as a root vegetable...hey I'm Irish and know my spuds ",4,happy,   actuallya potato is a tuber but its also known as a root vegetablehey im irish and know my spuds ,Jaipur,34.37,42,Clouds
+2009-06-06 01:39:29,"@NathanFillion im watching slither, its 4:30 am... im gunna have nightmares (worth it though lol great movie ",4,happy, im watching slither its  am im gunna have nightmares worth it though lol great movie ,Lucknow,29.99,69,Clouds
+2009-06-07 06:33:15,New on Etsy: Baseball stud earrings 7$  http://bit.ly/7S33G,4,happy,new on etsy baseball stud earrings   ,Delhi,34.12,51,Clouds
+2009-06-18 09:36:14,Is going home late today after tiring loooooong day of work..... ,0,sad,is going home late today after tiring loooooong day of work ,Mumbai,27.72,82,Clouds
+2009-05-30 23:40:03,@boomx17 hey nothign have you checked out my website yet? ,4,happy, hey nothign have you checked out my website yet ,Bangalore,23.83,77,Clouds
+2009-06-20 21:45:19,Eating dinner with Tubby. He doesn't want any cow's tongue ,0,sad,eating dinner with tubby he doesnt want any cows tongue ,Chennai,29.34,81,Clouds
+2009-06-23 16:11:03,@zara19 I tried convincing my parents but it was no good. They don't want me to have a pet ,0,sad, i tried convincing my parents but it was no good they dont want me to have a pet ,Kolkata,28.74,81,Clouds
+2009-06-15 02:45:29,@3aneeda ma 36ach ma 3a6anee... the QUEEN of online shopping ,4,happy, ma ach ma aanee the queen of online shopping ,Hyderabad,23.13,89,Clouds
+2009-04-19 04:38:33,@sarah_cawood I've fed the rays off Grand Cayman. It was awesome ,4,happy, ive fed the rays off grand cayman it was awesome ,Pune,24.11,72,Clouds
+2009-06-01 19:47:49,JUST ME AND THESE FOUR WALLS AGAIN la la la la la..................... screams! i dont like thunder! ,0,sad,just me and these four walls again la la la la la screams i dont like thunder ,Ahmedabad,31.42,58,Clouds
+2009-05-17 09:56:46,"@kd0bik not great this morning... got a stomach bug and was sick.... but doing better now, just laying in bed reading tweets! ",4,happy, not great this morning got a stomach bug and was sick but doing better now just laying in bed reading tweets ,Jaipur,34.37,42,Clouds
+2009-06-16 16:26:20,"lol @rosiehancock Misunderestimated - whats wrong with that word? Also, been thinking bout your harsh truth and I have to say u are right ",0,sad,lol  misunderestimated  whats wrong with that word also been thinking bout your harsh truth and i have to say u are right ,Lucknow,29.99,69,Clouds
+2009-06-15 02:53:45,@Theprettyartist I undestand the 'vicar types' comment now ,4,happy, i undestand the vicar types comment now ,Delhi,34.12,51,Clouds
+2009-06-01 23:54:30,@lakersnation went 2 the 3rd one in grade7. dat was unforgettable. Maddog was dancing n everything.  i seriously want a parade dis year 2.,4,happy, went  the rd one in grade dat was unforgettable maddog was dancing n everything  i seriously want a parade dis year ,Mumbai,27.72,82,Clouds
+2009-06-02 11:18:21,@catherinequinn9 wasn't doing anything particularly interesting just did the school run with the kiddies haha ,4,happy, wasnt doing anything particularly interesting just did the school run with the kiddies haha ,Bangalore,23.83,77,Clouds
+2009-06-15 04:27:58,Sad I still cant seem to preorder a sim free/payg 3GS. Get the impression because I'm happy with Â£15 p/m instead of Â£30 I'll have to wait ,0,sad,sad i still cant seem to preorder a sim freepayg gs get the impression because im happy with  pm instead of  ill have to wait ,Chennai,29.34,81,Clouds
+2009-06-05 14:55:30,#followfriday wonderwoman @VelcroShoes is seriously the only follow I recommend she's ultra COOL!  enough said FOLLOW HER! ,4,happy, wonderwoman  is seriously the only follow i recommend shes ultra cool  enough said follow her ,Kolkata,28.74,81,Clouds
+2009-06-15 04:44:13,"@onesugarplease had an awesome weekend thanks, lots of miles on the bike!  hope your paella was good ",4,happy, had an awesome weekend thanks lots of miles on the bike  hope your paella was good ,Hyderabad,23.13,89,Clouds
+2009-05-29 13:33:45,Sick daddy  send prayer his way,0,sad,sick daddy  send prayer his way,Pune,24.11,72,Clouds
+2009-06-07 20:00:42,@worshipmeonly haha her reality show was pretty hilarious! ,4,happy, haha her reality show was pretty hilarious ,Ahmedabad,31.42,58,Clouds
+2009-06-15 19:24:24,+ICU+ the countdown begins! This Friday @ the Dragonfly! ICU on da dancefloor ,4,happy,icu the countdown begins this friday  the dragonfly icu on da dancefloor ,Jaipur,34.37,42,Clouds
+2009-06-18 07:56:18,It's raining fucking harrrrrd. ,0,sad,its raining fucking harrrrrd ,Lucknow,29.99,69,Clouds
+2009-06-06 15:50:14,@ work  wanting to be at the fight with the rest of the guys.,0,sad, work  wanting to be at the fight with the rest of the guys,Delhi,34.12,51,Clouds
+2009-05-31 14:31:11,Oooo Kardashians is on twice ,4,happy,oooo kardashians is on twice ,Mumbai,27.72,82,Clouds
+2009-06-23 16:31:11,my sister's friend threw something at her head &amp; now it's bleeding. ,0,sad,my sisters friend threw something at her head amp now its bleeding ,Bangalore,23.83,77,Clouds
+2009-06-07 00:01:28,@tr74fpp Get 100 followers a day using www.tweeteradder.com Once you add everyone you are on the train or pay vip ,4,happy, get  followers a day using wwwtweeteraddercom once you add everyone you are on the train or pay vip ,Chennai,29.34,81,Clouds
+2009-06-03 02:04:55,will get blackberry this sunday !!! ,4,happy,will get blackberry this sunday  ,Kolkata,28.74,81,Clouds
+2009-05-26 21:53:02,The real estate market in Tulare county is so awesome right now!  Lots of buyer's &amp; not enough seller's...that is my problem right now!  ,4,happy,the real estate market in tulare county is so awesome right now  lots of buyers amp not enough sellersthat is my problem right now  ,Hyderabad,23.13,89,Clouds
+2009-05-02 13:11:53,"Ok, apparently BOTH broadcast sites are killing my machine today, so broadcast called off. Sorry. ",0,sad,ok apparently both broadcast sites are killing my machine today so broadcast called off sorry ,Pune,24.11,72,Clouds
+2009-05-30 21:09:15,@annaoboe I feel guilty for stealing your Hart tweet now  I don't think he will actually reply an answer though,0,sad, i feel guilty for stealing your hart tweet now  i dont think he will actually reply an answer though,Ahmedabad,31.42,58,Clouds
+2009-06-18 22:04:00,"great run tonight, now off to bed.. got to get up earlier to do my morning workout.. gonna be a long day tomorrow! got to go back to work ",0,sad,great run tonight now off to bed got to get up earlier to do my morning workout gonna be a long day tomorrow got to go back to work ,Jaipur,34.37,42,Clouds
+2009-06-07 09:23:00,"On my way home, giving twin atlantic a miss. couldnt even get into the courtyard they were in. Thats twice ive missed them now! ",0,sad,on my way home giving twin atlantic a miss couldnt even get into the courtyard they were in thats twice ive missed them now ,Lucknow,29.99,69,Clouds
+2009-06-02 11:51:02,I know I've said this a million times before but...I really wish I wasn't allergic to hair dye ,0,sad,i know ive said this a million times before buti really wish i wasnt allergic to hair dye ,Delhi,34.12,51,Clouds
+2009-06-03 02:18:42,@TheIntriguing1 I think it's more of a respitiry infection ,0,sad, i think its more of a respitiry infection ,Mumbai,27.72,82,Clouds
+2009-06-18 08:51:15,@nadalnews that's awful ,0,sad, thats awful ,Bangalore,23.83,77,Clouds
+2009-05-17 07:12:30,@fromtheold is that like the sequel to Mathematica?  I like a lot of what that guy does.  Seems to be a bona fide genius ,4,happy, is that like the sequel to mathematica  i like a lot of what that guy does  seems to be a bona fide genius ,Chennai,29.34,81,Clouds
+2009-05-30 18:46:51,@KristenLihos want to come for dessert? ,4,happy, want to come for dessert ,Kolkata,28.74,81,Clouds
+2009-06-15 08:04:32,"@persiankiwi are you able to upload?  Otherwise, DM me ",4,happy, are you able to upload  otherwise dm me ,Hyderabad,23.13,89,Clouds
+2009-05-18 00:00:31,This One Is For You - Free Marketing  | MangoOrangeï¿½ http://tinyurl.com/p5nssr,4,happy,this one is for you  free marketing   mangoorange ,Pune,24.11,72,Clouds
+2009-05-30 22:02:02,keep having bad dreams these days...can't sleep well ,0,sad,keep having bad dreams these dayscant sleep well ,Ahmedabad,31.42,58,Clouds
+2009-06-03 00:33:46,someone needs to bring be drugs. i wish to not have a sore throat any longer advil/tylenol seem not not work anymore ,0,sad,someone needs to bring be drugs i wish to not have a sore throat any longer adviltylenol seem not not work anymore ,Jaipur,34.37,42,Clouds
+2009-04-19 03:08:01,"happy at last! I have a picture already here in twitter,,, ",4,happy,happy at last i have a picture already here in twitter ,Lucknow,29.99,69,Clouds
+2009-06-05 17:47:23,@pattiblaine Thanks! I'm trying to be a good patient ,4,happy, thanks im trying to be a good patient ,Delhi,34.12,51,Clouds
+2009-06-16 13:27:37,"Lastnight...FCKING SUCKED. I balled my eyes out. I miss Alex a lot  &amp; Marybeth's a bitch, and no, I'm not cencoring it, &amp; IDGAF.",0,sad,lastnightfcking sucked i balled my eyes out i miss alex a lot  amp marybeths a bitch and no im not cencoring it amp idgaf,Mumbai,27.72,82,Clouds
+2009-06-07 07:31:32,@Edwardo01 awwww what a shame... cant get that picture to work ,0,sad, awwww what a shame cant get that picture to work ,Bangalore,23.83,77,Clouds
+2009-06-15 18:21:53,"@chrisaffair haha, I AM! but beware, its addicting ",4,happy, haha i am but beware its addicting ,Chennai,29.34,81,Clouds
+2009-06-01 09:21:34,"@sweet_exile It really is quite a while!  Oh well, preview next week.",0,sad, it really is quite a while  oh well preview next week,Kolkata,28.74,81,Clouds
+2009-06-23 16:25:10,is really BORED!!!   http://plurk.com/p/13cyrd,0,sad,is really bored   ,Hyderabad,23.13,89,Clouds
+2009-06-21 00:42:23,im trying to convince alexis to stay up with me and ryan... i dont think its working so well! ,0,sad,im trying to convince alexis to stay up with me and ryan i dont think its working so well ,Pune,24.11,72,Clouds
+2009-06-20 04:07:37,@mattfincham OH NO! not Tony  me sad now...,0,sad, oh no not tony  me sad now,Ahmedabad,31.42,58,Clouds
+2009-05-30 06:28:51,@ObsessedDiamond http://www.alexandraburkeofficial.com/forums/ click 'register' and you're away!  Don't forget to introduce yourself!,4,happy,  click register and youre away  dont forget to introduce yourself,Jaipur,34.37,42,Clouds
+2009-05-01 22:48:57,I swear there is something in this house that gives me THE worst headaches. ,0,sad,i swear there is something in this house that gives me the worst headaches ,Lucknow,29.99,69,Clouds
+2009-06-16 11:27:21,@betsymaebartlet hurts even more when it's one of your best friends ,0,sad, hurts even more when its one of your best friends ,Delhi,34.12,51,Clouds
+2009-06-04 08:59:26,@do0dlebugdebz of course! Hehee live the manga. Tho I haven't read all of em'  one of the best shojo's EVER.,4,happy, of course hehee live the manga tho i havent read all of em  one of the best shojos ever,Mumbai,27.72,82,Clouds
+2009-05-29 01:19:32,Thanks to the following for their awesome input: @StealingTheSun @ElizabethJoan @Schonste @ms_treesap @Beaudine  Thank yous &lt;3,4,happy,thanks to the following for their awesome input       thank yous lt,Bangalore,23.83,77,Clouds
+2009-06-07 10:10:09,"@lolitztoeknee Awww, I'm sorry ",0,sad, awww im sorry ,Chennai,29.34,81,Clouds
+2009-05-30 19:20:20,I'm driving my JellyBean and eating them at the same time LOL dassss igggnant but cuuuze ,4,happy,im driving my jellybean and eating them at the same time lol dassss igggnant but cuuuze ,Kolkata,28.74,81,Clouds
+2009-06-19 15:11:47,"#weekofwin I WON 2 sim cards  the blood the pain... I'm upset, feel robbed, but will continue for my search... N97box reviews to come ...",0,sad, i won  sim cards  the blood the pain im upset feel robbed but will continue for my search nbox reviews to come ,Hyderabad,23.13,89,Clouds
+2009-06-17 03:16:30,typical - went home and got changed.  put my rugby jumper on cos i thought it was a bit chilly and now the suns out ,0,sad,typical  went home and got changed  put my rugby jumper on cos i thought it was a bit chilly and now the suns out ,Pune,24.11,72,Clouds
+2009-05-28 23:05:10,@fashionismo ahhhh &quot;Sold Out&quot; ,0,sad, ahhhh quotsold outquot ,Ahmedabad,31.42,58,Clouds
+2009-04-06 23:03:12,23 or 24ï¿½C possible today. Nice ,4,happy, or c possible today nice ,Jaipur,34.37,42,Clouds
+2009-05-18 00:52:46,is wishing you a lovely evening ,4,happy,is wishing you a lovely evening ,Lucknow,29.99,69,Clouds
+2009-06-01 16:03:31,"@FzMcFadden No worries, was looking for some retail activity  Thanks though",4,happy, no worries was looking for some retail activity  thanks though,Delhi,34.12,51,Clouds
+2009-05-30 07:45:20,Stinkin' Rushkies score  1-1,0,sad,stinkin rushkies score  ,Mumbai,27.72,82,Clouds
+2009-06-19 13:41:58,Having way too many issues with my macbook pro. and its been 4 days since i got it.  Going to the store tomorrow.,0,sad,having way too many issues with my macbook pro and its been  days since i got it  going to the store tomorrow,Bangalore,23.83,77,Clouds
+2009-05-14 05:17:35,Finally at homeeeeeeeeeeeeeeeeeee ,4,happy,finally at homeeeeeeeeeeeeeeeeeee ,Chennai,29.34,81,Clouds
+2009-04-18 21:12:22,"@garethb2  That's awesome, much love for the Gareth clan.",4,happy,  thats awesome much love for the gareth clan,Kolkata,28.74,81,Clouds
+2009-06-01 03:59:29,@keza34 @pob34 dont worry  @Dojie likes me really ,4,happy,  dont worry   likes me really ,Hyderabad,23.13,89,Clouds
+2009-06-22 15:43:53,@JenBunnyy i read jon and kate filed divorce papers this afternoon  plus a possible custody battle...i feel so bad for those adorable kids,0,sad, i read jon and kate filed divorce papers this afternoon  plus a possible custody battlei feel so bad for those adorable kids,Pune,24.11,72,Clouds
+2009-05-03 04:00:47,mandy doens't even like noodles! that's insane! ,0,sad,mandy doenst even like noodles thats insane ,Ahmedabad,31.42,58,Clouds
+2009-06-04 08:48:43,Doing my hair with my icky thumb was a challenge. Accidentally banged it and it's started bleeding again ,0,sad,doing my hair with my icky thumb was a challenge accidentally banged it and its started bleeding again ,Jaipur,34.37,42,Clouds
+2009-06-06 22:23:29,"@10rdBen That, Sir Abraham, is a fantastic approach. Thank you. ",4,happy, that sir abraham is a fantastic approach thank you ,Lucknow,29.99,69,Clouds
+2009-06-15 20:31:04,"@hotlantabuzz â¢ *blushing* Me too, me too!!!  Hahahaha",4,happy,  blushing me too me too  hahahaha,Delhi,34.12,51,Clouds
+2009-05-29 10:34:56,"hillsong tom. night, and dad's birthday! i wish i could see him on his bday though. ",0,sad,hillsong tom night and dads birthday i wish i could see him on his bday though ,Mumbai,27.72,82,Clouds
+2009-05-22 00:07:18,hate my sis ,0,sad,hate my sis ,Bangalore,23.83,77,Clouds
+2009-06-01 09:23:34,"@Dribbby me too, its bad isn't it? doing well on your biology?  http://myloc.me/2hBr",4,happy, me too its bad isnt it doing well on your biology  ,Chennai,29.34,81,Clouds
+2009-06-20 18:37:46,I am so stressed ,0,sad,i am so stressed ,Kolkata,28.74,81,Clouds
+2009-05-30 08:02:15,@laurensbite What the....? I am so jealous! Where do we go for coverage? The &quot;go here for details&quot; wasn't clickable   Happy 4 you!!!!,0,sad, what the i am so jealous where do we go for coverage the quotgo here for detailsquot wasnt clickable   happy  you,Hyderabad,23.13,89,Clouds
+2009-06-16 08:25:44,#Haveyouever dated a guy who has a better looking brother...dam this always happens 2 me ,0,sad, dated a guy who has a better looking brotherdam this always happens  me ,Pune,24.11,72,Clouds
+2009-06-05 22:02:39,UP in 3d movie date ,4,happy,up in d movie date ,Ahmedabad,31.42,58,Clouds
+2009-06-16 13:33:11,"@VintageQueen1 ooooh, poor megan.  braces aren't that bad...",0,sad, ooooh poor megan  braces arent that bad,Jaipur,34.37,42,Clouds
+2009-06-15 05:58:52,Damn you bbs there is no parking ,0,sad,damn you bbs there is no parking ,Lucknow,29.99,69,Clouds
+2009-06-16 06:10:44,"After 3 days of Safari 4 it seems as it finally grew up, and Firefox got fat and old ",0,sad,after  days of safari  it seems as it finally grew up and firefox got fat and old ,Delhi,34.12,51,Clouds
+2009-05-30 00:52:48,@SaschaScarpulla i grew up with a siberian husky - spoiled me for life  love the name Valentino ,4,happy, i grew up with a siberian husky  spoiled me for life  love the name valentino ,Mumbai,27.72,82,Clouds
+2009-06-01 04:45:58,Any plans for this weekend? I'm going to Tokyo. YAY! I can't wait for shopping at Forever21!!  Gonna have a girls night. maybe;),4,happy,any plans for this weekend im going to tokyo yay i cant wait for shopping at forever  gonna have a girls night maybe,Bangalore,23.83,77,Clouds
+2009-05-29 17:17:01,"@mitchelmusso, but the previews are still awesome! ",4,happy, but the previews are still awesome ,Chennai,29.34,81,Clouds
+2009-05-30 15:05:54,"At work, protecting the innocent weak from the guilty strong.  ",4,happy,at work protecting the innocent weak from the guilty strong  ,Kolkata,28.74,81,Clouds
+2009-06-02 00:56:14,"@jakeashley http://twitpic.com/6gcq4 - it's freaking awesome,haha love the monacle ",4,happy,   its freaking awesomehaha love the monacle ,Hyderabad,23.13,89,Clouds
+2009-06-18 15:16:32,I think a homeless person took a bath in my mouth while I was sleeping ,0,sad,i think a homeless person took a bath in my mouth while i was sleeping ,Pune,24.11,72,Clouds
+2009-05-22 04:00:09,@JD_Faery battery pushing will be a global phenomenon by 2012 trust me ,4,happy, battery pushing will be a global phenomenon by  trust me ,Ahmedabad,31.42,58,Clouds
+2009-05-30 18:52:23,@erincampos the rain is in the jar. my stupidity included ,0,sad, the rain is in the jar my stupidity included ,Jaipur,34.37,42,Clouds
+2009-05-02 06:30:39,@Lipvixen Did your Curves Lady look like Summer Glau?  Knowing the answer is probably 'no' ,0,sad, did your curves lady look like summer glau  knowing the answer is probably no ,Lucknow,29.99,69,Clouds
+2009-06-15 05:14:24,MMMMM.... i-ceam woo finished the preface of twific production ,4,happy,mmmmm iceam woo finished the preface of twific production ,Delhi,34.12,51,Clouds
+2009-06-15 15:27:34,@TheEllenShow I wish I was in Chicago ,0,sad, i wish i was in chicago ,Mumbai,27.72,82,Clouds
+2009-04-18 15:25:18,@MarianSpier I want to come to the lecture so keep me posted ,4,happy, i want to come to the lecture so keep me posted ,Bangalore,23.83,77,Clouds
+2009-05-31 12:40:30,Busy Busy weekend! Wow! Just finished a cake smash shoot for my son's 2nd birthday this week. Messy fun was had by all ,4,happy,busy busy weekend wow just finished a cake smash shoot for my sons nd birthday this week messy fun was had by all ,Chennai,29.34,81,Clouds
+2009-06-15 04:02:36,@MupNorth better than this place...ew   i just need to ask about the area..i really don't know london...oh also if they allow pets!!! ;),0,sad, better than this placeew   i just need to ask about the areai really dont know londonoh also if they allow pets ,Kolkata,28.74,81,Clouds
+2009-06-03 01:22:25,"i ask ah man why life so boring, if its because we poor ppl. he said YUP WE = NO JOB, NO MONEY = NO LIFE ",0,sad,i ask ah man why life so boring if its because we poor ppl he said yup we  no job no money  no life ,Hyderabad,23.13,89,Clouds
+2009-06-07 16:54:26,"@BondiVet Sean has something for you, make sure he passes it on this week... ",4,happy, sean has something for you make sure he passes it on this week ,Pune,24.11,72,Clouds
+2009-05-28 23:23:00,@smilingme76 haha thanks ,4,happy, haha thanks ,Ahmedabad,31.42,58,Clouds
+2009-05-17 11:41:05,@TJThyne Congrats on the renewal! I'm so excited that I get to keep my &quot;Hodgie&quot; for at least two more years! ,4,happy, congrats on the renewal im so excited that i get to keep my quothodgiequot for at least two more years ,Jaipur,34.37,42,Clouds
+2009-05-26 23:09:49,I'm home. . . . . ,4,happy,im home     ,Lucknow,29.99,69,Clouds
+2009-05-31 07:05:47,Chilling in the garden ,4,happy,chilling in the garden ,Delhi,34.12,51,Clouds
+2009-06-04 22:41:19,"@michiev why, thank you!  ",4,happy, why thank you  ,Mumbai,27.72,82,Clouds
+2009-06-07 14:48:27,"@umado Sadly I didn't have a Fred, or a Barney, or a Betty   Pics will be up on the BBC Cornwall website tomorrow!",0,sad, sadly i didnt have a fred or a barney or a betty   pics will be up on the bbc cornwall website tomorrow,Bangalore,23.83,77,Clouds
+2009-06-02 01:07:04,CL Sweet ,4,happy,cl sweet ,Chennai,29.34,81,Clouds
+2009-05-31 14:08:58,feeling a little crafty. ,4,happy,feeling a little crafty ,Kolkata,28.74,81,Clouds
+2009-06-25 03:24:59,"aww mann, my i-pod ear phones just bummed out. damm u apple!!! ",0,sad,aww mann my ipod ear phones just bummed out damm u apple ,Hyderabad,23.13,89,Clouds
+2009-06-21 02:50:59,@jo_whit  Of course I do.,0,sad,  of course i do,Pune,24.11,72,Clouds
+2009-06-01 06:50:23,Summer of checking out colleges back east for &quot;T&quot;. Graduating class of 2010... Holy shit!  ,0,sad,summer of checking out colleges back east for quottquot graduating class of  holy shit  ,Ahmedabad,31.42,58,Clouds
+2009-06-06 23:41:11,"@wendywings hehe, better than nothing! What did you end up baking? ",4,happy, hehe better than nothing what did you end up baking ,Jaipur,34.37,42,Clouds
+2009-06-18 21:11:04,@sherwinsteel and I still didn't get anything ,0,sad, and i still didnt get anything ,Lucknow,29.99,69,Clouds
+2009-05-31 07:09:45,"@nellleo If you have any Lotus Connections questions, let me know and I can answer them! ",4,happy, if you have any lotus connections questions let me know and i can answer them ,Delhi,34.12,51,Clouds
+2009-04-07 06:49:47,"@Pandaran Coffee, for now!  I probably have enough tequila in my liver to tide me over for a while ",4,happy, coffee for now  i probably have enough tequila in my liver to tide me over for a while ,Mumbai,27.72,82,Clouds
+2009-05-14 07:27:58,I wish today was bagel day ,0,sad,i wish today was bagel day ,Bangalore,23.83,77,Clouds
+2009-05-30 02:15:20,@bethbabezz did you have a good time at the party beth? ,4,happy, did you have a good time at the party beth ,Chennai,29.34,81,Clouds
+2009-06-03 06:40:52,"@tommcfly  Tom, I guess you aren't photogenic, because you live is beautiful, perfect. you surprised me ",4,happy,  tom i guess you arent photogenic because you live is beautiful perfect you surprised me ,Kolkata,28.74,81,Clouds
+2009-06-03 06:48:51,yay new addition to my sims family!! i dont want the baby to grow up ,0,sad,yay new addition to my sims family i dont want the baby to grow up ,Hyderabad,23.13,89,Clouds
+2009-06-02 19:57:38,Hair came out ok...short and sassy ,4,happy,hair came out okshort and sassy ,Pune,24.11,72,Clouds
+2009-06-02 17:32:45,Download Opera Browser Free! Supporting Web Standards   http://bit.ly/w1WIR,4,happy,download opera browser free supporting web standards   ,Ahmedabad,31.42,58,Clouds
+2009-06-07 02:44:23,hungova n feelin very sorry 4 maself!! had a wicked nyt wit the girlies tho! luv them soooooo much ,4,happy,hungova n feelin very sorry  maself had a wicked nyt wit the girlies tho luv them soooooo much ,Jaipur,34.37,42,Clouds
+2009-05-31 11:48:13,@rockinrose theres no such thing as chicargin ,4,happy, theres no such thing as chicargin ,Lucknow,29.99,69,Clouds
+2009-06-01 22:22:06,"siting on my TI lessons and finishing my movie.  peace kids, bless ya ^^",4,happy,siting on my ti lessons and finishing my movie  peace kids bless ya ,Delhi,34.12,51,Clouds
+2009-05-18 04:56:59,"@stepheneyre Also ill, wishing to be at home having tea and soup. ",0,sad, also ill wishing to be at home having tea and soup ,Mumbai,27.72,82,Clouds
+2009-05-02 22:03:57,@KSBong  Scrabbles fun.. pac man makes me nervous to play.. those stupid little ghosts chasing you  are you playing scrabble by yourself?,4,happy,  scrabbles fun pac man makes me nervous to play those stupid little ghosts chasing you  are you playing scrabble by yourself,Bangalore,23.83,77,Clouds
+2009-06-07 15:39:14,All of the rollercoasters I make in rollercoaster tycoon are considered ultra-intense  I'm just too extreme for them...,0,sad,all of the rollercoasters i make in rollercoaster tycoon are considered ultraintense  im just too extreme for them,Chennai,29.34,81,Clouds
+2009-06-17 22:35:37,@augustjoki @ryannielsen Office printer does not work for us- Canon MF4370dn - improperly installed driver error ,0,sad,  office printer does not work for us canon mfdn  improperly installed driver error ,Kolkata,28.74,81,Clouds
+2009-05-26 22:39:42,I've prepared My School Thingy. ,4,happy,ive prepared my school thingy ,Hyderabad,23.13,89,Clouds
+2009-06-06 15:42:10,Feels like shit and can't get any sleep  meh,0,sad,feels like shit and cant get any sleep  meh,Pune,24.11,72,Clouds
+2009-06-01 21:57:12,@jarich The latter ,0,sad, the latter ,Ahmedabad,31.42,58,Clouds
+2009-06-14 22:51:43,@mactavish no worries   I'm told a Twitterific fix is just waiting for Apple to get around to approving it.,4,happy, no worries   im told a twitterific fix is just waiting for apple to get around to approving it,Jaipur,34.37,42,Clouds
+2009-06-07 04:48:31,@DaisyReyes ohh ok! thanks! i'll add you tomorrow! because i'm too lazy to open my ym! hehe! ,4,happy, ohh ok thanks ill add you tomorrow because im too lazy to open my ym hehe ,Lucknow,29.99,69,Clouds
+2009-05-02 05:37:01,@DENISE_RICHARDS you looked beautiful!! ,4,happy, you looked beautiful ,Delhi,34.12,51,Clouds
+2009-05-02 06:47:23,Walk is canceled today       It is pouring in Olive Branch.,0,sad,walk is canceled today       it is pouring in olive branch,Mumbai,27.72,82,Clouds
+2009-06-03 01:24:58,"@girrlonthewing Ha, well you'd be surprised at the things that will keep people busy for hours  and I want a kitty too ",0,sad, ha well youd be surprised at the things that will keep people busy for hours  and i want a kitty too ,Bangalore,23.83,77,Clouds
+2009-05-17 02:04:56,Some dark clouds in #indiavotes #indiavotes09 #India #election : vote bank politics and dynastic politics / sycophants still rules. ,0,sad,some dark clouds in      vote bank politics and dynastic politics  sycophants still rules ,Chennai,29.34,81,Clouds
+2009-06-05 10:22:33,@wolfgnards awesome. Thanks for letting me know. I look forward to getting to know u. I am going to follow u now that I know who u are ,4,happy, awesome thanks for letting me know i look forward to getting to know u i am going to follow u now that i know who u are ,Kolkata,28.74,81,Clouds
+2009-06-19 18:16:30,I left my heart @holdenbeach  Hoping to go back for a couple of days around the fourth,0,sad,i left my heart   hoping to go back for a couple of days around the fourth,Hyderabad,23.13,89,Clouds
+2009-06-06 05:19:48,I wish I had the Sims 3 ,0,sad,i wish i had the sims  ,Pune,24.11,72,Clouds
