@@ -12,8 +12,14 @@ from streamlit_folium import st_folium
 # ==============================
 # CONFIG
 # ==============================
+# ==============================
 load_dotenv()
 API_KEY = os.getenv("OPENWEATHER_API_KEY")
+if not API_KEY:
+    try:
+        API_KEY = st.secrets["OPENWEATHER_API_KEY"]
+    except Exception:
+        API_KEY = None
 
 st.set_page_config(
     page_title="MoodCast — Weather & Mood Intelligence",
